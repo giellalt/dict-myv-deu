@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="myv">
+<e>
+   <lg>
+     <l pos="Po">алга</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">unter</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">ёно</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D,A">auf</t>
+       <t pos="Pr" gov="D,A">über</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">кедьс</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">auf</t>
+       <t pos="Pr" gov="A">in</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">кедьстэ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">von</t>
+       <t pos="Pr" gov="D">bei</t>
+       <t pos="Pr" gov="D">aus</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">кедьсэ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">bei</t>
+       <t pos="Pr" gov="D">auf</t>
+       <t pos="Pr" gov="D">in</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">кис</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">für</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">кувалт</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t>der Länge nach</t>
+       <t pos="Pr">längs</t>
+       <t pos="Pr">länges</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="G">wegen</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">über</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">пелев</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">in</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">пельде</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">von</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">перька</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">um</t>
+       <t>um … herum:</t>
+     
+     <xg><x>кудотнень перька</x>
+       <xt xml:lang="deu">um das Haus herum</xt>
+     </xg>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">таркас</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr">statt</t>
+       <t pos="Pr">anstatt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">туртов</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">für</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">удало</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">hinter</t>
+     
+     <xg><x>кудонть удало</x>
+       <xt xml:lang="deu">hinter dem Haus</xt>
+     </xg>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">удалов</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">hinter</t>
+     
+     <xg><x>кенкш удалов</x>
+       <xt xml:lang="deu">hinter die Tür</xt>
+     </xg>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">эзга</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">durch</t>
+     
+     <xg><x>виренть эзга</x>
+       <xt xml:lang="deu">durch den Wald</xt>
+     </xg>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">эзда</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Adv">von jemandem zu jemandem</t>
+       <t pos="Adv">von etwas zu etwas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">эземс</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="G">statt</t>
+       <t pos="Pr" gov="G">anstatt</t>
+       <t pos="Pr" gov="G">anstelle</t>
+     
+     <xg><x>тонь эземс</x>
+       <xt xml:lang="deu">statt (anstatt) deiner …</xt>
+     </xg>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">экшсэ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">um</t>
+     
+     <xg><x>столь экшсэ</x>
+       <xt xml:lang="deu">um den Tisch</xt>
+     </xg>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">эйс</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">in</t>
+       <t pos="Pr" gov="D">zu</t>
+       <t pos="Pr" gov="A">bis</t>
+       <t pos="Pr" gov="D">bis zu</t>
+    
+     <xg><x>кудонть эйс</x>
+       <xt xml:lang="deu">bis zum Hause</xt>
+     </xg>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">эйстэ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">aus</t>
+     <xg><x>варянть эйстэ</x>
+       <xt xml:lang="deu">aus dem Loch</xt>
+       <xt xml:lang="deu">aus der Öffnung</xt>
+     </xg>
+     <xg><x>кудонть эйстэ</x>
+       <xt xml:lang="deu">aus dem Hause</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">эйсэ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">in</t>
+     
+     <xg><x>веленть эйсэ</x>
+       <xt xml:lang="deu">im Dorf</xt>
+       <xt xml:lang="deu">auf dem Lande</xt>
+     </xg>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">ютков</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">in</t>
+       <t pos="Pr" gov="D">nach</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">юткова</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr">zwischen</t>
+       <t pos="Pr">unter</t>
+     
+     <xg><x>минек юткова</x>
+       <xt xml:lang="deu">zwischen uns</xt>
+     </xg>
+     </tg>
+</mg>
+</e>
+</r>
