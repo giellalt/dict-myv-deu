@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
+<e><lg><l pos="Interj">ций</l></lg><mg><tg xml:lang="deu"><t>lautnachamend</t><t pos="Adv">mit Piepen</t><t pos="Adv">mit Piepsen</t></tg></mg></e>
+<e><lg><l pos="Interj">ций-буй</l></lg><mg><tg xml:lang="deu"><t>lautnachamend</t><t pos="Adv">mit Piepen</t><t pos="Adv">mit Piepsen</t></tg></mg></e>
+<e><lg><l pos="Interj">цютор-цятор</l></lg><mg><tg xml:lang="deu"><t pos="Adv">mit Geknister</t><t pos="Adv">mit Knirschen</t></tg></mg></e>
+<e><lg><l pos="Interj">цётор-цятор</l></lg><mg><tg xml:lang="deu"><t pos="Adv">knirschend</t><t pos="Adv">mit Geknister</t></tg></mg></e>
 <e><lg><l pos="Interj">а</l></lg><mg><tg xml:lang="deu"><t pos="Interj">a</t><t pos="Interj">ach</t><t pos="Interj">ha</t><xg><x>А! Тон тесат</x><xt xml:lang="deu"> Ach! (Ah! Ha!) Du bist hier!</xt></xg><xg><x>А! Понгить.</x><xt xml:lang="deu"> Na! Gefangen! </xt></xg></tg></mg></e>
 <e><lg><l pos="Interj">ага</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> aha! ja!</t><xg><x>мон истя кортан? Ага.</x><xt xml:lang="deu"> Spreche ich richtig? Ja (das stimmt)</xt></xg></tg></mg></e>
 <e><lg><l pos="Interj">адя</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> Gehe! Komm! </t><xg><x>Адя монень инжекс!</x><xt xml:lang="deu"> Komm zu mir zu Besuch!</xt></xg></tg></mg></e>

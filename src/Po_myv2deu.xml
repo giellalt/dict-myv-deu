@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
+<e><lg><l pos="Po">нучк</l></lg><mg><tg xml:lang="deu">
+<t pos="Pr" gov="A">querdurch</t>
+<t pos="Pr" gov="A">querüber</t>
+</tg></mg></e>
+<e><lg><l pos="Po">пачк</l></lg>
+<mg><tg xml:lang="deu"><t pos="Pr" gov="A">durch</t></tg></mg></e>
 <e>
    <lg>
      <l pos="Po">алга</l>
