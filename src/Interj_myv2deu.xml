@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="myv">
+<e><lg><l pos="Interj">а</l></lg><mg><tg xml:lang="deu"><t pos="Interj">a</t><t pos="Interj">ach</t><t pos="Interj">ha</t><xg><x>А! Тон тесат</x><xt xml:lang="deu"> Ach! (Ah! Ha!) Du bist hier!</xt></xg><xg><x>А! Понгить.</x><xt xml:lang="deu"> Na! Gefangen! </xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">ага</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> aha! ja!</t><xg><x>мон истя кортан? Ага.</x><xt xml:lang="deu"> Spreche ich richtig? Ja (das stimmt)</xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">адя</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> Gehe! Komm! </t><xg><x>Адя монень инжекс!</x><xt xml:lang="deu"> Komm zu mir zu Besuch!</xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">адядо</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> Gehen wir! Kommen wir!</t></tg></mg></e>
+<e><lg><l pos="Interj">азë!</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> Geh!</t></tg></mg></e>
+<e><lg><l pos="Interj">азëдо!</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> Geht! Gehen Sie!</t></tg></mg></e>
+<e><lg><l pos="Interj">аська</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> gehe mal; </t><xg><x>аська якака кудов</x><xt xml:lang="deu"> gehe mal nach Hause</xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">ау</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> ho! ha! </t></tg></mg></e>
+<e><lg><l pos="Interj">ах</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> ach! ah! ach! ah! </t></tg></mg></e>
+<e><lg><l pos="Interj">ацор-уцор</l></lg><mg><tg xml:lang="deu"><t pos="Adv">mit Lärm</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Interj">2.<pos>adv</pos> plump, linkisch </t></tg></mg></e>
+<e><lg><l pos="Interj">бах</l></lg><mg><tg xml:lang="deu"><t pos="Interj">bumm!, peng!, plumps!</t></tg></mg></e>
+<e><lg><l pos="Interj">бац</l></lg><mg><tg xml:lang="deu"><t pos="Interj">bums!, bauz!, pardauz!</t></tg></mg></e>
+<e><lg><l pos="Interj">вай</l></lg><mg><tg xml:lang="deu"><t pos="Interj">Ei, ei! Ach! Oh! Wie schade! </t></tg></mg></e>
+<e><lg><l pos="Interj">кшу</l></lg><mg><tg xml:lang="deu"><t pos="Interj">fort, weg </t></tg></mg></e>
+<e><lg><l pos="Interj">пандя</l></lg><mg><tg xml:lang="deu"><t pos="Interj">genug, genügend </t></tg></mg></e>
+<e><lg><l pos="Interj">сюк</l></lg><mg><tg xml:lang="deu"><t pos="Interj">Gruß! Grüß dich!</t></tg></mg></e>
+<e><lg><l pos="Interj">ужо</l></lg><mg><tg xml:lang="deu"><t pos="Interj">Warte!</t></tg></mg></e>
+<e><lg><l pos="Interj">ужодо</l></lg><mg><tg xml:lang="deu"><t pos="Interj">Warten Sie! Wartet!</t></tg></mg></e>
+<e><lg><l pos="Interj">ура</l></lg><mg><tg xml:lang="deu"><t pos="Interj">hurra!</t></tg></mg></e>
+<e><lg><l pos="Interj">ух</l></lg><mg><tg xml:lang="deu"><t pos="Interj">ach! uff!</t></tg></mg></e>
+<e><lg><l pos="Interj">цяр</l></lg><mg><tg xml:lang="deu"><t pos="Interj">krach!</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Interj">2.<pos>adv</pos> gerade, eben</t></tg></mg></e>
+<e><lg><l pos="Interj">цят</l></lg><mg><tg xml:lang="deu"><t pos="Interj">klatsch! plums!</t></tg></mg> <mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Knall</t><t pos="N" gen="n" contlex="s6n">Knirschen</t></tg></mg></e>
+<e><lg><l pos="Interj">цятор</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> knicks! knacks! </t></tg></mg></e>
+<e><lg><l pos="Interj">эрде</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> na, nun; </t><xg><x>эрде ярсадо</x><xt xml:lang="deu"> Na, essen Sie mal</xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">эрь</l></lg><mg><tg xml:lang="deu"><t pos="Interj"> <pos>prtc</pos> wohl//an; los!</t></tg></mg></e>
+<e><lg><l pos="Interj">ярь</l></lg><mg><tg xml:lang="deu"><t pos="Interj">na, nun </t><xg><x>ярь, сак малазон</x><xt xml:lang="deu"> na [nun], komm zu mir;</xt></xg></tg></mg> <mg><range>umgsp</range><tg xml:lang="deu"><t pos="Interj">mal </t><xg><x>азё, ярь, мольть ды киртик</x><xt xml:lang="deu"> geh mal zu ihm und beruhige [stille] ihn</xt></xg></tg></mg></e>
+</r>
