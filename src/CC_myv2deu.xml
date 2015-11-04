@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="myv">
+<e><lg><l pos="CC">но</l></lg><mg><tg xml:lang="deu"><t pos="CC"> aber</t><t pos="CC">sondern (nach der Negation)</t></tg></mg></e>
+<e><lg><l pos="CC">эли</l></lg>
+ <mg><tg xml:lang="deu"><t pos="CC">oder</t></tg></mg>
+<mg><tg xml:lang="deu"><t pos="Adv">wircklich</t></tg></mg>
+</e>
+</r>
