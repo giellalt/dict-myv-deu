@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="myv">
+
+<e><lg><l pos="Pcle" type="Neg">а</l></lg><mg><tg xml:lang="deu"><t pos="Pcle" type="Neg">nicht</t><t pos="Prefix">Präfix un-</t><xg><x>а содан, мезе те истямо</x><xt xml:lang="deu">ich weiß nicht, was soll es bedeuten;</xt></xg> <xg><x>монень а эряви те книгась</x><xt xml:lang="deu">ich brauche dieses Buch nicht;</xt></xg> <xg><x>а молян тов</x><xt xml:lang="deu"> ich gehe dorthin nicht;</xt></xg> <xg><x>а покшке тарка</x><xt xml:lang="deu"> nicht besonders großes Plätzchen;</xt></xg> <xg><x>а изнявикс ломань</x><xt xml:lang="deu">nicht besiegter (unbesiegter) Mensch</xt></xg> <xg><x>а учовикс инже</x><xt xml:lang="deu"> unerwarteter Gast</xt></xg> </tg></mg></e>
+<e><lg><l pos="Pcle" type="Neg">аволь</l></lg><mg><tg xml:lang="deu"><t pos="Pcle" type="Neg">nicht</t> <xg><x>аволь монь</x><xt xml:lang="deu">nicht mein</xt></xg> <xg><x>аволь пиже</x><xt xml:lang="deu">nicht grün</xt></xg></tg></mg> <mg><tg xml:lang="deu"><t pos="Pcle">kein</t> <xg><x>аволь киска, а вергиз</x><xt xml:lang="deu">kein Hund, sondern ein Wolf</xt></xg></tg></mg></e>
+<e><lg><l pos="Pcle" type="Neg">апак</l></lg><mg><tg xml:lang="deu"><t pos="Pcle" type="Neg">nicht</t><t pos="Prefix" type="Neg">un~</t><t pos="Pr" type="Neg">ohne</t> <xg><x>апак учо</x><xt xml:lang="deu"> unerwartet</xt></xg></tg></mg></e>
+<e><lg><l pos="Pcle">аразде</l></lg><mg><tg xml:lang="deu"><t pos="Pcle">denn</t><t pos="Pcle">wirklich?</t><t pos="Pcle">tatsächlich?</t></tg></mg></e>
+<e><lg><l pos="Pcle">гара</l></lg><mg><tg xml:lang="deu"><t pos="Pcle">denn</t> <xg><x>гара сонензэ кемевтеви?</x><xt xml:lang="deu">kann man ihm denn glauben? </xt></xg></tg></mg></e>
+<e><lg><l pos="Pcle">каня</l></lg><mg><tg xml:lang="deu"><t pos="Pcle">aber</t><t pos="Pcle">jedoch</t><t pos="Pcle">doch</t><t pos="Pcle">denn</t></tg></mg></e>
+<e><lg><l pos="Pcle">эно</l></lg><mg><tg xml:lang="deu"><t pos="Pcle">ja</t><t pos="Pcle">jawohl</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Interj">Natürlich!</t></tg></mg></e>
+<e><lg><l pos="Pcle">эрьга</l></lg><mg><tg xml:lang="deu"><t pos="Pcle">also</t><t pos="Pcle">wohlan</t><t pos="Pcle">mal</t> <xg><x>эрьга ванса</x><xt xml:lang="deu">also, sehe ich es mal an!</xt></xg> <xg><x>эрьга морадо</x><xt xml:lang="deu">also, singt mal!</xt></xg></tg></mg></e>
+</r>
