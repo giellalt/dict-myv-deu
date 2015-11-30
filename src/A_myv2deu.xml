@@ -353,7 +353,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> launisch</t>
+       <t pos="A">launisch</t>
        <t pos="A">kapriziös</t>
      </tg>
    </mg>
@@ -752,7 +752,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> augenblicklich</t>
+       <t pos="A">augenblicklich</t>
      </tg>
    </mg>
    <mg>
@@ -1654,7 +1654,7 @@
    </mg>
    <mg><def>übertr.</def>
      <tg xml:lang="deu">
-       <t pos="A"> dürftig</t>
+       <t pos="A">dürftig</t>
        <t pos="A">kümmerlich</t>
        <t pos="A">elend</t>
        <t pos="A">bedauernswert</t>
@@ -2960,7 +2960,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> blutig</t>
+       <t pos="A">blutig</t>
        <t pos="A">blutbedeckt</t>
      </tg>
    </mg>
@@ -3733,8 +3733,8 @@
    <mg>
      <tg xml:lang="deu">
        <t>Garnison(<auxV>s</auxV>)&#x002D;</t>
-       <t pos="A"> Standort&#x002D;</t>
-       <t pos="A"> Besatzungs&#x002D;</t>
+       <t pos="A">Standort&#x002D;</t>
+       <t pos="A">Besatzungs&#x002D;</t>
      </tg>
    </mg>
 </e>
@@ -5325,12 +5325,12 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> gefühllos</t>
+       <t pos="A">gefühllos</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="deu">2.<pos>adv</pos>
-       <t pos="A"> ohnmächtig</t>
+       <t pos="A">ohnmächtig</t>
        <t pos="A">bewusstlos</t>
      </tg>
    </mg>
@@ -6773,7 +6773,7 @@
    <mg>
      <tg xml:lang="deu">
        <t pos="A">Kalender&#x002D;</t>
-       <t pos="A"> kalendarisch </t>
+       <t pos="A">kalendarisch </t>
      </tg>
    </mg>
 </e>
@@ -6784,7 +6784,7 @@
    <mg>
      <tg xml:lang="deu">
        <t pos="A"><field>chem.</field> Kali&#x002D;</t>
-       <t pos="A"> kalihaltig</t>
+       <t pos="A">kalihaltig</t>
      </tg>
    </mg>
 </e>
@@ -9668,7 +9668,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> mechanisch</t>
+       <t pos="A">mechanisch</t>
      </tg>
    </mg>
    <mg>
@@ -10970,7 +10970,7 @@
    <mg>
      <tg xml:lang="deu">
        <t>objektive</t>
-       <t pos="A"> sachliche</t>
+       <t pos="A">sachliche</t>
      </tg>
    </mg>
 </e>
@@ -11718,7 +11718,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> unglücklich</t>
+       <t pos="A">unglücklich</t>
        <t pos="A">Unglücks&#x002D;</t>
      </tg>
    </mg>
@@ -11820,7 +11820,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> dick</t>
+       <t pos="A">dick</t>
        <t pos="A">fett</t>
      </tg>
    </mg>
@@ -13861,7 +13861,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> früh</t>
+       <t pos="A">früh</t>
        <t pos="A">frühzeitig</t>
      </tg>
    </mg>
@@ -16226,8 +16226,8 @@
    <mg>
      <tg xml:lang="deu">
        <t pos="A">ruhig</t>
-       <t pos="A"> still</t>
-       <t pos="A"> gelassen</t>
+       <t pos="A">still</t>
+       <t pos="A">gelassen</t>
        <t pos="A">friedlich</t>
      </tg>
    </mg>
@@ -18140,7 +18140,7 @@
    </mg>
    <mg>
      <tg xml:lang="deu">2.<def>übertr.</def>
-       <t pos="A"> niedergeschlagen</t>
+       <t pos="A">niedergeschlagen</t>
        <t pos="A">bedrückt</t>
      </tg>
    </mg>
@@ -20247,7 +20247,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"> wohlhabend</t>
+       <t pos="A">wohlhabend</t>
        <t pos="A">vermögend</t>
      </tg>
    </mg>
