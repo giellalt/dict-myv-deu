@@ -7176,7 +7176,7 @@
 <e><lg><l pos="N">экспрессия</l></lg><mg><tg xml:lang="deu"><t gen="f">Expression</t> =; <t gen="m">Ausdruck</t> -(e)s; <t gen="f">Ausdruckskraft</t> =</tg></mg></e>
 <e><lg><l pos="N">экспромт</l></lg><mg><tg xml:lang="deu"><t gen="f" contlex="w2f">Improvisation</t> <t gen="f" contlex="w2f">Stegreifdichtung</t></tg></mg></e>
 <e><lg><l pos="N">экстракт</l></lg><mg><tg xml:lang="deu"><t gen="m" contlex="w4m">Extrakt</t> <t gen="m" contlex="s4m">Hauptinhalt</t></tg></mg></e>
-<e><lg><l pos="N">эле</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t gen="m">Saum</t> -(e), Säume; <t gen="m">Schoß</t> -(e)s, Schöße;</tg><xg><x>озамс киньгак элес</x><xt> auf dem Schoß sitzen</x></xg></mg> <mg arabNo="three"><tg xml:lang="deu">Bodenschöße <nb>pl</nb></tg></mg></e>
+<e><lg><l pos="N">эле</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t gen="m">Saum</t> -(e), Säume; <t gen="m">Schoß</t> -(e)s, Schöße;</tg><xg><x>озамс киньгак элес</x><xt> auf dem Schoß sitzen</xt></xg></mg> <mg arabNo="three"><tg xml:lang="deu">Bodenschöße <nb>pl</nb></tg></mg></e>
 <e><lg><l pos="N">элеватор</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>tech.</field> <t gen="m" contlex="w4m">Elevator</t> <t gen="m" contlex="s1m">Aufzug</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t gen="m" contlex="s6m">Getreidespeicher</t> <t gen="m" contlex="AUTOm">Silo</t></tg></mg></e>
 <e><lg><l pos="N">элегия</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>lit.</field> <field>mus.</field> <t gen="f">Elegie</t> =;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t gen="f">Wehmut</t> =; <t gen="f">Melancholie</t> =, li|en</tg></mg></e>
 <e><lg><l pos="N">электризация</l></lg><mg><tg xml:lang="deu"><t gen="f">Elektrisierung</t> =</tg></mg></e>
