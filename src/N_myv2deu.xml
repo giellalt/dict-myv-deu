@@ -463,7 +463,7 @@
 <e><lg><l pos="N">ашо пря цеця</l></lg><mg><tg xml:lang="deu"><field>bot.</field><variants><l_syn>ашола</l_syn></variants></tg></mg></e>
 <e><lg><l pos="N">ашо ривезь</l></lg><mg><tg xml:lang="deu"><field>zool.</field> <t gen="m" contlex="s1m">Weißfuchs</t> </tg></mg></e>
 <e><lg><l pos="N">ашо цивця</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t gen="m">Steinklee</t><t gen="m">Honigklee</t></tg></mg></e>
-<e><lg><l pos="N">ашо</l></lg><mg><tg xml:lang="deu"><rom>II</rom> 1. <pos>sub</pos> <t gen="n">Weiße</t> -es, -n <re>im Ei</re></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>anat.</field> <t gen="n">Weiße</t> -es, -n <re>des Auges<re></tg></mg></e>
+<e><lg><l pos="N">ашо</l></lg><mg><tg xml:lang="deu"><rom>II</rom> 1. <pos>sub</pos> <t gen="n">Weiße</t> -es, -n <re>im Ei</re></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>anat.</field> <t gen="n">Weiße</t> -es, -n <re>des Auges</re></tg></mg></e>
 <e><lg><l pos="N">ашо</l></lg><mg><tg xml:lang="deu"><rom>III</rom> <pos>sub</pos> <i>hist.</i> <t gen="m" contlex="w2m">Weiße</t></tg></mg></e>
 <e><lg><l pos="N">ашо кедь</l></lg><mg><tg xml:lang="deu"><range>umgsp.</range> arbeitsscheuer Mensch </tg></mg></e>
 <e><lg><l pos="N">ашола</l></lg><mg><tg xml:lang="deu"><t gen="f" contlex="w2f">Kamille</t></tg></mg></e>
@@ -7425,4 +7425,8 @@
 <e><lg><l pos="N">чумондыця</l></lg><mg><tg xml:lang="deu"><t pos="N"><pos>part</pos> Ankgeklagte</t></tg></mg> <mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Ankläger</t></tg></mg></e>
 <e><lg><l pos="N">ютыця</l></lg><mg><tg xml:lang="deu"><t pos="N">Vorbeigehende</t></tg></mg></e>
 <e><lg><l pos="N">явовтыця</l></lg> <mg><tg xml:lang="deu"><t pos="N">Teilende</t></tg></mg> <mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Teiler</t></tg></mg> <mg><tg xml:lang="deu"><field>mathem.</field> <t pos="N" gen="m" contlex="w4m">Divisor</t></tg></mg></e>
+<e><lg><l pos="N">шахматсо налксиця</l></lg><mg><tg xml:lang="deu"><t pos="N"><variants><l_syn>шахматист</l_syn></variants></t></tg></mg></e>
+<e><lg><l pos="N">хлопочиця</l></lg><mg><tg xml:lang="deu"><t pos="N">Geschäftige <gen>fm</gen></t></tg></mg></e>
+<e><lg><l pos="N">ульмиця</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Angelnde</t></tg></mg> <mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Fischer</t><t pos="N" gen="m" contlex="s6m">Angler</t></tg></mg></e>
+<e><lg><l pos="N">триця-кастыця</l></lg><mg><tg xml:lang="deu"><t pos="N"><variants><l_syn>триця-ваныця</l_syn></variants> </t></tg></mg></e>
 </r>

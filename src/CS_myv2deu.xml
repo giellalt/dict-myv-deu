@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
+<e><lg><l pos="CS">ли</l></lg><mg><tg xml:lang="deu"><t pos="CS">ob</t></tg></mg></e>
 <e><lg><l pos="CS">хоть</l></lg><mg><tg xml:lang="deu"><t pos="CS">obgleich</t></tg></mg></e>
 <e><lg><l pos="CS">штобу</l></lg><mg><tg xml:lang="deu"><t pos="CS">daß</t><t pos="CS">damit</t></tg></mg></e>
 </r>
