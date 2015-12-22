@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="myv">
+<e><lg><l pos="Prc">авардиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">weinend, schluchzend</t></tg></mg></e>
+<e><lg><l pos="Prc">аймельдиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> nicht standhaft; unsicher</t></tg></mg></e>
+<e><lg><l pos="Prc">андый</l></lg><mg><tg xml:lang="deu"><t><i>part</i><variants><l_syn>андыця</l_syn></variants></t></tg></mg></e>
+<e><lg><l pos="Prc">анелькс</l></lg><mg><tg xml:lang="deu"><t pos="Prc">verwöhnt</t></tg></mg></e>
+<e><lg><l pos="Prc">аравтыця</l></lg><mg><tg xml:lang="deu"><t><i>part theat.</i> aufführend</t></tg></mg></e>
+<e><lg><l pos="Prc">арась</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> nein, nicht </t></tg></mg></e>
+<e><lg><l pos="Prc">арендовиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">pachtend</t></tg></mg></e>
+<e><lg><l pos="Prc">арсиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">denkend; überlegend</t></tg></mg></e>
+<e><lg><l pos="Prc">артыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">färbend; malend</t></tg></mg></e>
+<e><lg><l pos="Prc">аштиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">stehend, sitzend, beiwohnend, liegend</t></tg></mg></e>
+<e><lg><l pos="Prc">баловиця</l></lg><mg><tg xml:lang="deu"><t>unartiges [verzogenes] Kind</t></tg></mg></e>
+<e><lg><l pos="Prc">басиця</l></lg><mg><tg xml:lang="deu"><t pos="A"> gesprächig, redselig; unterhaltend</t></tg></mg></e>
+<e><lg><l pos="Prc">браковиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">von <b>браковамс</b></t></tg></mg></e>
+<e><lg><l pos="Prc">важодиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">arbeitende</t></tg></mg></e>
+<e><lg><l pos="Prc">ваткань</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> von <b>ватксемс</b> </t></tg></mg></e>
+<e><lg><l pos="Prc">защитиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">beschützend, verteidigend</t></tg></mg></e>
+<e><lg><l pos="Prc">кадовиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">zurückgeblieben</t></tg></mg></e>
+<e><lg><l pos="Prc">каштмолиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">schweigend</t></tg></mg><mg><tg xml:lang="deu"><t pos="A">schweigsam, verschweigen, wortkarg</t></tg></mg></e>
+<e><lg><l pos="Prc">керсезь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> ausgeschnitten, zerschnitten, zerkleinert</t></tg></mg></e>
+<e><lg><l pos="Prc">киртязь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> verkürzt, kurzgefast </t></tg></mg></e>
+<e><lg><l pos="Prc">киштезь</l></lg><mg><tg xml:lang="deu"><t pos="Prc">tanzend</t></tg></mg> <mg><tg xml:lang="deu"><t pos="A">lustig, heiter, fröhlich</t></tg></mg></e>
+<e><lg><l pos="Prc">коськезь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> vertrocknet </t></tg></mg></e>
+<e><lg><l pos="Prc">кочкиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">wählend</t></tg></mg></e>
+<e><lg><l pos="Prc">кулыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">sterbend</t></tg></mg></e>
+<e><lg><l pos="Prc">лавгиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">von <b>лавгамс</b>, <b>лабордомс</b></t></tg></mg></e>
+<e><lg><l pos="Prc">лазозь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> gespalten, zweigeteilt </t></tg></mg></e>
+<e><lg><l pos="Prc">лайшиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">beweinend</t></tg></mg></e>
+<e><lg><l pos="Prc">лакировазь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> lackiert; <pos>a</pos> Lack<hyph>//</hyph></t></tg></mg></e>
+<e><lg><l pos="Prc">ледиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">mähend, schneidend</t></tg></mg></e>
+<e><lg><l pos="Prc">лездыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">helfende</t></tg></mg></e>
+<e><lg><l pos="CC">ли</l></lg><mg><tg xml:lang="deu"><t pos="Prc">ob</t></tg></mg> <mg><tg xml:lang="deu"><t>oder </t></tg></mg></e>
+<e><lg><l pos="Prc">лудиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">verzinnend</t></tg></mg></e>
+<e><lg><l pos="Prc">маштозь</l></lg><mg><tg xml:lang="deu"><t pos="Prc">geschickt; gewandt</t></tg></mg></e>
+<e><lg><l pos="Ger">маштозь</l></lg> <mg><tg xml:lang="deu"><t>sachverständig; mit Sachkenntnis; mit Sachverständnis</t></tg></mg></e>
+<e><lg><l pos="Prc">мерьказь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> zerdrückt; zerknüllt; zerknittert</t></tg></mg></e>
+<e><lg><l pos="Prc">микшниця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">verkaufend</t></tg></mg></e>
+<e><lg><l pos="Prc">налксиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">spielend</t></tg></mg></e>
+<e><lg><l pos="Prc">пособиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">helfend</t></tg></mg></e>
+<e><lg><l pos="Prc">пурнавт</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> gesammelt </t></tg></mg></e>
+<e><lg><l pos="Prc">рамиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">kaufend</t></tg></mg></e>
+<e><lg><l pos="Prc">рипакадозь</l></lg><mg><tg xml:lang="deu"><t pos="Prc">verwelkt</t></tg></mg> <mg><tg xml:lang="deu"><t pos="A">schlaff, welk; lax</t></tg></mg></e>
+<e><lg><l pos="Prc">салтозь</l></lg><mg><tg xml:lang="deu"><t pos="Prc">versalzt [versalzen]</t></tg></mg> <mg><tg xml:lang="deu"><t><range>umgsp.</range> übertrieben</t></tg></mg></e>
+<e><lg><l pos="Prc">сёрмас содыця</l></lg><mg><tg xml:lang="deu"><t pos="A"> schriftkundig, lese-und schreibkundig</t></tg></mg></e>
+<e><lg><l pos="Prc">сёрмадозь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> (auf)geschrieben</t></tg></mg></e>
+<e><lg><l pos="Prc">сёрмадыця</l></lg> <mg><tg xml:lang="deu"><t pos="Prc"> schreibend</t></tg></mg></e>
+<e><lg><l pos="Prc">сияждыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> glänzend, strahlend, funkelnd</t></tg></mg></e>
+<e><lg><l pos="Prc">скандалиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">skandalierend</t></tg></mg></e>
+<e><lg><l pos="Prc">совиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">eintretend</t></tg></mg><mg><tg xml:lang="deu"><t><i>kanz.</i> einlaufend [eingehend]</t></tg></mg> <mg><tg xml:lang="deu"><t><field>math.</field> einspringend</t></tg></mg></e>
+<e><lg><l pos="Prc">содазь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> bekannt; berühmt; bestimmt</t></tg></mg></e>
+<e><lg><l pos="Prc">содыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">wissend; erfahren</t></tg></mg><mg><tg xml:lang="deu"><t><pos>a</pos> kundig</t></tg></mg></e>
+<e><lg><l pos="Prc">сёрмас содыця</l></lg><mg><tg xml:lang="deu"><t>gebildeter Mensch</t>; <range>umgsp.</range> <t pos="N" gen="m" contlex="w2m">Schriftkundige</t></tg></mg></e>
+<e><lg><l pos="Prc">сокиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">pflügend</t></tg></mg></e>
+<e><lg><l pos="Prc">сормсезь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> verwelkt</t></tg></mg></e>
+<e><lg><l pos="Prc">стазь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> (zusammen) genäht</t></tg></mg></e>
+<e><lg><l pos="Prc">стувтыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">vergessend</t></tg></mg> <mg><tg xml:lang="deu"><t>vergeßlich</t></tg></mg></e>
+<e><lg><l pos="Prc">стыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">nähend</t></tg></mg></e>
+<e><lg><l pos="Ger">стядо</l></lg><mg><tg xml:lang="deu"><t pos="Ger">stehend</t></tg></mg></e>
+<e><lg><l pos="Prc">сыреждиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> blitzend, funkelnd, sprühend, leuchtend</t></tg></mg></e>
+<e><lg><l pos="Prc">сэредиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">leidend</t></tg></mg> <mg><tg xml:lang="deu"><t><pos>a</pos> krank</t></tg></mg></e>
+<e><lg><l pos="Prc">талакадозь</l></lg><mg><tg xml:lang="deu"><t pos="Prc">aufgeregt; verwirrt, erregt</t></tg></mg> <mg><tg xml:lang="deu"><t><pos>adv</pos> fassungslos; betroffen; bestürzt </t></tg></mg></e>
+<e><lg><l pos="Prc">талнозь</l></lg><mg><tg xml:lang="deu"><t pos="Prc">aufgeregt, beunruhigt</t></tg></mg> <mg><tg xml:lang="deu"><t><pos>a</pos> nervös</t></tg></mg></e>
+<e><lg><l pos="Prc">таргиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">rauchend</t></tg></mg></e>
+<e><lg><l pos="Prc">таргозезь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> geschwollen</t></tg></mg></e>
+<e><lg><l pos="Prc">теезь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> gemacht, getan, geschaffen</t></tg></mg></e>
+<e><lg><l pos="Prc">теиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">etwas machend [bauend]</t></tg></mg></e>
+<e><lg><l pos="Prc">триця-кастыця</l></lg><mg><tg xml:lang="deu"><t><variants><l_syn>триця-ваныця</l_syn></variants> </t></tg></mg></e>
+<e><lg><l pos="Prc">удыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">schlafend</t></tg></mg></e>
+<e><lg><l pos="Prc">уиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">schwimmend</t></tg></mg></e>
+<e><lg><l pos="Prc">ульмиця</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Angelnde</t></tg></mg> <mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Fischer</t>; <t pos="N" gen="m" contlex="s6m">Angler</t></tg></mg></e>
+<e><lg><l pos="Prc">уштыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">heizend</t></tg></mg></e>
+<e><lg><l pos="Prc">хлопочиця</l></lg><mg><tg xml:lang="deu"><t>Geschäftige <gen>fm</gen></t></tg></mg></e>
+<e><lg><l pos="Prc">цидярдыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">aushaltend </t></tg></mg> <mg><tg xml:lang="deu"><t><pos>a</pos> standhaft; fest</t></tg></mg> <mg><tg xml:lang="deu"><t><field>phys.</field> stabil</t></tg></mg></e>
+<e><lg><l pos="Prc">чатьмониця</l></lg><mg><tg xml:lang="deu"><t pos="A">schweigsam; wortkarg; verschwiegen</t></tg></mg> <mg><tg xml:lang="deu"><t>still</t></tg></mg><mg><tg xml:lang="deu"><t pos="Prc"> (still) schweigend</t></tg></mg></e>
+<e><lg><l pos="Prc">чумондыця</l></lg> <mg><tg xml:lang="deu"><t><pos>part.</pos>ankladend</t></tg></mg></e>
+<e><lg><l pos="Prc">шахматсо налксиця</l></lg><mg><tg xml:lang="deu"><t><variants><l_syn>шахматист</l_syn></variants></t></tg></mg></e>
+<e><lg><l pos="Prc">ютыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">vorbeigehend </t></tg></mg></e>
+<e><lg><l pos="Prc">явовтыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">teilend</t></tg></mg></e>
+</r>
