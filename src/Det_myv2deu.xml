@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
+<e><lg><l pos="Det">эсь</l></lg><mg><tg xml:lang="deu"><t pos="Det">sein</t></tg></mg></e>
+<e><lg><l pos="Det">эсень</l></lg><mg><tg xml:lang="deu"><t pos="Det">mein</t></tg><xg><x>эсень койсэ</x><xt>meiner Meinung nach</xt></xg></mg></e>
+<e><lg><l pos="Det">эсеть</l></lg><mg><tg xml:lang="deu"><t pos="Det">dein</t></tg><xg><x>эсеть мельсэ теемс</x><xt>nach deinem Wunsch machen</xt></xg></mg></e>
+<e><lg><l pos="Det">эсензэ</l></lg><mg><tg xml:lang="deu"><t pos="Det">sein</t><t pos="Det">ihr</t></tg></mg></e>
+<e><lg><l pos="Det">эсенек</l></lg><mg><tg xml:lang="deu"><t pos="Det">unser</t></tg></mg></e>
+<e><lg><l pos="Det">эсенк</l></lg><mg><tg xml:lang="deu"><t pos="Det">euer</t></tg></mg></e>
+<e><lg><l pos="Det">эсест</l></lg><mg><tg xml:lang="deu"><t pos="Det">ihr</t></tg></mg></e>
+<e><lg><l pos="Det">эрьва</l></lg> <mg><tg xml:lang="deu"><t pos="Det">Allerlei</t></tg></mg></e>
 <e><lg><l pos="Det">васенце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der (die, das) erste</t></tg></mg></e>
 <e><lg><l pos="Det">ведьгеменце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der Fünfzigste </t></tg></mg></e>
 <e><lg><l pos="Det">вейксэце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der neunte</t></tg></mg></e>
