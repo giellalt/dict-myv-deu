@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="myv">
+<e><lg><l pos="Num">кавксо</l></lg><mg><tg xml:lang="deu"><t pos="Num">acht</t></tg></mg></e>
+<e><lg><l pos="Num">кавксоньгемень</l></lg><mg><tg xml:lang="deu"><t pos="Num">achtzig</t></tg></mg></e>
+<e><lg><l pos="Num">кавксосядт</l></lg><mg><tg xml:lang="deu"><t pos="Num">achthundert</t></tg></mg></e>
+<e><lg><l pos="Num">кавто</l></lg><mg><tg xml:lang="deu"><t pos="Num">zwei</t></tg></mg></e>
+<e><lg><l pos="Num">кавтосядт</l></lg><mg><tg xml:lang="deu"><t pos="Num">zweihundert</t></tg></mg></e>
+<e><lg><l pos="Num">кевейкее</l></lg><mg><tg xml:lang="deu"><t pos="Num">elf</t></tg></mg></e>
+<e><lg><l pos="Num">кевейксэе</l></lg><mg><tg xml:lang="deu"><t pos="Num">neunzehn</t></tg></mg></e>
+<e><lg><l pos="Num">кеветее</l></lg><mg><tg xml:lang="deu"><t pos="Num">fünfzig</t></tg></mg></e>
+<e><lg><l pos="Num">кемгавксово</l></lg><mg><tg xml:lang="deu"><t pos="Num">achtzehn</t></tg></mg></e>
+<e><lg><l pos="Num">кемгавтово</l></lg><mg><tg xml:lang="deu"><t pos="Num">zwölf</t></tg></mg></e>
+<e><lg><l pos="Num">кемголмово</l></lg><mg><tg xml:lang="deu"><t pos="Num">dreizehn</t></tg></mg></e>
+<e><lg><l pos="Num">кемготово</l></lg><mg><tg xml:lang="deu"><t pos="Num">sechzehn</t></tg></mg></e>
+<e><lg><l pos="Num">кемень</l></lg><mg><tg xml:lang="deu"><t pos="Num">zehn</t></tg></mg></e>
+<e><lg><l pos="Num">кемзисемге</l></lg><mg><tg xml:lang="deu"><t pos="Num">siebzehn</t></tg></mg></e>
+<e><lg><l pos="Num">кемнилее</l></lg><mg><tg xml:lang="deu"><t pos="Num">vierzehn</t></tg></mg></e>
+<e><lg><l pos="Num">кодгемень</l></lg><mg><tg xml:lang="deu"><t pos="Num">sechzig</t></tg></mg></e>
+<e><lg><l pos="Num">колмо</l></lg><mg><tg xml:lang="deu"><t pos="Num">drei</t></tg></mg></e>
+<e><lg><l pos="Num">колмосядт</l></lg><mg><tg xml:lang="deu"><t pos="Num">dreihundert</t></tg></mg></e>
+<e><lg><l pos="Num">колоньгемень</l></lg><mg><tg xml:lang="deu"><t pos="Num">dreißig</t></tg></mg></e>
+<e><lg><l pos="Num">кото</l></lg><mg><tg xml:lang="deu"><t pos="Num">sechs</t></tg></mg></e>
+<e><lg><l pos="Num">ниле</l></lg><mg><tg xml:lang="deu"><t pos="Num">vier</t></tg></mg></e>
+<e><lg><l pos="Num">ниленьгемень</l></lg><mg><tg xml:lang="deu"><t pos="Num">vierzig</t></tg></mg></e>
+<e><lg><l pos="Num">нилесядт</l></lg><mg><tg xml:lang="deu"><t pos="Num">vierhundert</t></tg></mg></e>
+<e><lg><l pos="Num">сизьгемень</l></lg><mg><tg xml:lang="deu"><t pos="Num">siebzig</t></tg></mg></e>
+<e><lg><l pos="Num">сисем</l></lg><mg><tg xml:lang="deu"><t pos="Num">sieben</t></tg></mg></e>
+<e><lg><l pos="Num">сисемсядт</l></lg><mg><tg xml:lang="deu"><t pos="Num">siebenhundert</t></tg></mg></e>
+<e><lg><l pos="Num">сядо</l></lg><mg><tg xml:lang="deu"><t pos="Num">hundert</t></tg></mg></e>
+<e><lg><l pos="Num">ве</l></lg><mg><tg xml:lang="deu"><t pos="Num">ein</t><t pos="Num">eins</t></tg></mg></e>
+</r>
