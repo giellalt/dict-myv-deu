@@ -96,11 +96,46 @@
 </e>
 <e>
    <lg>
+     <l pos="Po">лангс</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">auf</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">лангсо</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">auf</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">марто</l>
+   </lg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="D">mit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">пелев</l>
    </lg>
    <mg>
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">in</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="deu">
+       <t pos="Pr" gov="A">gegen</t>
      </tg>
    </mg>
 </e>
