@@ -34,7 +34,7 @@
 <e><lg><l pos="Adv">аноксто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">wach</t></tg></mg></e>
 <e><lg><l pos="Adv">ансяк</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nur</t><t pos="Adv">kaum</t><t pos="Adv">bloß</t><t pos="Adv">erst</t></tg></mg></e>
 <e><lg><l pos="Adv">ара</l></lg><mg><tg xml:lang="deu"><t pos="Adv">denn</t><t pos="Adv">wirklich? wahrhaftig? tatsächlich?</t></tg></mg></e>
-<e><lg><l pos="Adv">арайстэ</l></lg><mg><tg xml:lang="deu"> ohne <gov>A</gov></tg></mg></e>
+<e><lg><l pos="Adv">арайстэ</l></lg><mg><tg xml:lang="deu"> <t pos="Adv">ohne <gov>A</gov></t></tg></mg></e>
 <e><lg><l pos="Adv">ачавкс</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nicht ohne Grund [Ursache]</t><t pos="Adv">nicht umsonst</t></tg></mg></e>
 <e><lg><l pos="Adv">ашолгадомс</l></lg><mg><tg xml:lang="deu"><t pos="Adv">in aller Frühe</t><t pos="Adv">vor Sonnenaufgang</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">rein [weiß] blitzend</t><t pos="Adv">bis zur Weiße</t></tg></mg></e>
 <e><lg><l pos="Adv">ашосто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">rein</t><t pos="Adv">weiß</t></tg></mg></e>
@@ -45,7 +45,7 @@
 <e><lg><l pos="Adv">беднойстэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">ärmlich</t><t pos="Adv">dürftig</t></tg></mg></e>
 <e><lg><l pos="Adv">безобразнойстэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">ausdruckslos</t><t pos="Adv">trocken</t></tg></mg></e>
 <e><lg><l pos="Adv">берть-берть</l></lg><mg><tg xml:lang="deu"><t pos="Adv">watschelnd</t></tg></mg></e>
-<e><lg><l pos="Adv">бертьсэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">:</t><xg><x>бертьсэ ардомс</x> <range>umgsp.</range><xt>traben <val>vi</val> <auxV>h</t><t pos="Adv">s</auxV></xt><xt>trotteln <val>vi</val> <auxV>h</t><t pos="Adv">s</auxV></xt></xg></tg></mg></e>
+<e><lg><l pos="V">бертьсэ ардомс</l></lg><mg><tg xml:lang="deu"><t pos="V"><range>umgsp.</range>traben <val>vi</val> <auxV>h::s</auxV></t><t pos="V">trotteln <val>vi</val> <auxV>h::s</auxV></t></tg></mg></e>
 <e><lg><l pos="Adv">берякс</l></lg><mg><tg xml:lang="deu"><FIXME/><variants><l_syn>беряжа</l_syn></variants></tg></mg></e>
 <e><lg><l pos="Adv">беряньстэ</l></lg><mg><tg xml:lang="deu"><FIXME/><variants><l_syn>беряжа</l_syn></variants></tg></mg></e>
 <e><lg><l pos="Adv">благойстэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">böse</t><t pos="Adv">zornig</t></tg></mg></e>
@@ -63,9 +63,9 @@
 <e><lg><l pos="Adv">вадрясто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">gut</t><t pos="Adv">schön</t></tg></mg></e>
 <e><lg><l pos="Adv">важовсто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">höflich</t><t pos="Adv">freundschaftlich</t></tg></mg></e>
 <e><lg><l pos="Adv">вайгельсэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">laut</t></tg></mg></e>
-<e><lg><l pos="Adv">вакска</l></lg><mg><tg xml:lang="deu"><t pos="Adv">vorbei</t><t pos="Adv">vorüber</t><xg><x>вакска ютамсто</x><xt>im Vorbeigehen</t><t pos="Adv">im Vorübergehen</t><t pos="Adv">vorbei [vorüber]gehend</xt></xg><xg><x>ютамс виренть вакска</x><xt> am Wald vorbeigehen</xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">вакска</l></lg><mg><tg xml:lang="deu"><t pos="Adv">vorbei</t><t pos="Adv">vorüber</t><xg><x>вакска ютамсто</x><xt>im Vorbeigehen</xt><xt pos="Adv">im Vorübergehen</xt><xt pos="Adv">vorbei [vorüber]gehend</xt></xg><xg><x>ютамс виренть вакска</x><xt> am Wald vorbeigehen</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">вакссо</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nebenan</t></tg></mg></e>
-<e><lg><l pos="Adv">валанясто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">glatt</t><xg><x>валанясто кортамс</x><xt> sich einschmeicheln <gov>bei D</gov></xt><xt>lobhudeln <val>vi</val></t><t pos="Adv"><val>vt</val> (j-m</t><t pos="Adv">j-n)</xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">валанясто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">glatt</t><xg><x>валанясто кортамс</x><xt> sich einschmeicheln <gov>bei D</gov></xt><xt>lobhudeln <val>vi::vt</val> (j-m, j-n)</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">валдова</l></lg><mg><tg xml:lang="deu"><t pos="Adv">bei Tageslicht</t><t pos="Adv">vor Anbruch der Dunkenheit</t><xg><x>валске валдова сынек</x><xt> bei Tageslicht</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">валдосто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">hell</t><t pos="Adv">klar</t><t pos="Adv">licht</t></tg></mg></e>
 <e><lg><l pos="Adv">валкасто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nicht eilig</t><t pos="Adv">langsam</t></tg></mg></e>
@@ -83,11 +83,11 @@
 <e><lg><l pos="Adv">вейксэксть</l></lg><mg><tg xml:lang="deu"><t pos="Adv">neunmal</t></tg></mg></e>
 <e><lg><l pos="Adv">вейксэцеде</l></lg><mg><tg xml:lang="deu"><FIXME/><variants><l_syn>вейксэксть</l_syn></variants></tg></mg></e>
 <e><lg><l pos="Adv">вейс</l></lg><mg><tg xml:lang="deu"><t pos="Adv">zusammen</t><t pos="Adv">gemeinschaftlich</t></tg></mg></e>
-<e><lg><l pos="Adv">вейсэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">zusammen</t><t pos="Adv">gemeinsam</t></tg></mg> <mg><tg xml:lang="deu"><t>gleichzeitig <gov>mit D</gov></t></tg></mg></e>
-<e><lg><l pos="Adv">велувсо</l></lg><mg><tg xml:lang="deu"> 1.<variants><l_syn>велув</l_syn></variants> 1.</t><t pos="Adv">2</tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">zugleich</t><t pos="Adv">gleichzeitig</t></tg></mg></e>
+<e><lg><l pos="Adv">вейсэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">zusammen</t><t pos="Adv">gemeinsam</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">gleichzeitig <gov>mit D</gov></t></tg></mg></e>
+<e><lg><l pos="Adv">велувсо</l><variants><l_syn>велув</l_syn></variants> </lg> <mg><tg xml:lang="deu"><t pos="Adv">zugleich</t><t pos="Adv">gleichzeitig</t></tg></mg></e>
 <e><lg><l pos="Adv">вельть</l></lg><mg><tg xml:lang="deu"><t pos="Adv">sehr</t><t pos="Adv">überaus</t><t pos="Adv">höchst</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">immer</t><t pos="Adv">stets</t></tg></mg></e>
 <e><lg><l pos="Adv">венеле</l></lg><mg><tg xml:lang="deu"><t pos="Adv">draußen</t><t pos="Adv">im Freien</t></tg></mg></e>
-<e><lg><l pos="Adv">венелев</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nach außen (hin)</t><t pos="Adv">hinaus</t><xg><x>венелев молемс</x><xt> sich ausleeren</t><t pos="Adv">Stuhl(gang) haben</xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">венелев</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nach außen (hin)</t><t pos="Adv">hinaus</t><xg><x>венелев молемс</x><xt> sich ausleeren</xt><xt pos="Adv">Stuhl(gang) haben</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">верде</l></lg><mg><tg xml:lang="deu"><t pos="Adv">von oben (herab)</t></tg></mg></e>
 <e><lg><l pos="Adv">вере</l></lg><mg><tg xml:lang="deu"><t pos="Adv">hoch</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">oben</t></tg></mg></e>
 <e><lg><l pos="Adv">верев</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nach oben</t></tg></mg></e>
@@ -133,7 +133,7 @@
 <e><lg><l pos="Adv">дикойстэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">wild</t></tg></mg></e>
 <e><lg><l pos="Adv">дирьсэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">klirrend</t></tg></mg></e>
 <e><lg><l pos="Adv">добровольна</l></lg><mg><tg xml:lang="deu"><t pos="Adv">freiwillig</t></tg></mg></e>
-<e><lg><l pos="Adv">добром</l></lg><mg><tg xml:lang="deu"> <i>umgsp</i> im Guten</t><t pos="Adv">ohne Zwang</tg></mg></e>
+<e><lg><l pos="Adv">добром</l></lg><mg><tg xml:lang="deu"><t pos="Adv"><i>umgsp</i> im Guten</t><t pos="Adv">ohne Zwang</t></tg></mg></e>
 <e><lg><l pos="Adv">доволь</l></lg><mg><tg xml:lang="deu"><t pos="Adv">hinreichend</t><t pos="Adv">reichlich</t><t pos="Adv">vollauf</t></tg></mg></e>
 <e><lg><l pos="Adv">домкасто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">(zu)stark</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">allseitig</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">3.fest</t></tg></mg></e>
 <e><lg><l pos="Adv">допрок</l></lg><mg><tg xml:lang="deu"><t pos="Adv">ganz</t><t pos="Adv">gänzlich</t><t pos="Adv">völlig</t></tg></mg></e>
@@ -202,7 +202,7 @@
 <e><lg><l pos="Adv">куроксто</l></lg><mg><tg xml:lang="deu"><FIXME/><variants><l_syn>курок</l_syn></variants></tg></mg></e>
 <e><lg><l pos="Adv">лавшосто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">schwach</t><t pos="Adv">lose</t></tg></mg></e>
 <e><lg><l pos="Adv">ладс</l></lg><mg><tg xml:lang="deu"><t pos="Adv">gut</t><t pos="Adv">schön</t><t pos="Adv">wohl</t></tg></mg></e>
-<e><lg><l pos="Adv">ладсо</l></lg><mg><tg xml:lang="deu"><t pos="Adv">als</t><t pos="Adv">änlich</t><t pos="Adv">analog</t><t pos="Adv">wie</t><xg><x>паро ладсо</x><xt>mit Güte</t><t pos="Adv">gütlich</xt><xt> in aller Güte</xt></xg><xg><x>покш ладсо</x><xt>als Erwachsene <gen>fm</gen></xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">ладсо</l></lg><mg><tg xml:lang="deu"><t pos="Adv">als</t><t pos="Adv">änlich</t><t pos="Adv">analog</t><t pos="Adv">wie</t><xg><x>паро ладсо</x><xt>mit Güte</xt><xt pos="Adv">gütlich</xt><xt> in aller Güte</xt></xg><xg><x>покш ладсо</x><xt>als Erwachsene <gen>fm</gen></xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">ламо</l></lg><mg><tg xml:lang="deu"><t pos="Adv">viel</t></tg></mg></e>
 <e><lg><l pos="Adv">ламоксть</l></lg><mg><tg xml:lang="deu"><t pos="Adv">viele Male</t><t pos="Adv">vielmals</t></tg></mg></e>
 <e><lg><l pos="Adv">ласте</l></lg><mg><tg xml:lang="deu"><t pos="Adv">zu Pferd(e)</t><t pos="Adv">rittlings</t></tg></mg></e>
@@ -217,7 +217,7 @@
 <e><lg><l pos="Adv">малав</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nah</t><t pos="Adv">unweit</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">ungefähr</t><t pos="Adv">zirka</t><t pos="Adv">annähernd</t></tg></mg></e>
 <e><lg><l pos="Adv">малацек</l></lg><mg><tg xml:lang="deu"><t pos="Adv">in einer Reihe</t><t pos="Adv">nebeneinander</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">nebenan</t></tg></mg></e>
 <e><lg><l pos="Adv">манейстэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">klar</t><t pos="Adv">hell</t><t pos="Adv">wolkenlos</t></tg></mg></e>
-<e><lg><l pos="Adv">марямга</l></lg><mg><tg xml:lang="deu"><t pos="Adv">laut</t><t pos="Adv">hörbar</t><xg><x>сонзэ марямга</x><xt> seinem Gehör [Gerücht] nach</t><t pos="Adv">von seinem Hörensagen</xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">марямга</l></lg><mg><tg xml:lang="deu"><t pos="Adv">laut</t><t pos="Adv">hörbar</t><xg><x>сонзэ марямга</x><xt> seinem Gehör [Gerücht] nach</xt><xt pos="Adv">von seinem Hörensagen</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">мезекс</l></lg><mg><tg xml:lang="deu"><t pos="Adv">wozu</t><t pos="Adv">zu welchem Zweck</t></tg></mg></e>
 <e><lg><l pos="Adv">мейле</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nachher</t><t pos="Adv">später</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">dann</t><t pos="Adv">nachher</t><t pos="Adv">hernach</t><xg><x>занятиядо мейле</x><xt> nach dem Untericht</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">мейс</l></lg><mg><tg xml:lang="deu"><t pos="Adv">wozu</t><t pos="Adv">zu welchem Zweck</t><t pos="Adv">warum</t><t pos="Adv">weshalb</t><t pos="Adv">weswegen</t></tg></mg></e>
@@ -248,7 +248,7 @@
 <e><lg><l pos="Adv">одов</l></lg><mg><tg xml:lang="deu"><t pos="Adv">von neuem</t><t pos="Adv">wieder</t><t pos="Adv">nochmals</t><t pos="Adv">erneut</t><t pos="Adv">aufs neue</t><t pos="Adv">abermals</t></tg></mg></e>
 <e><lg><l pos="Adv">одс</l></lg><mg><tg xml:lang="deu"><FIXME/><variants><l_syn>одов</l_syn></variants></tg></mg></e>
 <e><lg><l pos="Adv">одсто</l></lg><mg><tg xml:lang="deu"><t pos="Adv">in jungen Jahren</t><t pos="Adv">in der Jugend</t></tg></mg></e>
-<e><lg><l pos="Adv">озадо</l></lg><mg><tg xml:lang="deu"> sitzend</t><t pos="Adv">Sitz<hyph>//</hyph></tg></mg></e>
+<e><lg><l pos="Adv">озадо</l></lg><mg><tg xml:lang="deu"><t pos="Adv">sitzend</t><t pos="Adv">Sitz<hyph>//</hyph></t></tg></mg></e>
 <e><lg><l pos="Adv">окойники</l></lg><mg><tg xml:lang="deu"><t pos="Adv">endlich</t><t pos="Adv">letzten Endes</t><t pos="Adv">schließlich</t><t pos="Adv">zu guter Letzt</t></tg></mg></e>
 <e><lg><l pos="Adv">омбонь кирда</l></lg><mg><tg xml:lang="deu"><t pos="Adv">zum zweitenmal</t><t pos="Adv">abermals</t><t pos="Adv">nochmals</t></tg></mg></e>
 <e><lg><l pos="Adv">организованна</l></lg><mg><tg xml:lang="deu"><t pos="Adv">organisiert</t><t pos="Adv">diszipliniert</t></tg></mg></e>
@@ -261,9 +261,9 @@
 <e><lg><l pos="Adv">паряк</l></lg><mg><tg xml:lang="deu"><t pos="Adv">möglich</t><t pos="Adv">vielleicht</t><t pos="Adv">wahrscheinlich</t><t pos="Adv">es kann sein</t></tg></mg></e>
 <e><lg><l pos="Adv">пачк</l></lg><mg><tg xml:lang="deu"><t pos="Adv">durch</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">sehr</t><t pos="Adv">zu</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">immer</t></tg></mg></e>
 <e><lg><l pos="Adv">педе-пев</l></lg><mg><tg xml:lang="deu"><t pos="Adv">von Anfang an bis Ende</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">kreuz und quer</t></tg></mg></e>
-<e><lg><l pos="Adv">пенчень-пенч</l></lg><mg><tg xml:lang="deu"><t pos="Adv">löffelweise</t></tg></mg> <mg><range>umgspr.</range><tg xml:lang="deu"> sehr langsam</t><t pos="Adv">zögernd</t><t pos="Adv">in kleinen Dosen </tg></mg></e>
+<e><lg><l pos="Adv">пенчень-пенч</l></lg><mg><tg xml:lang="deu"><t pos="Adv">löffelweise</t></tg></mg> <mg><range>umgspr.</range><tg xml:lang="deu"><t pos="Adv">sehr langsam</t><t pos="Adv">zögernd</t><t pos="Adv">in kleinen Dosen </t></tg></mg></e>
 <e><lg><l pos="Adv">перть пельга</l></lg><mg><tg xml:lang="deu"><t pos="Adv">ringsum</t><t pos="Adv">ringsherum</t><t pos="Adv">ringsumher</t></tg></mg></e>
-<e><lg><l pos="Adv">петерь-петерь</l></lg><mg><tg xml:lang="deu"><t pos="Adv">:</t><xg><x>петерь-петерь ютамс</x><xt>leicht regnen</xt><xt>tropfen <val>vi</val> <auxV>h</t><t pos="Adv">s</auxV></xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">петерь-петерь</l></lg><mg><tg xml:lang="deu"><t pos="Adv">:</t><xg><x>петерь-петерь ютамс</x><xt>leicht regnen</xt><xt>tropfen <val>vi</val> <auxV>h::s</auxV></xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">петерьсэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">verhageln</t><t pos="Adv">mit Hagel</t></tg></mg></e>
 <e><lg><l pos="Adv">пецек</l></lg><mg><tg xml:lang="deu"><t pos="Adv">nacheinander</t></tg></mg></e>
 <e><lg><l pos="Adv">письверек</l></lg><mg><tg xml:lang="deu"><t pos="Adv">:</t><xg><x>письверек ал</x><xt> ein weiches [weichgekochtes] Ei</xt></xg></tg></mg></e>
@@ -306,7 +306,7 @@
 <e><lg><l pos="Adv">семс</l></lg><mg><tg xml:lang="deu"><t pos="Adv">bis jetzt</t><t pos="Adv">bislang</t><t pos="Adv">bisher</t></tg></mg></e>
 <e><lg><l pos="Adv">серьёзнойстэ</l></lg><mg><tg xml:lang="deu"><FIXME/><variants><l_syn>серьёзной</l_syn></variants></tg></mg></e>
 <e><lg><l pos="Adv">сестэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">damals</t><t pos="Adv">da</t><t pos="Adv">dann</t></tg></mg></e>
-<e><lg><l pos="Adv">сесэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">dort</t><t pos="Adv">da</t><xg><x>косо качамо</t><t pos="Adv">сесэ толгак</x><xt> kein Rauch ohne Feuer</xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">сесэ</l></lg><mg><tg xml:lang="deu"><t pos="Adv">dort</t><t pos="Adv">da</t><xg><x>косо качамо, сесэ толгак</x><xt> kein Rauch ohne Feuer</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">сёторсо</l></lg><mg><tg xml:lang="deu"><t pos="Adv">mit Knirschen</t><xg><x>сёторсо прась чувтось</x><xt> das Baum ist mit Knirschen gefallen</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">сквернойстэ</l></lg><mg><tg xml:lang="deu"><FIXME/><variants><l_syn>скверной</l_syn></variants></tg></mg></e>
 <e><lg><l pos="Adv">скромнойстэ</l></lg><mg><tg xml:lang="deu"><FIXME/><variants><l_syn>скромной</l_syn></variants></tg></mg></e>
