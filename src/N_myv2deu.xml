@@ -31,7 +31,7 @@
 <e><lg><l pos="N">аваньксчи</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Schmutz</t><t pos="N" gen="m">Dreck</t></tg></mg></e>
 <e><lg><l pos="N">авань кудо</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Elternhaus</t></tg></mg></e>
 <e><lg><l pos="N">авардема</l><drvg><inflect type="V»N"/></drvg></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG">Weinen</t><t pos="N" gen="n" contlex="s6n-SG">Schluchzen</t></tg></mg></e>
-<e><lg><l pos="N">авария</l></lg><mg><tg xml:lang="deu">Havari [-va-] <gen>f</gen> =, -n [-vare/en]; <def>übertr.</def> <t pos="N" gen="m" contlex="s1m">Unfall</t></tg></mg></e>
+<e><lg><l pos="N">авария</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Havari</t><t pos="N" gen="m" def="übertr." contlex="s1m">Unfall</t></tg></mg></e>
 <e><lg><l pos="N">аварьган</l></lg><mg><tg xml:lang="deu"><variants><l_syn>аварькай</l_syn></variants></tg></mg></e>
 <e><lg><l pos="N">аварькай</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Greiner</t> <t pos="N" gen="m">Tränenbeutel</t><t pos="N" gen="f" contlex="w2f">Tränensuse</t></tg></mg></e>
 <e><lg><l pos="N">аварькай тикше</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="m" contlex="s4m">Weiderich</t></tg></mg></e>
@@ -41,7 +41,7 @@
 <e><lg><l pos="N">аватеште</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="f" contlex="s3f">Nieswurz</t></tg></mg></e>
 <e><lg><l pos="N">ават-тейтерть</l></lg><mg><tg xml:lang="deu">Mutter und Tochter</tg></mg></e>
 <e><lg><l pos="N">ават-цёрат</l></lg><mg><tg xml:lang="deu">Mutter und Sohn</tg></mg></e>
-<e><lg><l pos="N">август</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">August</t></tg></mg></e>
+<e><lg><l pos="N">август</l><variants><l_syn>умарьков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">August</t></tg></mg></e>
 <e><lg><l pos="N">авиазавод</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Flugzeugfabrik</t> <t pos="N" gen="n" contlex="s4n">Flugzeugwerk</t></tg></mg></e>
 <e><lg><l pos="N">авианосец</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Flugzeugträger</t></tg></mg></e>
 <e><lg><l pos="N">авиапочта</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Luftpost</t></tg></mg></e>
@@ -103,7 +103,7 @@
 <e><lg><l pos="N">ажия</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Deichselbaum</t> <t pos="N" gen="f" contlex="w2f">Deichselgabel</t></tg></mg></e>
 <e><lg><l pos="N">азаргалема</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Raserei</t> <t pos="N" gen="f" contlex="w2f">Tollheit</t> <t pos="N" gen="m">Radau</t></tg></mg></e>
 <e><lg><l pos="N">азарсь тикше</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Bilsenkraut</t></tg></mg></e>
-<e><lg><l pos="N">азарсьчи</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Raserei</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Wut</t></tg></mg></e>
+<e><lg><l pos="N">азарсьчи</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Raserei</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Wut</t></tg></mg></e>
 <e><lg><l pos="N">азарт</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Eifer</t></tg></mg></e>
 <e><lg><l pos="N">азбука</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Alphabet</t> <t pos="N" gen="n" contlex="s4n">Abc</t></tg></mg></e>
 <e><lg><l pos="N">азгондема</l><drvg><inflect type="V»N"/></drvg></lg><mg><tg xml:lang="deu">von <b>азгондемс</b> </tg></mg></e>
@@ -137,7 +137,7 @@
 <e><lg><l pos="N">аксунчи</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Laune</t> <t pos="N" gen="f" contlex="w2f">Grille</t></tg></mg></e>
 <e><lg><l pos="N">аксялкс</l></lg><mg><tg xml:lang="deu">ein Platz unter der Bank</tg></mg></e>
 <e><lg><l pos="N">акт</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Akt</t> <t pos="N" gen="f" contlex="w2f">Tat</t></tg></mg></e>
-<e><lg><l pos="N">актер</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s6m">Schauspieler</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="w2m">Komödiant</t></tg></mg></e>
+<e><lg><l pos="N">актер</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s6m">Schauspieler</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="w2m">Komödiant</t></tg></mg></e>
 <e><lg><l pos="N">актив</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Aktiv</t> </tg></mg></e>
 <e><lg><l pos="N">активист</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Aktivist</t></tg></mg></e>
 <e><lg><l pos="N">актриса</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="sBÄRINf">Schauspielerin</t></tg></mg></e>
@@ -301,7 +301,7 @@
 <e><lg><l pos="N">аппаратура</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Apparatur</t></tg></mg></e>
 <e><lg><l pos="N">аппендикс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Appendix</t></tg></mg></e>
 <e><lg><l pos="N">аппетит</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Appetit</t></tg></mg></e>
-<e><lg><l pos="N">апрель</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">April</t> = u -s, -e</tg></mg></e>
+<e><lg><l pos="N">апрель</l><variants><l_syn>чадыков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">April</t> = u -s, -e</tg></mg></e>
 <e><lg><l pos="N">апсордамо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>апсордамс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Griff</t></tg></mg></e>
 <e><lg><l pos="N">аптека</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Apotheke</t></tg></mg></e>
 <e><lg><l pos="N">аптюк</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Dummkopf</t> <t pos="N" gen="m" contlex="w2m">Narr</t> </tg></mg></e>
@@ -317,7 +317,7 @@
 <e><lg><l pos="N">аргумент</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Argument</t></tg></mg></e>
 <e><lg><l pos="N">ардома</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Gang</t> -(e)s; <t pos="N" gen="m">Lauf</t></tg></mg></e>
 <e><lg><l pos="N">ардыця</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Reiter</t> <t pos="N" gen="m">Autofahrer</t><t pos="N" gen="m">Radfahrer</t></tg></mg></e>
-<e><lg><l pos="N">арена</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f">Arena</t> =, -nen;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s4m">Bereich</t></tg></mg></e>
+<e><lg><l pos="N">арена</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f">Arena</t> =, -nen;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Bereich</t></tg></mg></e>
 <e><lg><l pos="N">аренда</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Pacht</t> </tg></mg></e>
 <e><lg><l pos="N">арендатор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Pächter</t></tg></mg></e>
 <e><lg><l pos="N">арендовамо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>арендовамс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Pachtung</t></tg></mg></e>
@@ -335,7 +335,7 @@
 <e><lg><l pos="N">армада</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Armada</t> =, -den</tg></mg></e>
 <e><lg><l pos="N">арматура</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Armatur</t> <t pos="N" gen="n">Zubehör</t> <gen>m</gen>-(e)s, -e; <t pos="N" gen="f" contlex="w2f">Ausrüstung</t> </tg></mg></e>
 <e><lg><l pos="N">армия</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Armee</t> =, -meen</tg></mg></e>
-<e><lg><l pos="N">армотькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Narbe</t> <t pos="N" gen="f" contlex="w2f">Schramme</t></tg></mg></e>
+<e><lg><l pos="N">армодькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Narbe</t> <t pos="N" gen="f" contlex="w2f">Schramme</t></tg></mg></e>
 <e><lg><l pos="N">армян</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Armenier</t></tg></mg></e>
 <e><lg><l pos="N">арменин</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Armenier</t></tg></mg></e>
 <e><lg><l pos="N">армянава</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="sBÄRINf">Armenierin</t></tg></mg></e>
@@ -344,7 +344,7 @@
 <e><lg><l pos="N">арсевкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n">Vorhaben</t> <t pos="N" gen="m" contlex="s1m">Plan</t> <t pos="N" gen="f" contlex="w2f">Absicht</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Grundidee</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Erfindung</t></tg></mg></e>
 <e><lg><l pos="N">арсекшнема</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>арсекшнемс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m">Gedanke</t> -ns, -n (<i>an A</i>); <t pos="N" gen="f" contlex="w2f">Überlegung</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Wunsch</t> </tg></mg></e>
 <e><lg><l pos="N">арсема</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>арсемс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m">Gedanke</t> -ns, -e;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Wunsch</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Traum</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG">Nachdenken</t><bk/>, Bedenken <nb>pl</nb>; <t pos="N" gen="f" contlex="w2f">Überlegung</t></tg></mg> <mg arabNo="six"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Voraussetzung</t> <t pos="N" gen="f" contlex="w2f">Annahme</t> <t pos="N" gen="f" contlex="w2f">Vermutung</t> </tg></mg></e>
-<e><lg><l pos="N">арсенал</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Arsenal</t> <t>Waffen [Rüst]haus</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Waffenschmiede</t></tg></mg></e>
+<e><lg><l pos="N">арсенал</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Arsenal</t> <t>Waffen [Rüst]haus</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Waffenschmiede</t></tg></mg></e>
 <e><lg><l pos="N">арт</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Stickerei</t></tg></mg></e>
 <e><lg><l pos="N">артель</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Artel</t></tg></mg></e>
 <e><lg><l pos="N">артерия</l></lg><mg><tg xml:lang="deu">Arteri|e <gen>f</gen> =, -n</tg></mg></e>
@@ -355,7 +355,7 @@
 <e><lg><l pos="N">артистка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="sBÄRINf">Künstlerin</t> <t pos="N" gen="f" contlex="sBÄRINf">Schauspielerin</t></tg></mg></e>
 <e><lg><l pos="N">артке</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Stickerei</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Ornament</t> <t pos="N" gen="n" contlex="s6n">Muster</t> </tg></mg></e>
 <e><lg><l pos="N">артнема</l><drvg><inflect type="V»N"/></drvg></lg><mg><tg xml:lang="deu">von <b>артнемс</b></tg></mg></e>
-<e><lg><l pos="N">артовкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Färbung</t> <t pos="N" gen="m" contlex="s4m">Anstrich</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s1m">Anflug</t> <t pos="N" gen="m" contlex="s4m">Hauch</t> </tg></mg></e>
+<e><lg><l pos="N">артовкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Färbung</t> <t pos="N" gen="m" contlex="s4m">Anstrich</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s1m">Anflug</t> <t pos="N" gen="m" contlex="s4m">Hauch</t> </tg></mg></e>
 <e><lg><l pos="N">артома</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> <t pos="N" gen="n" contlex="s6n-SG">Färben</t> <t pos="N" gen="n" contlex="s6n-SG">Anstreichen</t> 2.<variants><l_syn>артовкс</l_syn></variants> 1.</tg></mg></e>
 <e><lg><l pos="N">артомапель</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Farbe</t> <t pos="N" gen="n" contlex="s6n">Färbemittel</t> <t pos="N" gen="m" contlex="s4m">Farbstoff</t></tg></mg></e>
 <e><lg><l pos="N">арфа</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Harfe</t></tg></mg></e>
@@ -708,7 +708,7 @@
 <e><lg><l pos="N">благополучия</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG€">Wohlergehen</t><t pos="N" gen="f">Wohlfahrt</t></tg></mg></e>
 <e><lg><l pos="N">благородства</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Edelmut</t><t pos="N" gen="m">Edelsinn</t></tg></mg></e>
 <e><lg><l pos="N">бланка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Formular</t> <t pos="N" gen="m" contlex="s4m">Vordruck</t></tg></mg></e>
-<e><lg><l pos="N">блаушка</l></lg><mg arabNo="one"><tg xml:lang="deu"> <i>relig.</i> Marias Verkündigung;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Öllämpchen</t> 3 .<def>übertr.</def> <t pos="N" gen="m" contlex="s6m">Greiner</t></tg></mg></e>
+<e><lg><l pos="N">блаушка</l></lg><mg arabNo="one"><tg xml:lang="deu"> <i>relig.</i> Marias Verkündigung;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Öllämpchen</t> 3 .<t pos="N" gen="m" def="übertr." contlex="s6m">Greiner</t></tg></mg></e>
 <e><lg><l pos="N">блестка</l></lg><mg><tg xml:lang="deu">Flitter <nb>pl</nb></tg></mg></e>
 <e><lg><l pos="N">блиндаж</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w4m">Unterstand</t></tg></mg></e>
 <e><lg><l pos="N">блок</l></lg><mg><tg xml:lang="deu"><field>tech.</field> <t pos="N" gen="m" contlex="s1m">Block</t> <t pos="N" gen="m" contlex="s1m">Flaschenzug</t></tg></mg></e>
@@ -1006,9 +1006,9 @@
 <e><lg><l pos="N">вацяр</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Markt</t> <t pos="N" gen="m">Basar</t> -s, =, <t pos="N" gen="m" contlex="s1m">Marktplatz</t></tg></mg></e>
 <e><lg><l pos="N">вачема</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Gier</t><t pos="N" gen="f">Habsucht</t><t pos="N" gen="f">Habgier</t></tg></mg></e>
 <e><lg><l pos="N">вачкавкс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG€">Legen</t><t pos="N" gen="f" contlex="w2f">Legung</t> <t pos="N" gen="n" contlex="s6n-SG€">Mauern</t><t pos="N" gen="f" contlex="w2f">Mauerung</t> </tg></mg></e>
-<e><lg><l pos="N">вачкодевкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s1m">Schlag</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s4m">Streich</t> </tg></mg></e>
+<e><lg><l pos="N">вачкодевкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s1m">Schlag</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Streich</t> </tg></mg></e>
 <e><lg><l pos="N">вачкодема</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> <t pos="N" gen="n" contlex="s6n-SG">Schlagen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Schlag</t></tg></mg></e>
-<e><lg><l pos="N">вачкотькс</l></lg><mg><tg xml:lang="deu"><variants><l_syn>вачкодевкс</l_syn></variants></tg></mg></e>
+<e><lg><l pos="N">вачкодькс</l></lg><mg><tg xml:lang="deu"><variants><l_syn>вачкодевкс</l_syn></variants></tg></mg></e>
 <e><lg><l pos="N">вачо сельме</l></lg><mg><tg xml:lang="deu">gierig, gefräßig</tg></mg></e>
 <e><lg><l pos="N">вачо ие</l></lg><mg><tg xml:lang="deu">hungriges Jahr</tg></mg></e>
 <e><lg><l pos="N">вачочи</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Hunger</t> -s </tg></mg></e>
@@ -1202,7 +1202,7 @@
 <e><lg><l pos="N">витамин</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Vitamin</t></tg></mg></e>
 <e><lg><l pos="N">витнема</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>витнемс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Krampf</t> </tg></mg></e>
 <e><lg><l pos="N">витрина</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Schaufenster</t> <t pos="N" gen="f" contlex="w2f">Auslage</t> <t pos="N" gen="f" contlex="w2f">Vitrine</t></tg></mg></e>
-<e><lg><l pos="N">витькстамо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>витькстамс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Geständnis</t> -ses, -se</tg></mg></e>
+<e><lg><l pos="N">видькстамо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>видькстамс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Geständnis</t> -ses, -se</tg></mg></e>
 <e><lg><l pos="N">виш</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="m" contlex="s4m">Spelz</t> <t pos="N" gen="m">Dinkel</t><t pos="N" gen="m" contlex="s4m">Spelt</t> </tg></mg></e>
 <e><lg><l pos="N">вишка сур</l></lg><mg><tg xml:lang="deu">kleiner Finger</tg></mg></e>
 <e><lg><l pos="N">вишка пинге</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f-SG€">Kindheit</t> </tg></mg></e>
@@ -1581,7 +1581,7 @@
 <e><lg><l pos="N">действия: военной действият</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Tätigkeit</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Handlung</t> <t pos="N" gen="f" contlex="w2f">Wirkung</t></tg></mg></e>
 <e><lg><l pos="N">дека</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Decke</t> <t pos="N" gen="m" contlex="s6m">Schalldeckel</t></tg></mg></e>
 <e><lg><l pos="N">декабрист</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Dekabrist</t></tg></mg></e>
-<e><lg><l pos="N">декабря</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Dezember</t> = u -s, =</tg></mg></e>
+<e><lg><l pos="N">декабря</l><variants><l_syn>ацамков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Dezember</t> = u -s, =</tg></mg></e>
 <e><lg><l pos="N">декабрянь: декабрянь восстаниясь</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Dezemberaufstand</t> </tg></mg></e>
 <e><lg><l pos="N">декаграмма</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Dekagramm</t></tg></mg></e>
 <e><lg><l pos="N">декада</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Dekade</t></tg></mg></e>
@@ -1900,7 +1900,7 @@
 <e><lg><l pos="N">жетон</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="AUTOm">Jeton</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Spielmarke</t></tg></mg></e>
 <e><lg><l pos="N">жибелькс</l></lg><mg><tg xml:lang="deu"><range>umgspr.</range> <t pos="N" gen="f" contlex="w2f">Berglehne</t></tg></mg></e>
 <e><lg><l pos="N">живодер</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Schinder</t> <t pos="N" gen="m" contlex="s6m">Abdecker</t></tg></mg></e>
-<e><lg><l pos="N">живойгадома</l></lg><mg arabNo="one"><tg xml:lang="deu"> <i>verbsub</i> <t pos="N" gen="n" contlex="s6n-SG">Beleben</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><pos>sub</pos> <def>übertr.</def> <t pos="N" gen="n" contlex="s6n-SG">Leben</t> <t pos="N" gen="f" contlex="w2f">Belebheit</t> <t pos="N" gen="f" contlex="w2f">Belebung</t></tg></mg></e>
+<e><lg><l pos="N">живойгадома</l></lg><mg arabNo="one"><tg xml:lang="deu"> <i>verbsub</i> <t pos="N" gen="n" contlex="s6n-SG">Beleben</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><pos>sub</pos> <t pos="N" gen="n" def="übertr." contlex="s6n-SG">Leben</t> <t pos="N" gen="f" contlex="w2f">Belebheit</t> <t pos="N" gen="f" contlex="w2f">Belebung</t></tg></mg></e>
 <e><lg><l pos="N">живописец</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Maler</t> <t pos="N" gen="m" contlex="s6m">Künstler</t></tg></mg></e>
 <e><lg><l pos="N">живопись</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Malerei</t></tg></mg></e>
 <e><lg><l pos="N">животновод</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Viehzüchter</t></tg></mg></e>
@@ -1915,7 +1915,7 @@
 <e><lg><l pos="N">жнейка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Getreidemähmaschine</t></tg></mg></e>
 <e><lg><l pos="N">жнива</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Stoppelfeld</t></tg></mg></e>
 <e><lg><l pos="N">жойть</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n-SG€">Murmeln</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG€">Rieseln</t> </tg></mg></e>
-<e><lg><l pos="N">жолга</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Stange</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s4m">Lulatsch</t></tg></mg></e>
+<e><lg><l pos="N">жолга</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Stange</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Lulatsch</t></tg></mg></e>
 <e><lg><l pos="N">жомка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Pfefferkuchen</t></tg></mg></e>
 <e><lg><l pos="N">жонглер</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Jongleur</t></tg></mg></e>
 <e><lg><l pos="N">жоржа</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="f">Wolfsmilch</t></tg></mg></e>
@@ -2188,9 +2188,9 @@
 <e><lg><l pos="N">инжир чувто</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Feigenbaum</t></tg></mg></e>
 <e><lg><l pos="N">инзей чувто</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s2m">Himbeerstrauch</t> </tg></mg></e>
 <e><lg><l pos="N">инзейведь</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Himbeersaft</t> -(e)s; <t pos="N" gen="n">Himbeerwasser</t></tg></mg></e>
-<e><lg><l pos="N">инзейнетькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Himbeerstengel</t></tg></mg></e>
+<e><lg><l pos="N">инзейнедькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Himbeerstengel</t></tg></mg></e>
 <e><lg><l pos="N">инзейкс</l></lg><mg><tg xml:lang="deu"><variants><l_syn>инзейкуро</l_syn></variants></tg></mg></e>
-<e><lg><l pos="N">инзэтькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Span</t> <t pos="N" gen="m" contlex="s1m">Hobelspan</t> <t pos="N" gen="m" contlex="s1m">Metallspan</t> <t pos="N" gen="f" contlex="w2f">Holzwolle</t> </tg></mg></e>
+<e><lg><l pos="N">инзэдькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Span</t> <t pos="N" gen="m" contlex="s1m">Hobelspan</t> <t pos="N" gen="m" contlex="s1m">Metallspan</t> <t pos="N" gen="f" contlex="w2f">Holzwolle</t> </tg></mg></e>
 <e><lg><l pos="N">инициалт</l></lg><mg><tg xml:lang="deu">Initialen <nb>pl</nb>, Anfangsbuchstaben <nb>pl</nb>, Initialbuchstaben <nb>pl</nb></tg></mg></e>
 <e><lg><l pos="N">инициатор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w4m">Initiator</t></tg></mg></e>
 <e><lg><l pos="N">инквизиция</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Inguisition</t> <t pos="N" gen="n" contlex="s4n">Ketzergericht</t></tg></mg></e>
@@ -2243,15 +2243,15 @@
 <e><lg><l pos="N">истожамо</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Vertilgung</t> <t pos="N" gen="f" contlex="w2f">Vernichtung</t> <t pos="N" gen="f" contlex="w2f">Ausrottung</t></tg></mg></e>
 <e><lg><l pos="N">историк</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Historiker</t> <t pos="N" gen="m" contlex="s6m">Geschichtsforscher</t> <t pos="N" gen="m" contlex="s6m">Geschichtswissenschaftler</t></tg></mg></e>
 <e><lg><l pos="N">история</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Geschichte</t></tg></mg></e>
-<e><lg><l pos="N">источник</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Quelle</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><i>poet.</i> <t pos="N" gen="m" contlex="s4m">Quell</t> <t pos="N" gen="f" contlex="w2f">Bezugsquelle</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s1m">Ursprung</t></tg></mg></e>
+<e><lg><l pos="N">источник</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Quelle</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><i>poet.</i> <t pos="N" gen="m" contlex="s4m">Quell</t> <t pos="N" gen="f" contlex="w2f">Bezugsquelle</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s1m">Ursprung</t></tg></mg></e>
 <e><lg><l pos="N">истребитель</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Vertilger</t> <field>milit.</field> <t pos="N" gen="n" contlex="s4n">Jagdflugzeug</t></tg></mg></e>
 <e><lg><l pos="N">итевть</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Garbe</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m">Armvoll</t></tg></mg></e>
 <e><lg><l pos="N">итог</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Endergebnis</t> -ses, -se; <t pos="N" gen="n">Ergebnis</t> -ses, -se; <t pos="N" gen="f" contlex="w2f">Schlussfolgerung</t> <t pos="N" gen="f" contlex="w2f">Bilanz</t></tg></mg></e>
 <e><lg><l pos="N">итьмамо</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Speise</t> <t pos="N" gen="n" contlex="s4n">Gericht</t></tg></mg></e>
 <e><lg><l pos="N">ицырдавкс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Kratzwunde</t> <t pos="N" gen="f" contlex="w2f">Schramme</t> <t pos="N" gen="f" contlex="w2f">Ritze</t> <t pos="N" gen="m" contlex="s4m">Ritz</t></tg></mg></e>
 <e><lg><l pos="N">ичевкс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG€">Kneten</t></tg></mg></e>
-<e><lg><l pos="N">июль</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Juli</t> = u -s, -s</tg></mg></e>
-<e><lg><l pos="N">июнь</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Juni</t> = u -s, -s</tg></mg></e>
+<e><lg><l pos="N">июль</l><variants><l_syn>медьков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Juli</t> = u -s, -s</tg></mg></e>
+<e><lg><l pos="N">июнь</l><variants><l_syn>аштемков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Juni</t> = u -s, -s</tg></mg></e>
 <e><lg><l pos="N">йога</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="AUTOm">Jogi</t></tg></mg></e>
 <e><lg><l pos="N">йод</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Jod</t></tg></mg></e>
 <e><lg><l pos="N">кабак</l></lg><mg><tg xml:lang="deu">Schеnke <gen>f</gen> =, -n; <t pos="N" gen="f" contlex="w2f">Kneipe</t> <t pos="N" gen="m" contlex="s1m">Ausschank</t> </tg></mg></e>
@@ -2497,7 +2497,7 @@
 <e><lg><l pos="N">кедра</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Zeder</t></tg></mg></e>
 <e><lg><l pos="N">кедрань пешть</l></lg><mg><tg xml:lang="deu">Zirbelnüsse <nb>pl</nb></tg></mg></e>
 <e><lg><l pos="N">кедть-пильгть</l></lg><mg><tg xml:lang="deu"><field>anat.</field> Gliedmassen <nb>pl</nb>, Extremitäten <nb>pl</nb> </tg></mg></e>
-<e><lg><l pos="N">кедь</l></lg><mg><tg xml:lang="deu"><rom>I</rom> 1. <t pos="N" gen="m" contlex="s4m">Arm</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Handschrift</t> <t pos="N" gen="f">Schrift</t> =, en;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Feder</t> (des Schriftstellers)</tg></mg></e>
+<e><lg><l pos="N">кедь</l></lg><mg><tg xml:lang="deu"><rom>I</rom> 1. <t pos="N" gen="m" contlex="s4m">Arm</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Handschrift</t> <t pos="N" gen="f">Schrift</t> =, en;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Feder</t> (des Schriftstellers)</tg></mg></e>
 <e><lg><l pos="N">кедьсурт</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Finger</t></tg></mg></e>
 <e><lg><l pos="N">кедькуншка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Handfläche</t> </tg></mg></e>
 <e><lg><l pos="N">кедьчельке</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Handarbeit</t></tg></mg></e>
@@ -2557,7 +2557,7 @@
 <e><lg><l pos="N">керямот</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Stirnhaar</t></tg></mg></e>
 <e><lg><l pos="N">кесак</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Docke</t> <t pos="N" gen="f" contlex="w2f">Strähne</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Rauchschwaden</t></tg></mg></e>
 <e><lg><l pos="N">кескав</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Sack</t> </tg></mg></e>
-<e><lg><l pos="N">кетькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Armband</t></tg></mg></e>
+<e><lg><l pos="N">кедькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Armband</t></tg></mg></e>
 <e><lg><l pos="N">кецямо</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Freude</t></tg></mg></e>
 <e><lg><l pos="N">кече</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Kelle</t> <t pos="N" gen="f" contlex="w2f">Schöpfkelle</t></tg></mg></e>
 <e><lg><l pos="N">кечказ</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Hacken</t></tg></mg></e>
@@ -2678,7 +2678,7 @@
 <e><lg><l pos="N">кодыця</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Weber</t> <t pos="N" gen="m" contlex="s6m">Flechter</t> <t pos="N" gen="f" contlex="sBÄRINf">Garbenbinderin</t> <t pos="N" gen="f" contlex="sBÄRINf">Binderin</t></tg></mg></e>
 <e><lg><l pos="N">кожовт</l></lg><mg><tg xml:lang="deu">≈ die Öffnung für den Dampf in der Badestube</tg></mg></e>
 <e><lg><l pos="N">коз</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Husten</t></tg></mg></e>
-<e><lg><l pos="N">козырь</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Mützenschirm</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s1m">Trumpf</t> </tg></mg></e>
+<e><lg><l pos="N">козырь</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Mützenschirm</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s1m">Trumpf</t> </tg></mg></e>
 <e><lg><l pos="N">козьгалав</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="m">Sauerampfer</t></tg></mg></e>
 <e><lg><l pos="N">козяйка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Wirtin</t> =, nen; <t pos="N" gen="f">Besitzerin</t> =, -nen; <t pos="N" gen="f" contlex="sBÄRINf">Gastgeberin</t> <t pos="N" gen="f" contlex="sBÄRINf">Hauswirtin</t> <t pos="N" gen="f" contlex="w2f">Hausfrau</t></tg></mg></e>
 <e><lg><l pos="N">козячи</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s2m">Reichtum</t> <t pos="N" gen="n" contlex="s6n">Vermögen</t></tg></mg></e>
@@ -2692,7 +2692,7 @@
 <e><lg><l pos="N">коксовамо</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>tech.</field> <pos>verb sub</pos> von <b>коксовамс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Verkekung</t></tg></mg></e>
 <e><lg><l pos="N">колавкс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Scherbe</t> <t pos="N" gen="m" contlex="s6m">Splitter</t></tg></mg></e>
 <e><lg><l pos="N">колбаса</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Wurst</t> =, Würste</tg></mg></e>
-<e><lg><l pos="N">колган</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Schöpfkelle</t> <t pos="N" gen="m" contlex="s6m">Schöpfer</t> <t pos="N" gen="m" contlex="s6m">Kübel</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s6m">Schädel</t> </tg></mg></e>
+<e><lg><l pos="N">колган</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Schöpfkelle</t> <t pos="N" gen="m" contlex="s6m">Schöpfer</t> <t pos="N" gen="m" contlex="s6m">Kübel</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s6m">Schädel</t> </tg></mg></e>
 <e><lg><l pos="N">колдовамо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>колдовамс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Zauberei</t> <t pos="N" gen="f" contlex="w2f">Hexerei</t> schwarze Kunst </tg></mg></e>
 <e><lg><l pos="N">колдун</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Zauberer</t> <t pos="N" gen="m" contlex="s6m">Hexenmeister</t> <t pos="N" gen="m">Schwarzkünstler</t></tg></mg></e>
 <e><lg><l pos="N">коленкор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="AUTOm">Kaliko</t></tg></mg></e>
@@ -3313,7 +3313,7 @@
 <e><lg><l pos="N">магнат</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Magnat</t> <t pos="N" gen="m" contlex="w2m">Gewaltige</t></tg></mg></e>
 <e><lg><l pos="N">магнезит</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Magnesit</t><t pos="N" gen="m" contlex="s4m">Talkspat</t></tg></mg></e>
 <e><lg><l pos="N">магнетизма</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Magnetismus</t></tg></mg></e>
-<e><lg><l pos="N">магнит</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m">Magnet</t> -(e)s, -en; -e, -en;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s4m">Anziehungspunkt</t></tg></mg></e>
+<e><lg><l pos="N">магнит</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m">Magnet</t> -(e)s, -en; -e, -en;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Anziehungspunkt</t></tg></mg></e>
 <e><lg><l pos="N">магнитофон</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Magnetophon</t> <t pos="N" gen="n" contlex="s4n">Magnettongerät</t> <t pos="N" gen="n" contlex="s4n">Tonbandgerät</t></tg></mg></e>
 <e><lg><l pos="N">мадамо</l></lg><mg><tg xml:lang="deu">kleine Brücke; <t pos="N" gen="m" contlex="s4m">Steg</t> </tg></mg></e>
 <e><lg><l pos="N">мадьяр</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Madjar</t></tg></mg></e>
@@ -3322,7 +3322,7 @@
 <e><lg><l pos="N">мазычи</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Schönheit</t></tg></mg></e>
 <e><lg><l pos="N">мазь</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Schmiere</t> <t pos="N" gen="f" contlex="w2f">Schuhpaste</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>med.</field> <t pos="N" gen="f" contlex="w2f">Salbe</t></tg></mg></e>
 <e><lg><l pos="N">мазятарка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="s3f">Sandbank</t> <t pos="N" gen="f" contlex="w2f">Untiefe</t></tg></mg></e>
-<e><lg><l pos="N">май</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Mai</t></tg></mg></e>
+<e><lg><l pos="N">май</l><variants><l_syn>панжыков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Mai</t></tg></mg></e>
 <e><lg><l pos="N">майка</l></lg><mg><tg xml:lang="deu">(ärmelloses) <t pos="N" gen="n">Sporthemd</t> -(e)s, -en; <t pos="N" gen="m" contlex="AUTOm">Obertrikot</t></tg></mg></e>
 <e><lg><l pos="N">майор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Major</t></tg></mg></e>
 <e><lg><l pos="N">макет</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Modell</t> <t pos="N" gen="m" contlex="s1m">Entwurf</t> </tg></mg></e>
@@ -3370,7 +3370,7 @@
 <e><lg><l pos="N">марксист</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Marxist</t></tg></mg></e>
 <e><lg><l pos="N">марля</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Mull</t> <t pos="N" gen="f" contlex="w2f">Gaze</t></tg></mg></e>
 <e><lg><l pos="N">марсевкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n">Gehör</t> -(e)s;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Gerücht</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="n">Gerede</t> -s;</tg></mg> <mg arabNo="four"><tg xml:lang="deu"><def>übertr.</def>Schmerz <gen>m</gen> -es, -en, <t pos="N" gen="n" contlex="s4n">Weh</t></tg></mg></e>
-<e><lg><l pos="N">март</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">März</t></tg></mg></e>
+<e><lg><l pos="N">март</l><variants><l_syn>эйзюрков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">März</t></tg></mg></e>
 <e><lg><l pos="N">марч</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="f" contlex="w2f">Melde</t></tg></mg></e>
 <e><lg><l pos="N">маршал</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Marschall</t> -s, -schälle</tg></mg></e>
 <e><lg><l pos="N">маршировамо</l><drvg><inflect type="V»N"/></drvg></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG">Marschieren</t></tg></mg></e>
@@ -3439,7 +3439,7 @@
 <e><lg><l pos="N">медярво</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Met</t> -(e)s; <t pos="N" gen="n" contlex="s6n">Honigwasser</t> </tg></mg></e>
 <e><lg><l pos="N">меелькс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Plazenta</t> -pl, -s; <t pos="N" gen="m">Mutterkuchen</t></tg></mg></e>
 <e><lg><l pos="N">меелькст</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Rest</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu">Reste <nb>pl</nb>, Überbleibsel <i>pl;</i></tg></mg> <mg arabNo="three"><tg xml:lang="deu">Folgen <nb>pl</nb>, Konsequenzen <nb>pl</nb> </tg></mg></e>
-<e><lg><l pos="N">межа</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Rain</t> <t pos="N" gen="n">Gewende</t> -s, =;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Grenzfurche</t> <t pos="N" gen="f" contlex="w2f">Grenze</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s4m">Trennungsstrich</t></tg></mg></e>
+<e><lg><l pos="N">межа</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Rain</t> <t pos="N" gen="n">Gewende</t> -s, =;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Grenzfurche</t> <t pos="N" gen="f" contlex="w2f">Grenze</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Trennungsstrich</t></tg></mg></e>
 <e><lg><l pos="N">межакс</l></lg><mg><tg xml:lang="deu">kleiner Finger; kleine Zehe </tg></mg></e>
 <e><lg><l pos="N">междевель</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="m" contlex="s6m">Wacholder</t></tg></mg></e>
 <e><lg><l pos="N">междометия</l></lg><mg><tg xml:lang="deu"><field>gram.</field> <t pos="N" gen="f" contlex="w2f">Interjektion</t> <t pos="N" gen="n" contlex="s2n">Ausrufewort</t> <t pos="N" gen="n">Ausrufungswort</t><t pos="N" gen="n">Empfindungswort</t></tg></mg></e>
@@ -3547,7 +3547,7 @@
 <e><lg><l pos="N">миссионер</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Missionar</t> <t pos="N" gen="m" contlex="s4m">Missionär</t></tg></mg></e>
 <e><lg><l pos="N">миссия</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Mission</t> <t pos="N" gen="f" contlex="w2f">Sendung</t> <t pos="N" gen="f" contlex="w2f">Bestimmung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Gesandtschaft</t> </tg></mg></e>
 <e><lg><l pos="N">митинг</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="AUTOn">Meeting</t> <t pos="N" gen="f" contlex="w2f">Kundgebung</t> Versammlung (<b>промкс</b>) <gen>f</gen> =, -en</tg></mg></e>
-<e><lg><l pos="N">миф</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Mythe</t> <t pos="N" gen="m">Mythus</t> =, -then, <t pos="N" gen="f" contlex="w2f">Sage</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Erfindung</t> <t pos="N" gen="f" contlex="w2f">Erdichtung</t></tg></mg></e>
+<e><lg><l pos="N">миф</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Mythe</t> <t pos="N" gen="m">Mythus</t> =, -then, <t pos="N" gen="f" contlex="w2f">Sage</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Erfindung</t> <t pos="N" gen="f" contlex="w2f">Erdichtung</t></tg></mg></e>
 <e><lg><l pos="N">мифология</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Mythologie</t> =, -gien</tg></mg></e>
 <e><lg><l pos="N">мишень</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Zielscheibe</t></tg></mg></e>
 <e><lg><l pos="N">мияв</l></lg><mg><tg xml:lang="deu"><field>zool.</field> <t pos="N" gen="m" contlex="s6m">Blutegel</t> </tg></mg></e>
@@ -3756,10 +3756,10 @@
 <e><lg><l pos="N">невтема</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Schau</t> <t pos="N" gen="f" contlex="w2f">Vorführung</t></tg></mg></e>
 <e><lg><l pos="N">негодяй</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Halunke</t> <t pos="N" gen="m" contlex="s4m">Schuft</t></tg></mg></e>
 <e><lg><l pos="N">негра</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Neger</t></tg></mg></e>
-<e><lg><l pos="N">недля</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Woche</t></tg></mg></e>
+<e><lg><l pos="N">недля</l><variants><l_syn>тарго</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Woche</t></tg></mg></e>
 <e><lg><l pos="N">недлячи</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Sonntag</t></tg></mg></e>
 <e><lg><l pos="N">недоимка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Rückstand</t></tg></mg></e>
-<e><lg><l pos="N">недь</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Stiel</t> <t pos="N" gen="n" contlex="s4n">Heft</t> <t pos="N" gen="f">Klinke</t> =, =n </tg></mg></e>
+<e><lg><l pos="N">недь</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Stiel</t> <t pos="N" gen="n" contlex="s4n">Heft</t> <t pos="N" gen="f">Klinke</t></tg></mg></e>
 <e><lg><l pos="N">недявкс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Zusammenstoß</t></tg></mg></e>
 <e><lg><l pos="N">неема</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Begegnung</t> <t pos="N" gen="n" contlex="s6n-SG">Wiedersehen</t></tg></mg></e>
 <e><lg><l pos="N">неже</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Stütze</t></tg></mg></e>
@@ -3778,7 +3778,7 @@
 <e><lg><l pos="N">нерявкст</l></lg><mg><tg xml:lang="deu">junge Saat; Keime <i>m pl</i></tg></mg></e>
 <e><lg><l pos="N">нерята</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Reuse</t> <t pos="N" gen="f" contlex="w2f">Fischreuse</t></tg></mg></e>
 <e><lg><l pos="N">несчастия</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Unglück</t></tg></mg></e>
-<e><lg><l pos="N">нетькс</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="m" contlex="s4m">Zweig</t> <t pos="N" gen="m" contlex="s4m">Stiel</t></tg></mg></e>
+<e><lg><l pos="N">недькс</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="m" contlex="s4m">Zweig</t> <t pos="N" gen="m" contlex="s4m">Stiel</t></tg></mg></e>
 <e><lg><l pos="N">нефта</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Naphtha</t> -s, <gen>f</gen> =; <t pos="N" gen="n">Erdöl</t></tg></mg></e>
 <e><lg><l pos="N">нефтяник</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Erdölarbeiter</t></tg></mg></e>
 <e><lg><l pos="N">нешке</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Bienenkorb</t></tg></mg></e>
@@ -3817,7 +3817,7 @@
 <e><lg><l pos="N">нотариус</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Notar</t></tg></mg></e>
 <e><lg><l pos="N">ноткс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Fußlappen</t></tg></mg></e>
 <e><lg><l pos="N">ношкачи</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Stumpfheit</t></tg></mg></e>
-<e><lg><l pos="N">ноября</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">November</t></tg></mg></e>
+<e><lg><l pos="N">ноября</l><variants><l_syn>сундерьков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">November</t></tg></mg></e>
 <e><lg><l pos="N">нравственность</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Moral</t><t pos="N" gen="f" contlex="w2f">Sittlichkeit</t></tg></mg></e>
 <e><lg><l pos="N">нувсема</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Schlummer</t><t pos="N" gen="f" contlex="w2f">Schläfrigkeit</t></tg></mg></e>
 <e><lg><l pos="N">нудей</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="n" contlex="s4n">Schilf</t> <t pos="N" gen="n" contlex="s4n">Schilfrohr</t></tg></mg></e>
@@ -3832,7 +3832,7 @@
 <e><lg><l pos="N">нулат-валат</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s6m">Lumpen</t> <t pos="N" gen="f" contlex="w2f">Kleidung</t> Habseligkeiten <nb>pl</nb>;</tg></mg> <mg arabNo="three"><tg xml:lang="deu">Siebensachen <nb>pl</nb></tg></mg></e>
 <e><lg><l pos="N">нулго</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Eiter</t></tg></mg></e>
 <e><lg><l pos="N">нулгодема</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>нулгодемс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m">Ekel</t> -s (vor D)</tg></mg></e>
-<e><lg><l pos="N">нулготькс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>a</pos> widerlich, garstig, ekelhaft;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Schändlichkeit</t> <t pos="N" gen="f" contlex="w2f">Scheußlichkeit</t> <t pos="N" gen="f" contlex="w2f">Abscheulichkeit</t></tg></mg></e>
+<e><lg><l pos="N">нулгодькс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>a</pos> widerlich, garstig, ekelhaft;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Schändlichkeit</t> <t pos="N" gen="f" contlex="w2f">Scheußlichkeit</t> <t pos="N" gen="f" contlex="w2f">Abscheulichkeit</t></tg></mg></e>
 <e><lg><l pos="N">нулко</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Augendrüsenschleim</t></tg></mg></e>
 <e><lg><l pos="N">нуль</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Null</t></tg></mg></e>
 <e><lg><l pos="N">нумерация</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Numerierung</t></tg></mg></e>
@@ -3976,7 +3976,7 @@
 <e><lg><l pos="N">окоп</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s5m">Graben</t> <t pos="N" gen="m" contlex="s5m">Schützengraben</t> <t pos="N" gen="m" contlex="s5m">Kampfgraben</t> </tg></mg></e>
 <e><lg><l pos="N">округ</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Bezirk</t> <t pos="N" gen="m" contlex="s4m">Kreis</t></tg></mg></e>
 <e><lg><l pos="N">окружность</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Kreis</t> <t pos="N" gen="f" contlex="w2f">Kreislinie</t></tg></mg></e>
-<e><lg><l pos="N">октября</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Oktober</t> = u -s, =</tg></mg></e>
+<e><lg><l pos="N">октября</l><variants><l_syn>ожоков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Oktober</t> = u -s, =</tg></mg></e>
 <e><lg><l pos="N">окулист</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Augenarzt</t> <t pos="N" gen="m" contlex="w2m">Okulist</t></tg></mg></e>
 <e><lg><l pos="N">окунь</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Barsch</t></tg></mg></e>
 <e><lg><l pos="N">оладьят</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Pfannkuchen</t> <t pos="N" gen="m" contlex="s6m">Fladen</t></tg></mg></e>
@@ -4099,7 +4099,7 @@
 <e><lg><l pos="N">отчёт</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Bericht</t> <t pos="N" gen="f">Rechenschaft</t></tg></mg></e>
 <e><lg><l pos="N">отчётность</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Buchführung</t></tg></mg></e>
 <e><lg><l pos="N">отчизна</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Vaterland</t> <t pos="N" gen="f" contlex="w2f">Heimat</t> <t pos="N" gen="n" contlex="s2n">Heimatland</t></tg></mg></e>
-<e><lg><l pos="N">отьма</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Untiefe</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Unmenge</t> <t pos="N" gen="f" contlex="w2f">Unmasse</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><range>umgspr.</range> <t pos="N" gen="f" contlex="w2f">Kehle</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><range>umgspr.</range> <t pos="N" gen="m" contlex="s4m">Vielfraß</t> <t pos="N" gen="m" contlex="s1m">Freßsack</t>  <t pos="N" gen="m" contlex="s6m">Fresser</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><pos>a</pos> gefräßig, freßsüchtig</tg></mg></e>
+<e><lg><l pos="N">отьма</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Untiefe</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Unmenge</t> <t pos="N" gen="f" contlex="w2f">Unmasse</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><range>umgspr.</range> <t pos="N" gen="f" contlex="w2f">Kehle</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><range>umgspr.</range> <t pos="N" gen="m" contlex="s4m">Vielfraß</t> <t pos="N" gen="m" contlex="s1m">Freßsack</t>  <t pos="N" gen="m" contlex="s6m">Fresser</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><pos>a</pos> gefräßig, freßsüchtig</tg></mg></e>
 <e><lg><l pos="N">офицер</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Offizier</t></tg></mg></e>
 <e><lg><l pos="N">офицерства</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Offizierskorps</t></tg></mg></e>
 <e><lg><l pos="N">официантка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="sBÄRINf">Kellnerin</t></tg></mg></e>
@@ -4159,7 +4159,7 @@
 <e><lg><l pos="N">пальма</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Palme</t></tg></mg></e>
 <e><lg><l pos="N">пальто</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s5m">Mantel</t></tg></mg></e>
 <e><lg><l pos="N">паля</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Hemdchen</t></tg></mg></e>
-<e><lg><l pos="N">паморькс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n">Krümchen</t> <t pos="N" gen="m" contlex="s4m">Brosam</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="n" contlex="s6n-SG€">Pünktchen</t></tg></mg></e>
+<e><lg><l pos="N">паморькс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n">Krümchen</t> <t pos="N" gen="m" contlex="s4m">Brosam</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" def="übertr." contlex="s6n-SG€">Pünktchen</t></tg></mg></e>
 <e><lg><l pos="N">памятник</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Denkmal</t></tg></mg></e>
 <e><lg><l pos="N">память</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Gedächtnis</t> -ses, -se</tg></mg></e>
 <e><lg><l pos="N">панар</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n">Hemd</t> -es, -en;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><range>umgsp.</range> <t pos="N" gen="n">Laub</t></tg></mg></e>
@@ -4212,7 +4212,7 @@
 <e><lg><l pos="N">парламент</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Parlament</t></tg></mg></e>
 <e><lg><l pos="N">парма</l></lg><mg><tg xml:lang="deu"></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Holzklotz</t> <t pos="N" gen="m" contlex="s1m">Block</t> </tg></mg></e>
 <e><lg><l pos="N">парник</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Mistbeet</t> <t pos="N" gen="n" contlex="s4n">Warmbeet</t> <t pos="N" gen="m" contlex="s5m">Treibkasten</t> </tg></mg></e>
-<e><lg><l pos="N">парнэ</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n">Fohlen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="n" contlex="s6n-SG€">Dämpfchen</t></tg></mg></e>
+<e><lg><l pos="N">парнэ</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n">Fohlen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" def="übertr." contlex="s6n-SG€">Dämpfchen</t></tg></mg></e>
 <e><lg><l pos="N">паро</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n">Gute</t> -(e)s, Güter;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s2m">Reichtum</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><pos>a</pos> gut, gutmütig, schön </tg></mg></e>
 <e><lg><l pos="N">паровоз</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Lokomotive</t></tg></mg></e>
 <e><lg><l pos="N">пародия</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Parodie</t> =, -i|en</tg></mg></e>
@@ -4331,7 +4331,7 @@
 <e><lg><l pos="N">перевод</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Überführung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Übersetzung</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><range>umgspr.</range> <t pos="N" gen="f">Verscheuderung</t><t pos="N" gen="f">Vergeudung</t></tg></mg></e>
 <e><lg><l pos="N">переводчик</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s6m">Übersetzer</t> <t pos="N" gen="m" contlex="s6m">Dolmetscher</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>milit.</field> <t pos="N" gen="m">Umsteller</t><t pos="N" gen="m">Schaltbolzen</t></tg></mg></e>
 <e><lg><l pos="N">переворот</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Umwälzung</t> <t pos="N" gen="m" contlex="s1m">Umsturz</t></tg></mg></e>
-<e><lg><l pos="N">перегиб</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Biegung</t> <t pos="N" gen="f" contlex="w2f">Umbiegung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Überspitzung</t> <t pos="N" gen="m" contlex="s4m">Übergriff</t></tg></mg></e>
+<e><lg><l pos="N">перегиб</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Biegung</t> <t pos="N" gen="f" contlex="w2f">Umbiegung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Überspitzung</t> <t pos="N" gen="m" contlex="s4m">Übergriff</t></tg></mg></e>
 <e><lg><l pos="N">передача</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Übergabe</t> <t pos="N" gen="f" contlex="w2f">Übermittlung</t> <t pos="N" gen="f" contlex="w2f">Sendung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>tech.</field> <t pos="N" gen="f" contlex="w2f">Transmission</t> <t pos="N" gen="m" contlex="s4m">Antrieb</t></tg></mg></e>
 <e><lg><l pos="N">переезд</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Überfahrt</t> <t pos="N" gen="m" contlex="s1m">Umzug</t> <t pos="N" gen="f" contlex="w2f">Übersiedlung</t> </tg></mg></e>
 <e><lg><l pos="N">пережитка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Überlebsel</t></tg></mg></e>
@@ -4583,7 +4583,7 @@
 <e><lg><l pos="N">подход</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Herantreten</t></tg></mg></e>
 <e><lg><l pos="N">подшипник</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Lager</t></tg></mg></e>
 <e><lg><l pos="N">подъезд</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Anfahrt</t> <t pos="N" gen="f" contlex="w2f">Auffahrt</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m">Eingang</t><bk/>, Eingänge; <t pos="N" gen="m" contlex="s4m">Treppenflur</t></tg></mg></e>
-<e><lg><l pos="N">подъём</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Aufstieg</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Hebung</t> <t pos="N" gen="n" contlex="s6n-SG€">Hinaufziehen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Steigung</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s1m">Aufschwung</t> </tg></mg></e>
+<e><lg><l pos="N">подъём</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Aufstieg</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Hebung</t> <t pos="N" gen="n" contlex="s6n-SG€">Hinaufziehen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Steigung</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s1m">Aufschwung</t> </tg></mg></e>
 <e><lg><l pos="N">поезд</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Zug</t></tg></mg></e>
 <e><lg><l pos="N">пожар</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Brand</t> </tg></mg></e>
 <e><lg><l pos="N">пожарник</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Feuerwehrmann</t> -(e)s, -leute </tg></mg></e>
@@ -4630,7 +4630,7 @@
 <e><lg><l pos="N">политика</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Politik</t></tg></mg></e>
 <e><lg><l pos="N">политэкономия</l></lg><mg><tg xml:lang="deu">politische Ökonomie</tg></mg></e>
 <e><lg><l pos="N">полиция</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Polizei</t></tg></mg></e>
-<e><lg><l pos="N">полк</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Regiment</t></tg></mg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m">Schwarm</t> -(e)s;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Zug</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Menge</t> </tg></mg></e>
+<e><lg><l pos="N">полк</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Regiment</t></tg></mg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m">Schwarm</t> -(e)s;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Zug</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Menge</t> </tg></mg></e>
 <e><lg><l pos="N">полка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Regal</t></tg></mg></e>
 <e><lg><l pos="N">полковник</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Oberst</t></tg></mg></e>
 <e><lg><l pos="N">полководец</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Feldherr</t> -n, -(e)n</tg></mg></e>
@@ -4716,7 +4716,7 @@
 <e><lg><l pos="N">парьпотмакс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Gefäßboden</t><t pos="N" gen="m">Boden</t></tg></mg></e>
 <e><lg><l pos="N">лейпотмакс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Frußgrund</t> </tg></mg></e>
 <e><lg><l pos="N">потмар</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Geschirrschrank</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="s3f">Bank</t> </tg></mg></e>
-<e><lg><l pos="N">потмо</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n">Eingeweide</t> -s;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Innere</t> -s;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Seele</t></tg></mg></e>
+<e><lg><l pos="N">потмо</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n">Eingeweide</t> -s;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Innere</t> -s;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Seele</t></tg></mg></e>
 <e><lg><l pos="N">потмовал</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Geheimnis</t> -ses, -se</tg></mg></e>
 <e><lg><l pos="N">потмоёжо</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n-SG€">Selbstbefinden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Seele</t> <t pos="N" gen="n" contlex="s6n-SG€">Befinden</t></tg></mg></e>
 <e><lg><l pos="N">потмоорма</l></lg><mg><tg xml:lang="deu">innere Krankheit </tg></mg></e>
@@ -5175,7 +5175,7 @@
 <e><lg><l pos="N">резина</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Gummi</t> <gen>n</gen> -s, = u -s</tg></mg></e>
 <e><lg><l pos="N">резинка</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m">Gummi</t> <gen>n</gen> -s, = u -s, <t pos="N" gen="n" contlex="s2n">Gummiband</t> <t pos="N" gen="m" contlex="s1m">Gummizug</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m">Radiergummi</t> <gen>n</gen> -s, = u -s</tg></mg></e>
 <e><lg><l pos="N">резолюция</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Resolution</t> <t pos="N" gen="m" contlex="s1m">Beschluss</t> <t pos="N" gen="f" contlex="w2f">Entschließung</t></tg></mg></e>
-<e><lg><l pos="N">резонанс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Klangwirkung</t> <t pos="N" gen="f">Akustik</t>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Resonanz</t> <t pos="N" gen="m" contlex="s1m">Nachklang</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><field>phys.</field> <t pos="N" gen="f" contlex="w2f">Resonanz</t> <t pos="N" gen="m" contlex="s4m">Widerhall</t></tg></mg></e>
+<e><lg><l pos="N">резонанс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Klangwirkung</t> <t pos="N" gen="f">Akustik</t>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Resonanz</t> <t pos="N" gen="m" contlex="s1m">Nachklang</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><field>phys.</field> <t pos="N" gen="f" contlex="w2f">Resonanz</t> <t pos="N" gen="m" contlex="s4m">Widerhall</t></tg></mg></e>
 <e><lg><l pos="N">резонатор</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>phys.</field> <t pos="N" gen="m" contlex="w4m">Rasonator</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>mus.</field> <t pos="N" gen="m" contlex="s5m">Resonanzboden</t></tg></mg></e>
 <e><lg><l pos="N">результат</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Ergebnis</t> -ses, -se; <t pos="N" gen="n" contlex="s4n">Resultat</t></tg></mg></e>
 <e><lg><l pos="N">резюме</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="AUTOn">Resümee</t> <t pos="N" gen="n" contlex="AUTOn">Resume</t> <t pos="N" gen="f" contlex="w2f">Zusammenfassung</t></tg></mg></e>
@@ -5185,7 +5185,7 @@
 <e><lg><l pos="N">реклама</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Reklame</t> </tg></mg></e>
 <e><lg><l pos="N">рекламировамо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>рекламировамс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Reklamation</t></tg></mg></e>
 <e><lg><l pos="N">рекомендация</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Empfehlung</t> <t pos="N" gen="n" contlex="s6n-SG€">Empfehlen</t></tg></mg></e>
-<e><lg><l pos="N">реконструкция</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Rekonstruktion</t> <t pos="N" gen="f" contlex="w2f">Rekonstruierung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Umgestaltung</t></tg></mg></e>
+<e><lg><l pos="N">реконструкция</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Rekonstruktion</t> <t pos="N" gen="f" contlex="w2f">Rekonstruierung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Umgestaltung</t></tg></mg></e>
 <e><lg><l pos="N">рекорд</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Rekord</t> <t pos="N" gen="f" contlex="w2f">Spitzenleistung</t> <t pos="N" gen="f" contlex="w2f">Höchstleistung</t></tg></mg></e>
 <e><lg><l pos="N">рекордсмен</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Meister</t> <t pos="N" gen="m" contlex="s6m">Rekordler</t> <t pos="N" gen="m" contlex="s6m">Rekordhalter</t> <t pos="N" gen="m" contlex="w2m">Rekordist</t> <t pos="N" gen="m" contlex="s6m">Spitzensportler</t></tg></mg></e>
 <e><lg><l pos="N">рекрут</l></lg><mg><tg xml:lang="deu"><field>hist.</field> <t pos="N" gen="m" contlex="w2m">Rekrut</t></tg></mg></e>
@@ -5195,7 +5195,7 @@
 <e><lg><l pos="N">рельеф</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="AUTOn">Relief</t> <t pos="N" gen="n" contlex="s2n">Hochbild</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Bodenerhebung</t></tg></mg></e>
 <e><lg><l pos="N">рельса</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Schiene</t> <t pos="N" gen="f" contlex="w2f">Eisenbahnschiene</t></tg></mg></e>
 <e><lg><l pos="N">ремесла</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Handwerk</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Gewerbe</t></tg></mg></e>
-<e><lg><l pos="N">ремесленник</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s6m">Handwerker</t> <t pos="N" gen="m" contlex="w2m">Gewerbetreibende</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s6m">Stümper</t></tg></mg></e>
+<e><lg><l pos="N">ремесленник</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s6m">Handwerker</t> <t pos="N" gen="m" contlex="w2m">Gewerbetreibende</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s6m">Stümper</t></tg></mg></e>
 <e><lg><l pos="N">ремонт</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Reparatur</t> <t pos="N" gen="f" contlex="w2f">Reparierung</t> <t pos="N" gen="f" contlex="w2f">Ausbesserung</t> <t pos="N" gen="f" contlex="w2f">Instandsetzung</t></tg></mg></e>
 <e><lg><l pos="N">ремонтировамо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> <t pos="N" gen="n" contlex="s6n">Reparieren</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><pos>sub</pos><variants><l_syn>ремонт</l_syn></variants></tg></mg></e>
 <e><lg><l pos="N">ренегат</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Renegat</t> <t pos="N" gen="m" contlex="w2m">Abtrünnige</t></tg></mg></e>
@@ -5252,7 +5252,7 @@
 <e><lg><l pos="N">риф</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Riff</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Klippe</t></tg></mg></e>
 <e><lg><l pos="N">рифма</l></lg><mg><tg xml:lang="deu"><field>lit.</field> <t pos="N" gen="m" contlex="s4m">Reim</t></tg></mg></e>
 <e><lg><l pos="N">рицяга</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Pfahl</t></tg></mg></e>
-<e><lg><l pos="N">риштямо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>риштямс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Schlag</t> <t pos="N" gen="m" contlex="s4m">Hieb</t> <t pos="N" gen="m" contlex="s1m">Stoß</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Erschütterung</t></tg></mg></e>
+<e><lg><l pos="N">риштямо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>риштямс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Schlag</t> <t pos="N" gen="m" contlex="s4m">Hieb</t> <t pos="N" gen="m" contlex="s1m">Stoß</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Erschütterung</t></tg></mg></e>
 <e><lg><l pos="N">робота</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Arbeit</t> <t pos="N" gen="n" contlex="s4n">Werk</t></tg></mg></e>
 <e><lg><l pos="N">роботник</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Arbeiter</t></tg></mg></e>
 <e><lg><l pos="N">роботница</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="sBÄRINf">Arbeiterin</t></tg></mg></e>
@@ -5284,7 +5284,7 @@
 <e><lg><l pos="N">рой</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Schwarm</t></tg></mg></e>
 <e><lg><l pos="N">роль</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Rolle</t></tg></mg></e>
 <e><lg><l pos="N">ром</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="AUTOn">Rum</t></tg></mg></e>
-<e><lg><l pos="N">роман</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Roman</t> <t pos="N" gen="n" contlex="s4n">Romanwerk</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s4m">Roman</t> (Liebesverhältnisse); <t pos="N" gen="f" contlex="w2f">Liebesgeschichte</t></tg></mg></e>
+<e><lg><l pos="N">роман</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Roman</t> <t pos="N" gen="n" contlex="s4n">Romanwerk</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Roman</t> (Liebesverhältnisse); <t pos="N" gen="f" contlex="w2f">Liebesgeschichte</t></tg></mg></e>
 <e><lg><l pos="N">романс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s2n">Lied</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Romanze</t></tg></mg></e>
 <e><lg><l pos="N">романтизма</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>lit.</field> <t pos="N" gen="f">Romantik</t>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f">Romantik</t><t pos="N" gen="n">Romantische</t> -n</tg></mg></e>
 <e><lg><l pos="N">романтик</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Romantiker</t> <t pos="N" gen="m" contlex="s6m">Träumer</t> <t pos="N" gen="m" contlex="s6m">Schwärmer</t></tg></mg></e>
@@ -5324,7 +5324,7 @@
 <e><lg><l pos="N">рупор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Sprachrohr</t> <t pos="N" gen="m" contlex="s6m">Schalltrichter</t></tg></mg></e>
 <e><lg><l pos="N">русла</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Flussbett</t> -(e)s, -en</tg></mg></e>
 <e><lg><l pos="N">руссификация</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG€">Russifizieren</t><t pos="N" gen="f">Russifikation</t></tg></mg></e>
-<e><lg><l pos="N">руця</l></lg><mg arabNo="one"><tg xml:lang="deu"> <i>ethn.</i> weibliches Oberhemd;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Windel</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Decke</t></tg></mg></e>
+<e><lg><l pos="N">руця</l></lg><mg arabNo="one"><tg xml:lang="deu"> <i>ethn.</i> weibliches Oberhemd;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Windel</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Decke</t></tg></mg></e>
 <e><lg><l pos="N">ручка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Kugelschreiber</t> <t pos="N" gen="m" contlex="s6m">Füller</t> Füll(feder) halter <gen>m</gen> -s, =, <t pos="N" gen="f" contlex="w2f">Füllfeder</t></tg></mg></e>
 <e><lg><l pos="N">рынка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Markt</t> <t pos="N" gen="f" contlex="w2f">Markthalle</t></tg></mg></e>
 <e><lg><l pos="N">рысак</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Traber</t> <t pos="N" gen="m" contlex="s6m">Trabgänger</t> <t pos="N" gen="m" contlex="s4m">Traberhengst</t></tg></mg></e>
@@ -5411,7 +5411,7 @@
 <e><lg><l pos="N">калсардо</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Gräte</t></tg></mg></e>
 <e><lg><l pos="N">саржа</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Serge</t> <t pos="N" gen="f" contlex="w2f">Sersche</t></tg></mg></e>
 <e><lg><l pos="N">сарказма</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Sarkasmus</t> =, -men, <t pos="N" gen="m">Hohn</t> -(e)s, =</tg></mg></e>
-<e><lg><l pos="N">сарькс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>zool.</field> <t pos="N" gen="f" contlex="w2f">Drohne</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s6m">Schmarotzer</t> <t pos="N" gen="m" contlex="s6m">Faulenzer</t></tg></mg></e>
+<e><lg><l pos="N">сарькс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>zool.</field> <t pos="N" gen="f" contlex="w2f">Drohne</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s6m">Schmarotzer</t> <t pos="N" gen="m" contlex="s6m">Faulenzer</t></tg></mg></e>
 <e><lg><l pos="N">саркс</l></lg><mg><tg xml:lang="deu"><variants><l_syn>сарькс</l_syn></variants></tg></mg></e>
 <e><lg><l pos="N">сатана</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Satan</t> <t pos="N" gen="m" contlex="s6m">Teufel</t></tg></mg></e>
 <e><lg><l pos="N">сатин</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="AUTOm">Satin</t></tg></mg></e>
@@ -5498,7 +5498,7 @@
 <e><lg><l pos="N">сельгевкс</l></lg><mg><tg xml:lang="deu"><variants><l_syn>сельге</l_syn></variants></tg></mg></e>
 <e><lg><l pos="N">сельгема</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>сельгемс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f">Spucke</t></tg></mg></e>
 <e><lg><l pos="N">сельмаг</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Landverkaufsstelle</t> <t pos="N" gen="n" contlex="s2n">Landkaufhaus</t></tg></mg></e>
-<e><lg><l pos="N">сельме</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n">Auge</t> -s, -n;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s4m">Blick</t></tg></mg></e>
+<e><lg><l pos="N">сельме</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n">Auge</t> -s, -n;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Blick</t></tg></mg></e>
 <e><lg><l pos="N">сельмеава</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Pupille</t></tg></mg></e>
 <e><lg><l pos="N">сельмеашо</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Weiße</t> -n, -n (des Auges), <t pos="N" gen="f">Sklera</t></tg></mg></e>
 <e><lg><l pos="N">сельмеваря</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Augenhöhle</t></tg></mg></e>
@@ -5526,7 +5526,7 @@
 <e><lg><l pos="N">сенатор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w4m">Senator</t></tg></mg></e>
 <e><lg><l pos="N">сенсация</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Sensation</t> <t pos="N" gen="n" contlex="s6n-SG€">Aufsehen</t> </tg></mg></e>
 <e><lg><l pos="N">сентиментализма</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Sentimentalismus</t></tg></mg></e>
-<e><lg><l pos="N">сентября</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">September</t></tg></mg></e>
+<e><lg><l pos="N">сентября</l><variants><l_syn>таштамков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">September</t></tg></mg></e>
 <e><lg><l pos="N">сепаратор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w4m">Separator</t> <t pos="N" gen="m" contlex="s4m">Scheideapparat</t></tg></mg></e>
 <e><lg><l pos="N">сервиз</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Service</t> -s, =, <t pos="N" gen="n" contlex="s4n">Tafelgeschirr</t></tg></mg></e>
 <e><lg><l pos="N">середа</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Mittwoch</t></tg></mg></e>
@@ -5710,7 +5710,7 @@
 <e><lg><l pos="N">сокол</l></lg><mg><tg xml:lang="deu"><field>zool.</field> <t pos="N" gen="m" contlex="w2m">Falke</t></tg></mg></e>
 <e><lg><l pos="N">сокор максазей</l></lg><mg><tg xml:lang="deu"><field>zool.</field> <t pos="N" gen="m" contlex="s1m">Maulwurf</t></tg></mg></e>
 <e><lg><l pos="N">сокорчи</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f-SG€">Blindheit</t></tg></mg></e>
-<e><lg><l pos="N">сокращения</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Verkürzung</t> <t pos="N" gen="f" contlex="w2f">Kürzung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Verminderung</t></tg></mg></e>
+<e><lg><l pos="N">сокращения</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Verkürzung</t> <t pos="N" gen="f" contlex="w2f">Kürzung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Verminderung</t></tg></mg></e>
 <e><lg><l pos="N">сокровища</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Schatz</t> <t pos="N" gen="f" contlex="w2f">Kostbarkeit</t></tg></mg></e>
 <e><lg><l pos="N">сокс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Schneeschuh</t> <t pos="N" gen="m">Schi</t><t pos="N" gen="m">Ski</t></tg></mg></e>
 <e><lg><l pos="N">солавкс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="N">eine einzelne abgetaute Stelle einer Schneelache</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu">die geschmelte Masse</tg></mg></e>
@@ -6075,7 +6075,7 @@
 <e><lg><l pos="N">тальянка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f">Harmonika</t> =, -ken (-s)</tg></mg></e>
 <e><lg><l pos="N">тамаша</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Fall</t> <t pos="N" gen="m" contlex="s1m">Vorfall</t></tg></mg></e>
 <e><lg><l pos="N">таможня</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Zollamt</t></tg></mg></e>
-<e><lg><l pos="N">тандавкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Vogelscheuche</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="n" contlex="s2n">Schreckgespenst</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Entsetzen</t> <t pos="N" gen="m" contlex="s6m">Schrecken</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><pos>a</pos> fürchterlich, schrecklich</tg></mg></e>
+<e><lg><l pos="N">тандавкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Vogelscheuche</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" def="übertr." contlex="s2n">Schreckgespenst</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Entsetzen</t> <t pos="N" gen="m" contlex="s6m">Schrecken</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><pos>a</pos> fürchterlich, schrecklich</tg></mg></e>
 <e><lg><l pos="N">танец</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Tanz</t></tg></mg></e>
 <e><lg><l pos="N">танк</l></lg><mg><tg xml:lang="deu"><field>milit.</field> <t pos="N" gen="m" contlex="s6m">Panzer</t></tg></mg></e>
 <e><lg><l pos="N">танкетка</l></lg><mg><tg xml:lang="deu"><field>milit.</field> <t pos="N" gen="m">Kleinkampfwagen</t></tg></mg></e>
@@ -6106,7 +6106,8 @@
 <e><lg><l pos="N">тарка</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s1m">Platz</t> <t pos="N" gen="m" contlex="s4m">Ort</t> <t pos="N" gen="f" contlex="w2f">Stelle</t> <t pos="N" gen="m" contlex="s4m">Sitz</t> <t pos="N" gen="m" contlex="s1m">Sitzplatz</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Stellung</t> <t pos="N" gen="f" contlex="w2f">Anstellung</t> <t pos="N" gen="m" contlex="s6m">Posten</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Gepäckstück</t> <t pos="N" gen="f" contlex="w2f">Sache</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Provinz</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="N" gen="n">Bett</t> -(e)s, -en;</tg></mg> <mg arabNo="six"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Strecke</t> <t pos="N" gen="f" contlex="w2f">Entfernung</t></tg></mg></e>
 <e><lg><l pos="N">тарнома</l><drvg><inflect type="V»N"/></drvg></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG">Zittern</t> <t pos="N" gen="n" contlex="s6n">Beben</t></tg></mg></e>
 <e><lg><l pos="N">таста</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Heuschrecke</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Grashüpfer</t></tg></mg></e>
-<e><lg><l pos="N">татай (таташке)</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Spielzeug</t></tg></mg></e>
+<e><lg><l pos="N">татай</l><variants><l_syn>налкшке</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Spielzeug</t></tg></mg></e>
+<e><lg><l pos="N">таташке</l><variants><l_syn>налкшке</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Spielzeug</t></tg></mg></e>
 <e><lg><l pos="N">татар</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Tatar</t></tg></mg></e>
 <e><lg><l pos="N">татарава</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="sBÄRINf">Tatarin</t></tg></mg></e>
 <e><lg><l pos="N">татаронь палакс</l></lg><mg><tg xml:lang="deu"><field>bot.</field> <t pos="N" gen="f" contlex="w2f">Kratzdistel</t></tg></mg></e>
@@ -6116,7 +6117,7 @@
 <e><lg><l pos="N">таштамков</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">September</t></tg></mg></e>
 <e><lg><l pos="N">тветка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Blume</t> <t pos="N" gen="f" contlex="w2f">Blüte</t></tg></mg></e>
 <e><lg><l pos="N">творец</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Schöpfer</t></tg></mg></e>
-<e><lg><l pos="N">творчества</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Schaffen</t></tg></mg></e>
+<e><lg><l pos="N">творчества</l><variants><l_syn>шкинема</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Schaffen</t></tg></mg></e>
 <e><lg><l pos="N">театра</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Theater</t></tg></mg></e>
 <e><lg><l pos="N">тев</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Arbeit</t> <t pos="N" gen="n" contlex="s4n">Geschäft</t></tg></mg></e>
 <e><lg><l pos="N">тевелявт</l></lg><mg><tg xml:lang="deu"><field>anat.</field> <t pos="N" gen="f" contlex="w2f">Lunge</t></tg></mg></e>
@@ -6252,7 +6253,7 @@
 <e><lg><l pos="N">торкай</l></lg><mg><tg xml:lang="deu"><field>zool.</field> <t pos="N" gen="f" contlex="w2f">Lerche</t></tg></mg></e>
 <e><lg><l pos="N">тормоз</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Bremse</t></tg></mg></e>
 <e><lg><l pos="N">торочка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Einfassung</t> <t pos="N" gen="m" contlex="s6m">Paspel</t> <t pos="N" gen="m" contlex="s1m">Vorstoß</t> </tg></mg></e>
-<e><lg><l pos="N">торсей</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Mast</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s1m">Mastbaum</t></tg></mg></e>
+<e><lg><l pos="N">торсей</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Mast</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s1m">Mastbaum</t></tg></mg></e>
 <e><lg><l pos="N">торсейкс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Segel</t></tg></mg></e>
 <e><lg><l pos="N">тортат</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s1m">Niederschlag</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>chem.</field> <t pos="N" gen="m" contlex="s1m">Bodensatz</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m">Nachgeschmack</t></tg></mg></e>
 <e><lg><l pos="N">торф</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Torf</t></tg></mg></e>
@@ -6333,7 +6334,7 @@
 <e><lg><l pos="N">трямо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>трямс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f">Erhaltung</t> <t pos="N" gen="f">Unterhaltung</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="m">Unterhalt</t></tg></mg></e>
 <e><lg><l pos="N">туалет</l></lg><mg><tg xml:lang="deu">Toilette [to-a--] <gen>f</gen> =, -n, <t pos="N" gen="m" contlex="s4m">Abtritt</t> </tg></mg></e>
 <e><lg><l pos="N">туберкулёз</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Tuberkulose</t> <t pos="N" gen="f">Schwindsucht</t></tg></mg></e>
-<e><lg><l pos="N">туво</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Schwein</t> <t pos="N" gen="f">Sau</t> =, Säue;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="n" contlex="s6n-SG€">Schwein</t><t pos="N" gen="m" contlex="w2m">Lump</t> </tg></mg></e>
+<e><lg><l pos="N">туво</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Schwein</t> <t pos="N" gen="f">Sau</t> =, Säue;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" def="übertr." contlex="s6n-SG€">Schwein</t><t pos="N" gen="m" contlex="w2m">Lump</t> </tg></mg></e>
 <e><lg><l pos="N">стувор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Tisch</t></tg></mg><lg><l pos="N">тувор</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG€">Fangeisen</t><t pos="N" gen="f" contlex="w2f">Falle</t></tg></mg></e>
 <e><lg><l pos="N">туворнэ</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Rattenfalle</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Fangschlinge</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG€">Tischchen</t></tg></mg></e>
 <e><lg><l pos="N">тувтал</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Ursache</t> <t pos="N" gen="f" contlex="w2f">Grundlage</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Vorwand</t> <t pos="N" gen="m" contlex="s1m">Anlass</t> </tg></mg></e>
@@ -6405,16 +6406,16 @@
 <e><lg><l pos="N">убытка</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Verlust</t> <t pos="N" gen="m" contlex="s4m">Nachteil</t> ; <t pos="N" gen="m">Schaden</t> -s, Schäden</tg></mg></e>
 <e><lg><l pos="N">увнома</l><drvg><inflect type="V»N"/></drvg></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG">Brausen</t> <t pos="N" gen="n" contlex="s6n-SG">Heulen</t> <t pos="N" gen="n" contlex="s6n-SG">Tönen</t></tg></mg></e>
 <e><lg><l pos="N">увт</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n">Getöse</t><t pos="N" gen="n">Geheul</t> -(e)s;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Geläute</t> -s;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="n">Gesumme</t> -s </tg></mg></e>
-<e><lg><l pos="N">увтямо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>увтямс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Übergewicht</t> -(e)s; <t pos="N" gen="f">Übermacht</t>;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m" contlex="s4m">Kran</t> [Kräne]</tg></mg></e>
+<e><lg><l pos="N">увтямо</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>увтямс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Übergewicht</t> -(e)s; <t pos="N" gen="f">Übermacht</t>;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Kran</t> [Kräne]</tg></mg></e>
 <e><lg><l pos="N">углеводород</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Kohlenwasserstoff</t></tg></mg></e>
 <e><lg><l pos="N">углекислой газ</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Dioxyd</t></tg></mg></e>
 <e><lg><l pos="N">углекислота</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Kohlensäure</t></tg></mg></e>
 <e><lg><l pos="N">углерод</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Kohlenstoff</t></tg></mg></e>
 <e><lg><l pos="N">угнетатель</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Unterdrücker</t><t pos="N" gen="m">Bedrücker</t></tg></mg></e>
-<e><lg><l pos="N">угнетения</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f">Unterdrückung</t><t pos="N" gen="f">Bedrückung</t><t pos="N" gen="m">Druck</t>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f-SG€">Niedergeschlagenheit</t> <t pos="N" gen="f">Depression</t></tg></mg></e>
+<e><lg><l pos="N">угнетения</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f">Unterdrückung</t><t pos="N" gen="f">Bedrückung</t><t pos="N" gen="m">Druck</t>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f-SG€">Niedergeschlagenheit</t> <t pos="N" gen="f">Depression</t></tg></mg></e>
 <e><lg><l pos="N">уговор</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n">Zureden</t> <t pos="N" gen="f" contlex="w2f">Überredung</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Verabredung</t> <t pos="N" gen="f" contlex="w2f">Vereinbarung</t></tg></mg></e>
 <e><lg><l pos="N">угодия</l></lg><mg><tg xml:lang="deu"><field>landw.</field>Grundstück <gen>n</gen> -(e)s, -e; <t pos="N" gen="n" contlex="s4n">Landstück</t> </tg></mg></e>
-<e><lg><l pos="N">угол</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Ecke</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>mathem.</field>Winkel <gen>m</gen>, -s, =;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Schlafstelle</t> </tg></mg></e>
+<e><lg><l pos="N">угол</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Ecke</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>mathem.</field>Winkel <gen>m</gen>, -s, =;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Schlafstelle</t> </tg></mg></e>
 <e><lg><l pos="N">уголия</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Kohle</t></tg></mg></e>
 <e><lg><l pos="N">кевень уголия</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Steinkohle</t></tg></mg></e>
 <e><lg><l pos="N">уголиянь яма</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Kohlengrube</t> (auf dem Boden);</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="m">Kohlenbunker</t> -(e)s, =</tg></mg></e>
@@ -6423,7 +6424,7 @@
 <e><lg><l pos="N">удалавкс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Gelingen</t> <t pos="N" gen="m" contlex="s4m">Erfolg</t> <t pos="N" gen="n">Glück</t></tg></mg></e>
 <e><lg><l pos="N">удаламо</l></lg><mg><tg xml:lang="deu"><variants><l_syn>удалавкс</l_syn></variants></tg></mg></e>
 <e><lg><l pos="N">удалкс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Hinterteil</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m">Hintere</t> -r(e)n, -r(e)n; <t pos="N" gen="n" contlex="s4n">Gesäß</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Lehne</t></tg></mg></e>
-<e><lg><l pos="N">ударения</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>lingui.</field> <t pos="N" gen="f" contlex="w2f">Betonung</t> <t pos="N" gen="m" contlex="s4m">Akzent</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Betonung</t> <t pos="N" gen="f" contlex="w2f">Hervorhebung</t> </tg></mg></e>
+<e><lg><l pos="N">ударения</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>lingui.</field> <t pos="N" gen="f" contlex="w2f">Betonung</t> <t pos="N" gen="m" contlex="s4m">Akzent</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Betonung</t> <t pos="N" gen="f" contlex="w2f">Hervorhebung</t> </tg></mg></e>
 <e><lg><l pos="N">ударник</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s6m">Stoßarbeiter</t> <t pos="N" gen="m">Udarnik</t> -s, -i; <t pos="N" gen="m" contlex="w2m">Aktivist</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>milit.</field> <t pos="N" gen="m" contlex="s6m">Schlagbolzen</t></tg></mg></e>
 <e><lg><l pos="N">удача</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n-SG€">Gelingen</t> <t pos="N" gen="m" contlex="s4m">Erfolg</t> <t pos="N" gen="n">Glück</t> -(e)s, =</tg></mg></e>
 <e><lg><l pos="N">удел</l></lg><mg arabNo="one"><tg xml:lang="deu"> <field>hist.</field> <t pos="N" gen="n">Los</t> -s, -e;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n">Schicksal</t> -e, -(e)s</tg></mg></e>
@@ -6590,7 +6591,7 @@
 <e><lg><l pos="N">фашизма</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Faschismus</t></tg></mg></e>
 <e><lg><l pos="N">фашист</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Faschist</t></tg></mg></e>
 <e><lg><l pos="N">фаянс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Fayence</t></tg></mg></e>
-<e><lg><l pos="N">февраль</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Februar</t> -s , -e</tg></mg></e>
+<e><lg><l pos="N">февраль</l><variants><l_syn>даволков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Februar</t> -s , -e</tg></mg></e>
 <e><lg><l pos="N">федерация</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Föderation</t></tg></mg></e>
 <e><lg><l pos="N">фейерверк</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Feuerwerk</t></tg></mg></e>
 <e><lg><l pos="N">фельдшер</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Unterarzt</t></tg></mg></e>
@@ -6962,7 +6963,7 @@
 <e><lg><l pos="N">човоркс</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Mengereif</t> <t pos="N" gen="m" contlex="s4m">Fraß</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><range>umgsp.</range> <t pos="N" gen="n" contlex="s4n">Gemisch</t></tg></mg></e>
 <e><lg><l pos="N">човорявкс</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Mengsel</t></tg></mg></e>
 <e><lg><l pos="N">човорямо</l><drvg><inflect type="V»N"/></drvg></lg><mg><tg xml:lang="deu">zu <b>човорямс</b> </tg></mg></e>
-<e><lg><l pos="N">чоледема</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n-SG">Zwitschern</t> <t pos="N" gen="n">Gezwitscher</t> -s;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="n" contlex="s6n-SG">Schwatzen</t> <t pos="N" gen="n" contlex="s6n-SG">Plappern</t> (über Kinder)</tg></mg></e>
+<e><lg><l pos="N">чоледема</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s6n-SG">Zwitschern</t> <t pos="N" gen="n">Gezwitscher</t> -s;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="n" def="übertr." contlex="s6n-SG">Schwatzen</t> <t pos="N" gen="n" contlex="s6n-SG">Plappern</t> (über Kinder)</tg></mg></e>
 <e><lg><l pos="N">чомболкс</l></lg><mg><tg xml:lang="deu"><field>zool.</field> <t pos="N" gen="n" contlex="s6n">Wiesel</t></tg></mg></e>
 <e><lg><l pos="N">чопача</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Gespenst</t> <t pos="N" gen="f" contlex="w2f">Erscheinung</t> <t pos="N" gen="n" contlex="s2n">Trugbild</t> </tg></mg></e>
 <e><lg><l pos="N">чоподачи</l></lg><mg><tg xml:lang="deu">ein dunkler Tag; <t pos="N" gen="n">Dunkel</t><t pos="N" gen="f" contlex="w2f-SG€">Dunkelheit</t></tg></mg></e>
@@ -7308,7 +7309,7 @@
 <e><lg><l pos="N">явома</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>явомс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Teilung</t> <t pos="N" gen="f" contlex="w2f">Aufteilung</t> </tg></mg></e>
 <e><lg><l pos="N">яга-баба</l></lg><mg><tg xml:lang="deu"><tCtn><t pos="N" gen="f" contlex="w2f">Hexe</t> <re>alte böse</re></tCtn><tCtn> <t pos="N" gen="f" contlex="sBÄRINf">Zauberin</t><re> böse Fee</re></tCtn> </tg></mg></e>
 <e><lg><l pos="N">ягода</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Beere</t></tg></mg></e>
-<e><lg><l pos="N">яд</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Gift</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Galle</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f-SG€">Bosheit</t></tg></mg></e>
+<e><lg><l pos="N">яд</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="n" contlex="s4n">Gift</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Galle</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f-SG€">Bosheit</t></tg></mg></e>
 <e><lg><l pos="N">ядра</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="m" contlex="s4m">Kern</t></tg></mg></e>
 <e><lg><l pos="N">пештень ядра</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Nußkern</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="m">Kern</t><t pos="N" gen="m">Hauptkern</t><t pos="N" gen="n">Wesentliche</t> -n;</tg></mg> <mg arabNo="three"><tg xml:lang="deu"><field>milit.</field> <t pos="N" gen="f" contlex="w2f">Kanonenkugel</t> <t pos="N" gen="f" contlex="w2f">Kugel</t> </tg></mg></e>
 <e><lg><l pos="N">яжавкст</l></lg><mg><tg xml:lang="deu"><nb>pl</nb> <t pos="N" gen="f">Kleie</t> </tg></mg></e>
@@ -7345,7 +7346,7 @@
 <e><lg><l pos="N">ямся кудо</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Zweizimmerhaus</t></tg></mg></e>
 <e><lg><l pos="N">ямт-кашат</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Essen</t> <t pos="N" gen="f" contlex="w2f">Speise</t></tg></mg></e>
 <e><lg><l pos="N">ян</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Fußweg</t> <t pos="N" gen="m" contlex="s4m">Pfad</t></tg></mg></e>
-<e><lg><l pos="N">январь</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Januar</t> </tg></mg></e>
+<e><lg><l pos="N">январь</l><variants><l_syn>якшамков</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Januar</t> </tg></mg></e>
 <e><lg><l pos="N">янтарь</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m">Bernstein</t></tg></mg></e>
 <e><lg><l pos="N">японец</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Japaner</t></tg></mg></e>
 <e><lg><l pos="N">яровой сюрот</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n">Sommergetreide</t></tg></mg></e>
@@ -7360,7 +7361,7 @@
 <e><lg><l pos="N">ярсамопель</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Nahrungsmittel</t></tg></mg></e>
 <e><lg><l pos="N">ярсамо-симема</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Gastmahl</t> <t pos="N" gen="f" contlex="w2f">Bewirtung</t> <t pos="N" gen="m" contlex="s1m">Schmaus</t></tg></mg></e>
 <e><lg><l pos="N">ярус</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Rang</t></tg></mg></e>
-<e><lg><l pos="N">ясля</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Krippe</t> <t pos="N" gen="m" contlex="s4m">Futtertrog</t> <t pos="N" gen="f" contlex="w2f">Raufe</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><def>übertr.</def> <t pos="N" gen="f" contlex="w2f">Kinderkrippe</t></tg></mg></e>
+<e><lg><l pos="N">ясля</l></lg><mg arabNo="one"><tg xml:lang="deu"> <t pos="N" gen="f" contlex="w2f">Krippe</t> <t pos="N" gen="m" contlex="s4m">Futtertrog</t> <t pos="N" gen="f" contlex="w2f">Raufe</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" def="übertr." contlex="w2f">Kinderkrippe</t></tg></mg></e>
 <e><lg><l pos="N">ясмук</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Linse</t></tg></mg></e>
 <e><lg><l pos="N">ят</l></lg><mg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Feind</t></tg></mg></e>
 <e><lg><l pos="N">яходема</l><drvg><inflect type="V»N"/></drvg></lg><mg arabNo="one"><tg xml:lang="deu"> <pos>verb sub</pos> von <b>яходемс</b>;</tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Schwingung</t></tg></mg></e>
