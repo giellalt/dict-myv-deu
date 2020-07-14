@@ -4373,7 +4373,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"><field>milit</field> weittragend</t>
+       <t pos="A"><domain domain="Military"/> weittragend</t>
        <t>weitreichend</t>
      </tg>
    </mg>
@@ -4394,7 +4394,7 @@
    <lg>
      <l pos="A">дательной</l>
    </lg>
-   <mg><field>gram.</field>
+   <mg><domain domain="Grammar"/>
      <tg xml:lang="deu">
        <t pos="N" gen="m" contlex="s4m">Dativ</t>
      </tg>
@@ -6783,7 +6783,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"><field>chem.</field> Kali&#x002D;</t>
+       <t pos="A"><domain domain="Chemistry"/> Kali&#x002D;</t>
        <t pos="A">kalihaltig</t>
      </tg>
    </mg>
@@ -7584,7 +7584,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"><field>tech.</field> Knie&#x002D;</t>
+       <t pos="A"><domain domain="Technology"/> Knie&#x002D;</t>
        <t pos="A">gekröpft </t>
      <xg><x>коленчатой вал</x>
        <xt pos="N" gen="f" contlex="w2f">Kurbelwelle</xt>
@@ -7964,7 +7964,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"><field>math.</field> schiefwink(e)lig</t>
+       <t pos="A"><domain domain="Mathematics"/> schiefwink(e)lig</t>
      </tg>
    </mg>
 </e>
@@ -9024,7 +9024,7 @@
    <mg>
      <tg xml:lang="deu">
        <t pos="A">laubig</t>
-       <t pos="A"><field>bot.</field> Laub&#x002D; </t>
+       <t pos="A"><domain domain="Botany"/> Laub&#x002D; </t>
      </tg>
    </mg>
 </e>
@@ -11905,7 +11905,7 @@
      </tg>
    </mg>
    <mg>
-     <tg xml:lang="deu">2.<field>gram.</field>
+     <tg xml:lang="deu"><domain domain="Grammar"/>
        <t pos="A">Passiv&#x002D;</t>
        <t pos="A">passiv</t>
      </tg>
@@ -12807,7 +12807,7 @@
      </tg>
    </mg>
    <mg>
-     <tg xml:lang="deu">2.<field>biol.</field>
+     <tg xml:lang="deu"><domain domain="Biology"/>
        <t pos="A">geschlechtlich</t>
        <t pos="A">sexuell</t>
      </tg>
@@ -14235,7 +14235,7 @@
      </tg>
    </mg>
    <mg>
-     <tg xml:lang="deu">2.<field>milit.</field>
+     <tg xml:lang="deu">2.<domain domain="Military"/>
        <t pos="A">Remonte&#x002D;</t>
      </tg>
    </mg>
@@ -14487,7 +14487,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"><field>lit.</field> romantisch</t>
+       <t pos="A"><domain domain="Literature"/> romantisch</t>
      </tg>
    </mg>
    <mg>
@@ -15025,7 +15025,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"><field>med.</field> Herz&#x002D;</t>
+       <t pos="A"><domain domain="Medicine"/> Herz&#x002D;</t>
      </tg>
    </mg>
    <mg>
@@ -17975,7 +17975,7 @@
      </tg>
    </mg>
    <mg>
-     <tg xml:lang="deu">4.<def>übertr.</def> <field>mus.</field>
+     <tg xml:lang="deu">4.<def>übertr.</def> <domain domain="Music"/>
        <t pos="A">tief</t>
      </tg>
    </mg>
@@ -19106,7 +19106,7 @@
    </lg>
    <mg>
      <tg xml:lang="deu">
-       <t pos="A"><field>tech.</field> Lauf&#x002D;</t>
+       <t pos="A"><domain domain="Technology"/> Lauf&#x002D;</t>
        <t pos="A">Zug&#x002D; </t>
      </tg>
    </mg>
@@ -19599,7 +19599,7 @@
      </tg>
    </mg>
    <mg>
-     <tg xml:lang="deu">6.<field>anat.</field>
+     <tg xml:lang="deu"><domain domain="Anatomy"/>
      <xg><x>човине сюло</x>
        <xt pos="N" gen="m" contlex="s1m">Dünndarm</xt>
      </xg>

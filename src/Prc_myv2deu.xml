@@ -45,7 +45,7 @@
 <e><lg><l pos="Prc">сёрмадыця</l></lg> <mg><tg xml:lang="deu"><t pos="Prc"> schreibend</t></tg></mg></e>
 <e><lg><l pos="Prc">сияждыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> glänzend</t><t pos="Prc">strahlend</t><t pos="Prc">funkelnd</t></tg></mg></e>
 <e><lg><l pos="Prc">скандалиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">skandalierend</t></tg></mg></e>
-<e><lg><l pos="Prc">совиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">eintretend</t></tg></mg><mg><tg xml:lang="deu"><t pos="Prc"><i>kanz.</i> einlaufend [eingehend]</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Prc"><field>math.</field> einspringend</t></tg></mg></e>
+<e><lg><l pos="Prc">совиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">eintretend</t></tg></mg><mg><tg xml:lang="deu"><t pos="Prc"><i>kanz.</i> einlaufend [eingehend]</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Prc"><domain domain="Mathematics"/> einspringend</t></tg></mg></e>
 <e><lg><l pos="Prc">содазь</l></lg><mg><tg xml:lang="deu"><t pos="Prc"> bekannt</t><t pos="Prc">berühmt</t><t pos="Prc">bestimmt</t></tg></mg></e>
 <e><lg><l pos="Prc">содыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">wissend</t><t pos="Prc">erfahren</t></tg></mg><mg><tg xml:lang="deu"><t pos="A"> kundig</t></tg></mg></e>
 <e><lg><l pos="N">сёрмас содыця</l></lg><mg><tg xml:lang="deu"><t pos="N">gebildeter Mensch</t>; <range>umgsp.</range> <t pos="N" gen="m" contlex="w2m">Schriftkundige</t></tg></mg></e>
@@ -66,7 +66,7 @@
 <e><lg><l pos="Prc">удыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">schlafend</t></tg></mg></e>
 <e><lg><l pos="Prc">уиця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">schwimmend</t></tg></mg></e>
 <e><lg><l pos="Prc">уштыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">heizend</t></tg></mg></e>
-<e><lg><l pos="Prc">цидярдыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">aushaltend </t></tg></mg> <mg><tg xml:lang="deu"><t pos="A">standhaft</t><t pos="A">fest</t></tg></mg> <mg><tg xml:lang="deu"><t pos="A"><field>phys.</field> stabil</t></tg></mg></e>
+<e><lg><l pos="Prc">цидярдыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">aushaltend </t></tg></mg> <mg><tg xml:lang="deu"><t pos="A">standhaft</t><t pos="A">fest</t></tg></mg> <mg><tg xml:lang="deu"><t pos="A"><domain domain="Physics"/> stabil</t></tg></mg></e>
 <e><lg><l pos="Prc">чатьмониця</l></lg><mg><tg xml:lang="deu"><t pos="A">schweigsam</t><t pos="A">wortkarg</t><t pos="A">verschwiegen</t></tg></mg> <mg><tg xml:lang="deu"><t pos="A">still</t></tg></mg><mg><tg xml:lang="deu"><t pos="Prc"> (still) schweigend</t></tg></mg></e>
 <e><lg><l pos="Prc">чумондыця</l></lg> <mg><tg xml:lang="deu"><t pos="Prc">ankladend</t></tg></mg></e>
 <e><lg><l pos="Prc">ютыця</l></lg><mg><tg xml:lang="deu"><t pos="Prc">vorbeigehend </t></tg></mg></e>

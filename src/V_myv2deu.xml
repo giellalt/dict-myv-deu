@@ -74,7 +74,7 @@
 <e><lg><l pos="V">ангордамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">kratzen</t>;<t pos="V" val="TV">ritzen</t></tg></mg></e>
 <e><lg><l pos="V">ангорямс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>ангордамс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">андокшномс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">füttern</t>,<t pos="V" val="TV">ernähren</t></tg></mg></e>
-<e><lg><l pos="V">андомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">nähren</t>;<t pos="V" val="TV">füttern</t>;<t pos="V">zu fressen geben</t>;<t pos="V">zu essen geben</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">unterhalten</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><field>landw.</field><t pos="V" def="übertr." val="TV::IV"> düngen</t></tg></mg></e>
+<e><lg><l pos="V">андомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">nähren</t>;<t pos="V" val="TV">füttern</t>;<t pos="V">zu fressen geben</t>;<t pos="V">zu essen geben</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">unterhalten</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><domain domain="Agriculture"/><t pos="V" def="übertr." val="TV::IV"> düngen</t></tg></mg></e>
 <e><lg><l pos="V">андомс-симдемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV" gov="mit D">bewirten</t></tg></mg></e>
 <e><lg><l pos="V">андтнемс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>андомс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">анелявтомс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>анелямс</l_syn></variants></t></tg></mg></e>
@@ -163,7 +163,7 @@
 <e><lg><l pos="V">бальзамировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">balsamieren</t></tg></mg></e>
 <e><lg><l pos="V">балямс</l></lg><mg><tg xml:lang="deu"><t pos="V" range="umgsp.">zu Bett gehen</t>;<t pos="V" val="IV">schlafen</t>;<t pos="V">sich schlafen legen</t></tg></mg></e>
 <e><lg><l pos="V">банговтомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV" gov="mit D">schlagen</t></tg></mg></e>
-<e><lg><l pos="V">барышничамс</l></lg><mg><tg xml:lang="deu"><field>hist.</field><t pos="V"> Zwischenhandel treiben</t>,<t pos="V" val="TV">aufkaufen</t>;<t pos="V" val="IV" gov="mit D">wuchern</t></tg></mg></e>
+<e><lg><l pos="V">барышничамс</l></lg><mg><tg xml:lang="deu"><domain domain="History"/><t pos="V"> Zwischenhandel treiben</t>,<t pos="V" val="TV">aufkaufen</t>;<t pos="V" val="IV" gov="mit D">wuchern</t></tg></mg></e>
 <e><lg><l pos="V">баслававтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">segnen lassen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">billigen lassen</t></tg></mg></e>
 <e><lg><l pos="V">баславамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">segnen</t>,<t pos="V">Segen spenden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">billigen</t></tg>; <xg><x>баславамс ки лангов</x><xt> etw. auf den Weg wünschen; </xt></xg></mg></e>
 <e><lg><l pos="V">бастовамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">streiken</t></tg></mg></e>
@@ -201,7 +201,7 @@
 <e><lg><l pos="V">бизнэмс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">summen</t>,<t pos="V" val="IV">surren</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">schwirren</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V">sauer werden</t></tg></mg></e>
 <e><lg><l pos="V">бийнемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">piep(s)en</t>;<t pos="V" val="IV">quicken</t>;<t pos="V" val="IV">quicksen</t></tg></mg></e>
 <e><lg><l pos="V">биксамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">schlagen</t>,<t pos="V" val="TV">prügeln</t></tg></mg></e>
-<e><lg><l pos="V">бинтовамс</l></lg><mg><tg xml:lang="deu"><field>med.</field><t pos="V" val="TV"> verbinden</t></tg></mg></e>
+<e><lg><l pos="V">бинтовамс</l></lg><mg><tg xml:lang="deu"><domain domain="Medicine"/><t pos="V" val="TV"> verbinden</t></tg></mg></e>
 <e><lg><l pos="V">бирдадевемс</l></lg><mg><tg xml:lang="deu"><t pos="V">vergeudet (verschwendet) werden</t></tg></mg></e>
 <e><lg><l pos="V">бирдадемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">verschwenden</t>,<t pos="V" val="TV">vergeuden</t></tg></mg></e>
 <e><lg><l pos="V">битямс</l></lg><mg><tg xml:lang="deu"><t pos="V">seinen Einsatz eintragen</t></tg></mg></e>
@@ -370,7 +370,7 @@
 <e><lg><l pos="V">вейкендявомс</l></lg><mg><tg xml:lang="deu"><t pos="V">ähnlich werden</t>,<t pos="V" val="IV" gov="D">gleichen</t></tg></mg></e>
 <e><lg><l pos="V">вейкендямс</l></lg><mg><tg xml:lang="deu"><t pos="V" gov="D">ähnlich sein</t>,<t pos="V" val="IV" gov="D">ähneln</t>,<t pos="V" gov="D">ähnlich sehen</t></tg></mg></e>
 <e><lg><l pos="V">вейкетстямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V"><variants><l_syn>вейкендямс</l_syn></variants></t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">ebnen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">gleichmachen</t>,<t pos="V" val="TV">ausgleichen</t></tg></mg></e>
-<e><lg><l pos="V">вейс путомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">zusammenlegen</t>;<t pos="V" val="TV">zusammenfallen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>math.</field><t pos="V" val="TV"> addieren</t></tg></mg></e>
+<e><lg><l pos="V">вейс путомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">zusammenlegen</t>;<t pos="V" val="TV">zusammenfallen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Mathematics"/><t pos="V" val="TV"> addieren</t></tg></mg></e>
 <e><lg><l pos="V">вейсэндявомс</l></lg><mg><tg xml:lang="deu"><t pos="V" gov="D::an A">sich anschließen</t>;<t pos="V">sich vereinigen</t></tg></mg></e>
 <e><lg><l pos="V">вейсэндямс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>вейсэндявомс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">вейсэньгавтомс</l></lg><mg><tg xml:lang="deu"><t pos="V">vereinigt machen</t></tg></mg></e>
@@ -449,7 +449,7 @@
 <e><lg><l pos="V">воровамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">stehlen</t>,<t pos="V" range="umgsp." val="TV">klauen</t></tg></mg></e>
 <e><lg><l pos="V">врадомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">krepieren</t>,<t pos="V" val="IV">verrecken</t></tg></mg></e>
 <e><lg><l pos="V">враждовамс</l></lg><mg><tg xml:lang="deu"><t pos="V" gov="D">j-m. Feind sein</t>,<t pos="V">sich [einander] befeinden</t></tg></mg></e>
-<e><lg><l pos="V">вулканизировамс</l></lg><mg><tg xml:lang="deu"><field>tech.</field><t pos="V" val="TV"> vulkanisieren</t></tg></mg></e>
+<e><lg><l pos="V">вулканизировамс</l></lg><mg><tg xml:lang="deu"><domain domain="Technology"/><t pos="V" val="TV"> vulkanisieren</t></tg></mg></e>
 <e><lg><l pos="V">вульгаризировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">vulgarisieren</t></tg></mg></e>
 <e><lg><l pos="V">выжнэмс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">tönen (über die Sense)</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">fürchten</t>,<t pos="V" gov="vor D">Angst haben</t></tg></mg></e>
 <e><lg><l pos="V">выркадемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">wegwerfen </t>;<t pos="V" val="TV">wegschmeißen</t>;<t pos="V">zur Seite werfen</t></tg></mg></e>
@@ -551,7 +551,7 @@
 <e><lg><l pos="V">гурямс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich verstecken</t>;<t pos="V">sich verbergen</t></tg></mg></e>
 <e><lg><l pos="V">гылкадемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">schlucken</t>;<t pos="V" val="TV">verschlingen</t></tg></mg></e>
 <e><lg><l pos="V">гырнамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">lodern</t>;<t pos="V" val="IV">flammen</t>;<t pos="V" val="IV">brennen</t></tg></mg></e>
-<e><lg><l pos="V">гырнэмс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">röcheln</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>med.</field><t pos="V"> heiser sein</t></tg></mg></e>
+<e><lg><l pos="V">гырнэмс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">röcheln</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Medicine"/><t pos="V"> heiser sein</t></tg></mg></e>
 <e><lg><l pos="V">даволгадомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">toben</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">wirbeln</t></tg></mg></e>
 <e><lg><l pos="V">даволгалемс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>даволгадомс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">дакснемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">zustimmen</t>,<t pos="V" val="TV">bejahen</t>,<t pos="V" gov="zu D">ja sagen</t></tg></mg></e>
@@ -857,7 +857,7 @@
 <e><lg><l pos="V">какстамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">aufstoßen</t>,<t pos="V" val="IV">rülpsen</t></tg></mg></e>
 <e><lg><l pos="V">какстнемс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>какстамс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">калавтомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">zerstören</t>,<t pos="V" val="TV">vernichten</t></tg></mg></e>
-<e><lg><l pos="V">каладомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">zerstört werden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">verfallen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV">zusammenbrechen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><field>med.</field><t pos="V" val="IV"> scheitern</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" def="übertr.">verstimmt sein* [werden*]</t></tg></mg></e>
+<e><lg><l pos="V">каладомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">zerstört werden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">verfallen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV">zusammenbrechen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><domain domain="Medicine"/><t pos="V" val="IV"> scheitern</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" def="übertr.">verstimmt sein* [werden*]</t></tg></mg></e>
 <e><lg><l pos="V">калгамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV" gov="an D">nagen</t>,<t pos="V" val="TV">aushülsen</t></tg></mg></e>
 <e><lg><l pos="V">калгиямс</l></lg><mg><tg xml:lang="deu"><t pos="V">genagt [ausgehüst] werden</t></tg></mg></e>
 <e><lg><l pos="V">калготкстомомс</l></lg><mg><tg xml:lang="deu"><t pos="V">hart [fest] werden</t></tg></mg></e>
@@ -1011,7 +1011,7 @@
 <e><lg><l pos="V">козякадомс</l></lg><mg><tg xml:lang="deu"><t pos="V" gov="an D">sich bereichern</t></tg></mg></e>
 <e><lg><l pos="V">кокадемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">pochen</t>;<t pos="V" val="IV">klopfen</t>;<t pos="V" val="TV">zerschlagen</t></tg></mg></e>
 <e><lg><l pos="V">кокномс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">stottern</t>;<t pos="V" val="IV">stammeln</t></tg></mg></e>
-<e><lg><l pos="V">коксовамс</l></lg><mg><tg xml:lang="deu"><field>tech.</field><t pos="V" val="TV"> verkoken</t>,<t pos="V" val="TV">koken</t></tg></mg></e>
+<e><lg><l pos="V">коксовамс</l></lg><mg><tg xml:lang="deu"><domain domain="Technology"/><t pos="V" val="TV"> verkoken</t>,<t pos="V" val="TV">koken</t></tg></mg></e>
 <e><lg><l pos="V">коламс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">verderben</t>,<t pos="V" val="TV">beschädigen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">zerbrechen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V">kaputt machen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="TV">zerfressen* (über Motte)</t></tg></mg></e>
 <e><lg><l pos="V">колдовамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">zaubern</t>,<t pos="V" val="IV">hexen</t></tg></mg></e>
 <e><lg><l pos="V">колемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">verderben</t>,<t pos="V">verdorben sein</t></tg></mg></e>
@@ -1176,7 +1176,7 @@
 <e><lg><l pos="V">ламбаськавтомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">versüßen</t></tg></mg></e>
 <e><lg><l pos="V">ламбаськадомс</l></lg><mg><rom>I</rom><tg xml:lang="deu"><t pos="V"> süß werden</t></tg></mg></e>
 <e><lg><l pos="V">ламбаськадомс</l></lg><mg><rom>II</rom><tg xml:lang="deu"><t pos="V" def="übertr." val="IV"> kokettieren</t></tg></mg></e>
-<e><lg><l pos="V">ламокстамс</l></lg><mg><tg xml:lang="deu"><field>math.</field><t pos="V" val="TV"> multiplizieren</t></tg></mg></e>
+<e><lg><l pos="V">ламокстамс</l></lg><mg><tg xml:lang="deu"><domain domain="Mathematics"/><t pos="V" val="TV"> multiplizieren</t></tg></mg></e>
 <e><lg><l pos="V">ламолгавтомс</l></lg><mg><tg xml:lang="deu"><t pos="V">zu vergrößern</t>;<t pos="V">[zu vermehren] beginnen</t></tg></mg></e>
 <e><lg><l pos="V">ламолгадомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">größer werden</t>;<t pos="V">sich vergrößern</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">anwachsen</t></tg></mg></e>
 <e><lg><l pos="V">ламонзамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">vermehren</t>,<t pos="V" val="TV">vergrößern</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">steigern</t></tg></mg></e>
@@ -1317,7 +1317,7 @@
 <e><lg><l pos="V">маршировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">marschieren</t></tg></mg></e>
 <e><lg><l pos="V">марявомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">ertönen</t>;<t pos="V" val="IV">erschallen</t>,<t pos="V">zu hören sein; 2.<variants><l_syn>марямс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">марязевемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">erschallen</t>;<t pos="V">vernehmbar [laut]werden</t></tg></mg></e>
-<e><lg><l pos="V">марямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">hören</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>jur.</field><t pos="V" val="TV"> vernehmen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" range="umgsp." val="TV">erfahren</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV">fühlen</t>;<t pos="V" val="TV">empfinden</t>;<t pos="V" val="TV">wahrnehmen</t>;<t pos="V" val="TV">spüren</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" range="umgsp.">von Hörensagen wissen</t></tg></mg></e>
+<e><lg><l pos="V">марямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">hören</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Jurisprudence"/><t pos="V" val="TV"> vernehmen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" range="umgsp." val="TV">erfahren</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV">fühlen</t>;<t pos="V" val="TV">empfinden</t>;<t pos="V" val="TV">wahrnehmen</t>;<t pos="V" val="TV">spüren</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" range="umgsp.">von Hörensagen wissen</t></tg></mg></e>
 <e><lg><l pos="V">марямс-кулямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">erfahren</t>;<t pos="V">vom Hörensagen wissen</t></tg></mg></e>
 <e><lg><l pos="V">маскировавомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">sich maskieren</t>;<t pos="V">sich verkleiden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">sich verbergen</t></tg></mg></e>
 <e><lg><l pos="V">маскировамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">maskieren</t>;<t pos="V" val="TV">verkleiden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">verbergen</t>;<t pos="V" val="TV">verschleiern</t>;<t pos="V" val="TV">vermummen</t>;<t pos="V" val="TV">verstellen</t></tg></mg></e>
@@ -1337,7 +1337,7 @@
 <e><lg><l pos="V">медиямс</l></lg><mg><tg xml:lang="deu"><t pos="V">honigsüß werden</t></tg></mg></e>
 <e><lg><l pos="V">мельс туемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">gefallen</t></tg></mg></e>
 <e><lg><l pos="V">мель путомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">den Wunsch [den Fleiß] ausdrücken</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" gov="D">Achtung erweisen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">verordnen</t>;<t pos="V">einen Beschluss erlassen</t></tg></mg></e>
-<e><lg><l pos="V">мель витемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">befriedigen</t>,<t pos="V" val="TV">zufriedenstellen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>milit.</field><t pos="V" val="TV"> abfinden</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV" gov="D">entsprechen</t>;<t pos="V" val="IV">genügen</t></tg></mg></e>
+<e><lg><l pos="V">мель витемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">befriedigen</t>,<t pos="V" val="TV">zufriedenstellen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Military"/><t pos="V" val="TV"> abfinden</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV" gov="D">entsprechen</t>;<t pos="V" val="IV">genügen</t></tg></mg></e>
 <e><lg><l pos="V">мель ваномс</l></lg><mg><tg xml:lang="deu"><t pos="V">einen Gefallen tun</t>;<t pos="V" gov="D">gefällig sein</t></tg></mg></e>
 <e><lg><l pos="V">мель кепедемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV"></t>;<t pos="V">1. in Begeisterung versetzen</t>;<t pos="V" val="TV">verführen</t>;<t pos="V" val="TV">verleiten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" gov="von D">sich hinreisen lassen</t>,<t pos="V" gov="für A">sich begeistern</t></tg></mg></e>
 <e><lg><l pos="V">мель кольстемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">verstimmen</t>,<t pos="V" val="TV">bekümmern</t></tg></mg></e>
@@ -1387,18 +1387,18 @@
 <e><lg><l pos="V">молемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">gehen</t>;<t pos="V" val="IV">(hin)gehen</t>;<t pos="V" val="IV">kommen</t>;<t pos="V" val="IV">fahren</t></tg></mg></e>
 <e><lg><l pos="V">каршо молемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">erwidern</t>;<t pos="V" val="TV">entgegnen</t>;<t pos="V" val="IV">widersprechen</t></tg></mg></e>
 <e><lg><l pos="V">монополизировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">monopolisieren</t>,<t pos="V">zum Monopol machen</t></tg></mg></e>
-<e><lg><l pos="V">моравтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><field>relig.</field><t pos="V" val="TV"> die Totenmesse lesen*[zelebrieren]</t>;<t pos="V" val="TV">absingen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">ruhmen</t>;<t pos="V" val="TV">preisen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="TV">besingen</t>;<t pos="V" val="TV">lobpreisen</t></tg></mg></e>
+<e><lg><l pos="V">моравтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><domain domain="Religion"/><t pos="V" val="TV"> die Totenmesse lesen*[zelebrieren]</t>;<t pos="V" val="TV">absingen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">ruhmen</t>;<t pos="V" val="TV">preisen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="TV">besingen</t>;<t pos="V" val="TV">lobpreisen</t></tg></mg></e>
 <e><lg><l pos="V">моразевемс</l></lg><mg><tg xml:lang="deu"><t pos="V">anfangen* ( etw) zu singen</t></tg></mg></e>
 <e><lg><l pos="V">моракшномс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>морамс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">морамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV::IV">singen</t>;<t pos="V" val="IV">vorsingen</t>,<t pos="V" val="TV">besingen</t></tg></mg></e>
 <e><lg><l pos="V">морсемс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>морамс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">морявомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">abmagern</t>;<t pos="V" val="IV">abfallen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">sich vergiften</t>,<t pos="V">Gift nehmen</t></tg></mg></e>
-<e><lg><l pos="V">морямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">vergiften</t>,<t pos="V" val="TV">ausrotten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>tech.</field><t pos="V" val="TV"> ätzen</t>,<t pos="V" val="TV">beizen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><field>chem.</field><t pos="V" val="TV"> abbrennen</t></tg></mg></e>
+<e><lg><l pos="V">морямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">vergiften</t>,<t pos="V" val="TV">ausrotten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Technology"/><t pos="V" val="TV"> ätzen</t>,<t pos="V" val="TV">beizen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><domain domain="Chemistry"/><t pos="V" val="TV"> abbrennen</t></tg></mg></e>
 <e><lg><l pos="V">мостямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">pflastern</t></tg></mg></e>
 <e><lg><l pos="V">мотивировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">motivieren</t>,<t pos="V" val="TV">begründen</t></tg></mg></e>
 <e><lg><l pos="V">моткодемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV::IV">murmeln</t>;<t pos="V" val="TV::IV">brummen</t></tg></mg></e>
 <e><lg><l pos="V">мотордомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">schwatzen</t>;<t pos="V" val="IV">schwätzen</t>;<t pos="V" val="IV">plappern</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV::IV">brummen</t>;<t pos="V" val="IV">knurren (über Hund)</t></tg></mg></e>
-<e><lg><l pos="V">мотыжамс</l></lg><mg><tg xml:lang="deu"><field>landw.</field><t pos="V"> mit der Hacke bearbeiten</t>,<t pos="V" val="TV">karsten</t></tg></mg></e>
+<e><lg><l pos="V">мотыжамс</l></lg><mg><tg xml:lang="deu"><domain domain="Agriculture"/><t pos="V"> mit der Hacke bearbeiten</t>,<t pos="V" val="TV">karsten</t></tg></mg></e>
 <e><lg><l pos="V">мошамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">kalfatern</t>;<t pos="V" val="TV">(Fugen) abdichten</t></tg></mg></e>
 <e><lg><l pos="V">мошенничакшномс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">betrügen</t>;<t pos="V" val="TV">beschwindeln</t>;<t pos="V" val="TV">prellen</t>;<t pos="V" val="IV">gaunern</t></tg></mg></e>
 <e><lg><l pos="V">муевемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">sich finden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">sich zurechtfinden</t></tg></mg></e>
@@ -1588,7 +1588,7 @@
 <e><lg><l pos="V">опавтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">steckenbleiben</t>,<t pos="V" val="IV">einsinken</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" range="umgspr." val="IV">verschwinden</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">übertönen</t></tg></mg></e>
 <e><lg><l pos="V">опакадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich beruhigen</t></tg></mg></e>
 <e><lg><l pos="V">опамомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">ruhig werden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">aufhören</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" def="übertr." val="IV">(still)schweigen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" range="umgspr." val="IV">austoben</t></tg></mg></e>
-<e><lg><l pos="V">оперировамс</l></lg><mg><tg xml:lang="deu"><field>med.</field><t pos="V" val="IV"> operieren</t></tg></mg></e>
+<e><lg><l pos="V">оперировамс</l></lg><mg><tg xml:lang="deu"><domain domain="Medicine"/><t pos="V" val="IV"> operieren</t></tg></mg></e>
 <e><lg><l pos="V">оправдамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">freisprechen</t>,<t pos="V" val="TV">rechtfertigen</t></tg></mg></e>
 <e><lg><l pos="V">општ меремс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich beruhigen</t>,<t pos="V">ruhig [still] werden</t></tg></mg></e>
 <e><lg><l pos="V">општ теемс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich beruhigen</t>,<t pos="V" val="IV">stillschweigen</t>,<t pos="V" val="IV">verstummen</t>;<t pos="V" val="IV">aufhören</t></tg></mg></e>
@@ -1789,7 +1789,7 @@
 <e><lg><l pos="V">цельс понгомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">das Ziel treffen</t></tg></mg></e>
 <e><lg><l pos="V">капканс понгомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">dem Fangeisen geraten</t></tg></mg></e>
 <e><lg><l pos="V">понгонемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">geraten</t>;<t pos="V" val="IV">(hinei) fallen</t></tg></mg></e>
-<e><lg><l pos="V">понжавтомс</l></lg><mg><tg xml:lang="deu"><field>landw.</field><t pos="V" val="TV"> schwingen* (Korn)</t>;<t pos="V" val="TV">worfeln</t>,<t pos="V" val="TV">wannen</t></tg></mg></e>
+<e><lg><l pos="V">понжавтомс</l></lg><mg><tg xml:lang="deu"><domain domain="Agriculture"/><t pos="V" val="TV"> schwingen* (Korn)</t>;<t pos="V" val="TV">worfeln</t>,<t pos="V" val="TV">wannen</t></tg></mg></e>
 <e><lg><l pos="V">поныявтомс</l></lg><mg><tg xml:lang="deu"><t pos="V">bewachsen können</t></tg></mg></e>
 <e><lg><l pos="V">поныямс</l></lg><mg><tg xml:lang="deu"><t pos="V">mit Haar bedeckt (bewachsen) sein</t></tg></mg></e>
 <e><lg><l pos="V">популяризировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">popularisieren</t></tg></mg></e>
@@ -1965,7 +1965,7 @@
 <e><lg><l pos="V">ремшамс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>ремедемс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">ренгемс</l></lg><mg><tg xml:lang="deu"><t pos="V" range="dial." val="TV">1. langweilen</t>;<t pos="V" val="TV">belästigen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV::IV">schwatzen</t>,<t pos="V" val="TV::IV">plappern</t></tg></mg></e>
 <e><lg><l pos="V">реорганизовамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">reorganisieren</t>;<t pos="V" val="TV">umorganisieren</t>;<t pos="V" val="TV">umstellen</t>;<t pos="V" val="TV">umbauen</t></tg></mg></e>
-<e><lg><l pos="V">репетировамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><field>theat.</field><t pos="V" val="TV"> proben</t>;<t pos="V">Probe halten</t>;<t pos="V" val="TV">repetieren</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">repetieren</t>;<t pos="V" gov="D">Nachhilfestunden geben</t></tg></mg></e>
+<e><lg><l pos="V">репетировамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><domain domain="Theater"/><t pos="V" val="TV"> proben</t>;<t pos="V">Probe halten</t>;<t pos="V" val="TV">repetieren</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">repetieren</t>;<t pos="V" gov="D">Nachhilfestunden geben</t></tg></mg></e>
 <e><lg><l pos="V">реставрировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">restaurieren</t>;<t pos="V" val="TV">wiederherstellen</t>;<t pos="V" val="TV">wiederaufrichten</t>;<t pos="V" val="TV">wiederauffrischen</t></tg></mg></e>
 <e><lg><l pos="V">рестамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">braten</t>;<t pos="V" val="TV">rösten</t></tg></mg></e>
 <e><lg><l pos="V">рестедемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" gov="D">einen Hieb [Schlag] versetzen</t>;<t pos="V" val="TV">herunterschlagen</t>;<t pos="V" val="TV">umwerfen</t>;<t pos="V">zu Boden werfen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">erheben* (den Kopf)</t>;<t pos="V">schnell heben</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">(hin)werfen</t>;<t pos="V" val="TV">schmeißen</t></tg></mg></e>
@@ -1983,7 +1983,7 @@
 <e><lg><l pos="V">рисовамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">zeichnen</t>;<t pos="V" val="TV">malen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV">schaffen</t>,<t pos="V" val="TV">erzeugen</t></tg></mg></e>
 <e><lg><l pos="V">ристемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">peitschen</t>,<t pos="V" val="TV">schlagen</t></tg></mg></e>
 <e><lg><l pos="V">ристнемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">fließen</t>,<t pos="V" val="IV">strömen</t>;<t pos="V">sich ergießen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">reiseln</t>,<t pos="V" val="IV">rinnen</t>;<t pos="V" val="IV">triefen</t></tg></mg></e>
-<e><lg><l pos="V">рифмовамс</l></lg><mg><tg xml:lang="deu"><field>lit.</field><t pos="V" val="TV"> reimen</t></tg></mg></e>
+<e><lg><l pos="V">рифмовамс</l></lg><mg><tg xml:lang="deu"><domain domain="Literature"/><t pos="V" val="TV"> reimen</t></tg></mg></e>
 <e><lg><l pos="V">риштявомс</l></lg><mg><tg xml:lang="deu"><t pos="V" gov="an D::gegen A">sich stoßen</t></tg></mg></e>
 <e><lg><l pos="V">риштямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV" gov="mit D">schlagen</t>,<t pos="V" gov="D">einen Hieb [Schlag] versetzen</t></tg></mg></e>
 <e><lg><l pos="V">роботамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">arbeiten</t>,<t pos="V">im Arbeitsverhältnis stehen</t>;<t pos="V" val="IV">wirken</t>;<t pos="V">tätig sein</t></tg></mg></e>
@@ -2100,7 +2100,7 @@
 <e><lg><l pos="V">скирдамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">kneifen</t>,<t pos="V" val="TV">zwicken</t></tg></mg></e>
 <e><lg><l pos="V">скирдовамс</l></lg><mg><tg xml:lang="deu"><t pos="V">in Heuschober zusammenlegen</t></tg></mg></e>
 <e><lg><l pos="V">скирямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">rupfen</t>;<t pos="V" val="TV">zupfen</t></tg></mg></e>
-<e><lg><l pos="V">складямс</l></lg><mg><tg xml:lang="deu"><field>lit.</field><t pos="V" val="TV::IV"> dichten</t>;<t pos="V" val="TV">schreiben</t>,<t pos="V" val="TV">verfassen</t></tg></mg></e>
+<e><lg><l pos="V">складямс</l></lg><mg><tg xml:lang="deu"><domain domain="Literature"/><t pos="V" val="TV::IV"> dichten</t>;<t pos="V" val="TV">schreiben</t>,<t pos="V" val="TV">verfassen</t></tg></mg></e>
 <e><lg><l pos="V">скокадемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">springen</t>;<t pos="V" val="IV">hüpfen</t></tg></mg></e>
 <e><lg><l pos="V">скокаемс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>скокадемс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">скупойгадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">geizig werden</t></tg></mg></e>
@@ -2118,8 +2118,8 @@
 <e><lg><l pos="V">снартомс</l><variants><l_syn pos="V(N::V)">мель саемс</l_syn></variants></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">wollen</t>;<t pos="V" val="TV">mögen</t>;<t pos="V" val="TV">begehren</t>;<t pos="V" val="TV">wünschen</t></tg></mg></e>
 <e><lg><l pos="V">снартнемс</l></lg><mg><tg xml:lang="deu"><t pos="V">versuchen etw. zu machen [tun*]</t></tg></mg></e>
 <e><lg><l pos="V">совавомс</l></lg><mg><tg xml:lang="deu"><t pos="V">Möglichkeit haben</t>,<t pos="V">einzutreten</t></tg></mg></e>
-<e><lg><l pos="V">совавтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><field>lit.</field><t pos="V" val="TV"> einführen</t>;<t pos="V" val="TV">einleiten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">hereinführen [einladen*]</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><field>milit.</field><t pos="V" val="TV"> besetzen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="TV">bringen</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" val="TV">unterbringen</t></tg></mg></e>
-<e><lg><l pos="V">совамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">hineingehen</t>;<t pos="V" val="IV" gov="in A">eintreten</t>,<t pos="V" val="TV" gov="A">betreten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV" gov="an D">teilnehmen</t>,<t pos="V">Mitglied sein</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" gov="D">beitreten</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V">heiraten</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><field>milit.</field><t pos="V"> von etw. Besitz nehmen* [ergreifen*]</t>;<t pos="V" val="TV">besetzen</t></tg></mg> <mg arabNo="six"><tg xml:lang="deu"><t pos="V" val="IV">einziehen</t></tg></mg> <mg arabNo="seven"><tg xml:lang="deu"><t pos="V" val="TV">überschwemmen</t>,<t pos="V" val="TV">überflüten</t></tg></mg> <mg arabNo="eight"><tg xml:lang="deu"><t pos="V" def="übertr.">sich einprägen</t></tg></mg> <mg arabNo="nine"><tg xml:lang="deu"><t pos="V" val="IV">entstehen</t>,<t pos="V" val="IV">auftauchen</t>;<t pos="V" val="IV">einfallen</t></tg></mg></e>
+<e><lg><l pos="V">совавтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><domain domain="Literature"/><t pos="V" val="TV"> einführen</t>;<t pos="V" val="TV">einleiten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">hereinführen [einladen*]</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><domain domain="Military"/><t pos="V" val="TV"> besetzen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="TV">bringen</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" val="TV">unterbringen</t></tg></mg></e>
+<e><lg><l pos="V">совамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">hineingehen</t>;<t pos="V" val="IV" gov="in A">eintreten</t>,<t pos="V" val="TV" gov="A">betreten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV" gov="an D">teilnehmen</t>,<t pos="V">Mitglied sein</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" gov="D">beitreten</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V">heiraten</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><domain domain="Military"/><t pos="V"> von etw. Besitz nehmen* [ergreifen*]</t>;<t pos="V" val="TV">besetzen</t></tg></mg> <mg arabNo="six"><tg xml:lang="deu"><t pos="V" val="IV">einziehen</t></tg></mg> <mg arabNo="seven"><tg xml:lang="deu"><t pos="V" val="TV">überschwemmen</t>,<t pos="V" val="TV">überflüten</t></tg></mg> <mg arabNo="eight"><tg xml:lang="deu"><t pos="V" def="übertr.">sich einprägen</t></tg></mg> <mg arabNo="nine"><tg xml:lang="deu"><t pos="V" val="IV">entstehen</t>,<t pos="V" val="IV">auftauchen</t>;<t pos="V" val="IV">einfallen</t></tg></mg></e>
 <e><lg><l pos="V">совестямс</l></lg><mg><tg xml:lang="deu"><t pos="V">j-n beschämen</t>;<t pos="V">i-m ins Gewissen reden</t></tg></mg></e>
 <e><lg><l pos="V">советовамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">raten</t>,<t pos="V" val="TV">beraten</t>,<t pos="V" val="TV">empfehlen</t></tg></mg></e>
 <e><lg><l pos="V">совсемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">(hin)gehen</t>;<t pos="V" val="IV">kommen</t>;<t pos="V" val="TV">besuchen</t></tg></mg></e>
@@ -2158,7 +2158,7 @@
 <e><lg><l pos="V">сотамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">austrocknen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">aufsaugen</t>,<t pos="V" val="TV">einsaugen</t>;<t pos="V" val="IV">eindringen</t></tg></mg></e>
 <e><lg><l pos="V">спекулировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">spekulieren</t>;<t pos="V" val="TV">schieben</t></tg></mg></e>
 <e><lg><l pos="V">спиртовамс</l></lg><mg><tg xml:lang="deu"><t pos="V">in Spiritus legen [aufbewahren]</t></tg></mg></e>
-<e><lg><l pos="V">споведямс</l></lg><mg><tg xml:lang="deu"><field>relig.</field><t pos="V" val="TV::IV"> beichten</t></tg></mg></e>
+<e><lg><l pos="V">споведямс</l></lg><mg><tg xml:lang="deu"><domain domain="Religion"/><t pos="V" val="TV::IV"> beichten</t></tg></mg></e>
 <e><lg><l pos="V">спорямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">streiten</t>;<t pos="V" gov="über A">sich streiten</t></tg></mg></e>
 <e><lg><l pos="V">справамс</l></lg><mg><tg xml:lang="deu"><t pos="V">gesund werden</t>,<t pos="V">sich erholen</t>;<t pos="V">sich bessern</t>;<t pos="V">sich verbessern</t></tg></mg></e>
 <e><lg><l pos="V">спринцовамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">spülen</t></tg></mg></e>
@@ -2197,11 +2197,11 @@
 <e><lg><l pos="V">стявтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">hinstellen</t>;<t pos="V" val="TV">aufstellen</t>;<t pos="V" val="TV">errichten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">einschlagen</t>,<t pos="V" val="TV">hineinstecken</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">aufwecken</t></tg></mg></e>
 <e><lg><l pos="V">стямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">aufstehen</t>;<t pos="V">sich stellen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">erwachen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" def="übertr." val="IV">gelten</t></tg></mg></e>
 <e><lg><l pos="V">суводемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="vimp">fein regnen</t>,<t pos="V" val="vimp">spühen</t></tg></mg></e>
-<e><lg><l pos="V">сувтамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">beräuchern</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>relig.</field><t pos="V" val="IV"> mit Weihrauch räuchern</t></tg></mg></e>
+<e><lg><l pos="V">сувтамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">beräuchern</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Religion"/><t pos="V" val="IV"> mit Weihrauch räuchern</t></tg></mg></e>
 <e><lg><l pos="V">сувтнемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">durchsieben</t>;<t pos="V" val="TV">aussieben</t>;<t pos="V">2.<variants><l_syn>суводемс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">судодомс</l></lg><mg><tg xml:lang="deu"><t pos="V">die Rinde abziehen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" def="übertr.">die Haut abziehen</t></tg></mg></e>
 <e><lg><l pos="V">судрямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">(aus)kämmen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">aufkratzen</t></tg></mg></e>
-<e><lg><l pos="V">судямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">richten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>sport.</field><t pos="V"> das Spiel leiten</t></tg></mg></e>
+<e><lg><l pos="V">судямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">richten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Sports"/><t pos="V"> das Spiel leiten</t></tg></mg></e>
 <e><lg><l pos="V">суксыямс</l></lg><mg><tg xml:lang="deu"><t pos="V">würmig werden</t></tg></mg></e>
 <e><lg><l pos="V">сумборьгадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">trüb(e) werden</t></tg></mg></e>
 <e><lg><l pos="V">суммировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">summieren</t>;<t pos="V" val="TV">resümieren</t>;<t pos="V" val="TV">schlussfolgern</t></tg></mg></e>
@@ -2302,7 +2302,7 @@
 <e><lg><l pos="V">тарадыямс</l></lg><mg><tg xml:lang="deu"><t pos="V">(sich) verzweigen</t>;<t pos="V">in die Zweige schießen</t></tg></mg></e>
 <e><lg><l pos="V">таргавомс</l></lg><mg><rom>I</rom><tg xml:lang="deu"><t pos="V" val="TV"> 1. abnehmen</t>,<t pos="V" val="TV">ablegen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">anspannen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V">sich ausdehnen</t>,<t pos="V">sich ausweiten</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="TV">heranziehen</t>,<t pos="V" val="TV">herbeiziehen</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" val="IV">dauern</t>,<t pos="V" val="TV">fortsetzen</t></tg></mg> <mg arabNo="six"><tg xml:lang="deu"><t pos="V">sich strecken</t>,<t pos="V">sich ausstrecken</t></tg></mg> <mg arabNo="seven"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV">bilden (über Haut)</t></tg></mg></e>
 <e><lg><l pos="V">таргавомс</l></lg><mg><rom>II</rom><tg xml:lang="deu"><t pos="V" range="umgsp."> sich satt [voll] rauchen</t></tg></mg></e>
-<e><lg><l pos="V">таргамс</l></lg><mg><rom>I</rom><tg xml:lang="deu"><t pos="V" val="TV"> 1. herausholen</t>;<t pos="V" val="TV">herausschleppen</t>,<t pos="V" val="TV">herausziehen</t>;<t pos="V" val="TV">herausreißen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">schöpfen</t></tg><xg><x>ойме таргамс</x><xt> Atem schöpfen</xt></xg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">anstimmen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="TV" gov="an D">ziehen</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" val="TV">ausziehen</t></tg></mg> <mg arabNo="six"><tg xml:lang="deu"><field>landw.</field><t pos="V" val="TV"> roden</t></tg></mg></e>
+<e><lg><l pos="V">таргамс</l></lg><mg><rom>I</rom><tg xml:lang="deu"><t pos="V" val="TV"> 1. herausholen</t>;<t pos="V" val="TV">herausschleppen</t>,<t pos="V" val="TV">herausziehen</t>;<t pos="V" val="TV">herausreißen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">schöpfen</t></tg><xg><x>ойме таргамс</x><xt> Atem schöpfen</xt></xg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">anstimmen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="TV" gov="an D">ziehen</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" val="TV">ausziehen</t></tg></mg> <mg arabNo="six"><tg xml:lang="deu"><domain domain="Agriculture"/><t pos="V" val="TV"> roden</t></tg></mg></e>
 <e><lg><l pos="V">таргамс</l></lg><mg><rom>II</rom><tg xml:lang="deu"><t pos="V" val="TV"> rauchen</t></tg></mg></e>
 <e><lg><l pos="V">таргатомс</l></lg><mg><tg xml:lang="deu"><t pos="V" gov="vor D">sich krümmen</t>;<t pos="V">sich zusamenkrümmen</t></tg></mg></e>
 <e><lg><l pos="V">таргоземс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">schwellen</t></tg></mg></e>
@@ -2395,9 +2395,9 @@
 <e><lg><l pos="V">тошналгадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">Sehnsucht bekommen</t>,<t pos="V">sehnsuchtig werden</t></tg></mg></e>
 <e><lg><l pos="V">тошнаямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" gov="D">sich sehnen nach</t>,<t pos="V" gov="D">Sehnsucht bekommen nach</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">sich langweilen</t>,<t pos="V">die Geduld verlieren</t></tg></mg></e>
 <e><lg><l pos="V">тощалгавдтомс</l></lg><mg><tg xml:lang="deu"><t pos="V">mager werden</t>,<t pos="V" val="IV">abnehmen</t></tg></mg></e>
-<e><lg><l pos="V">тоярдомс</l></lg><mg><tg xml:lang="deu"><t pos="V">mit Buschwerk bedeckt (bewachsen) sein</t>,<field>bot.</field><t pos="V"> sich büschen</t>,<t pos="V">buschig [strausig] werden</t></tg></mg></e>
+<e><lg><l pos="V">тоярдомс</l></lg><mg><tg xml:lang="deu"><t pos="V">mit Buschwerk bedeckt (bewachsen) sein</t>,<domain domain="Botany"/><t pos="V"> sich büschen</t>,<t pos="V">buschig [strausig] werden</t></tg></mg></e>
 <e><lg><l pos="V">трававомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">sich ärgern</t>,<t pos="V">böse werden</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">sich vergiften</t></tg></mg></e>
-<e><lg><l pos="V">травамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">reizen</t>,<t pos="V">böses Blut machen</t>;<t pos="V" val="TV">erregen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">vernichten</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><field>landw.</field><t pos="V" val="TV"> beizen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV" gov="auf A::gegen A">hetzen</t></tg></mg></e>
+<e><lg><l pos="V">травамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">reizen</t>,<t pos="V">böses Blut machen</t>;<t pos="V" val="TV">erregen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">vernichten</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><domain domain="Agriculture"/><t pos="V" val="TV"> beizen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV" gov="auf A::gegen A">hetzen</t></tg></mg></e>
 <e><lg><l pos="V">трамбовамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">feststampfen</t></tg></mg></e>
 <e><lg><l pos="V">транслировамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">übergeben</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">übertragen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">senden</t></tg></mg></e>
 <e><lg><l pos="V">тревожавомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">sich beunruhigen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" range="umgsp.">unruhig werden</t></tg></mg></e>
@@ -2440,7 +2440,7 @@
 <e><lg><l pos="V">убававомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">sich verkleinern</t>,<t pos="V">kleiner werden</t>,<t pos="V" val="TV">sich verringern</t>,<t pos="V" val="TV">sich vermindern</t>,<t pos="V" val="IV">abnehmen</t>;<t pos="V">reduziert werden</t>,<t pos="V" val="IV">nachlassen</t></tg></mg></e>
 <e><lg><l pos="V">убавамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">vermindern</t>,<t pos="V" val="TV">verringern</t>;<t pos="V" val="TV">verkleinern</t>,<t pos="V">kleiner machen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">(ver)kürzen</t>,<t pos="V">enger machen</t></tg></mg></e>
 <e><lg><l pos="V">уважамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV" gov="auf A">achten</t>,<t pos="V" gov="A">beachten</t>;<t pos="V" val="TV">respektieren</t></tg></mg></e>
-<e><lg><l pos="V">увардомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><field>tech.</field><t pos="V" val="TV"> umwickeln</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" range="umgsp." gov="an D">überfressen</t></tg></mg></e>
+<e><lg><l pos="V">увардомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><domain domain="Technology"/><t pos="V" val="TV"> umwickeln</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" range="umgsp." gov="an D">überfressen</t></tg></mg></e>
 <e><lg><l pos="V">увнозевемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">erbrausen</t>,<t pos="V">beginnen* zu heulen [zu surren, zu tönen, zu läuten, zu brausen, zu tosen, zu wüten]</t></tg></mg></e>
 <e><lg><l pos="V">увномс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">heulen</t>,<t pos="V" val="IV">tosen</t>,<t pos="V" val="IV">wüten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">brausen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV">surren</t>,<t pos="V" val="IV">summen</t></tg></mg></e>
 <e><lg><l pos="V">увтнемс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>увтямс</l_syn></variants></t></tg></mg></e>
@@ -2477,7 +2477,7 @@
 <e><lg><l pos="V">урадомс</l></lg><mg><rom>II</rom><tg xml:lang="deu"><t pos="V" val="TV"> (durch)spülen</t></tg></mg></e>
 <e><lg><l pos="V">урадомс</l></lg><mg><rom>III</rom><tg xml:lang="deu"><t pos="V" range="umgsp." val="IV"> verenden</t>,<t pos="V" val="IV">krepieren</t>,<t pos="V" val="IV">verecken</t></tg></mg></e>
 <e><lg><l pos="V">уракадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">anfangen* zu weinen</t>,<t pos="V">in Tränen ausbrechen</t></tg></mg></e>
-<e><lg><l pos="V">ургатемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" gov="auf A">sich werfen</t>,<t pos="V">sich stürzen</t>;<t pos="V" val="IV" gov="über A">herfallen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>med.</field><t pos="V" val="IV"> an der Mastitis erkranken</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV" gov="D">anhaften</t>,<t pos="V" val="IV">festsitzen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" def="übertr." val="IV">ausbrechen</t></tg></mg></e>
+<e><lg><l pos="V">ургатемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" gov="auf A">sich werfen</t>,<t pos="V">sich stürzen</t>;<t pos="V" val="IV" gov="über A">herfallen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Medicine"/><t pos="V" val="IV"> an der Mastitis erkranken</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV" gov="D">anhaften</t>,<t pos="V" val="IV">festsitzen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" def="übertr." val="IV">ausbrechen</t></tg></mg></e>
 <e><lg><l pos="V">урнемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">laut weinen</t>,<t pos="V" val="TV">beweinen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" def="übertr." val="IV">(kläglich) heulen</t></tg></mg></e>
 <e><lg><l pos="V">урномс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">heulen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">knurren</t>,<t pos="V" val="IV">kluckern ,</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV">kollern</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="IV">schnurren</t></tg></mg> <mg arabNo="five"><tg xml:lang="deu"><t pos="V" def="übertr.">laut weinen</t></tg></mg></e>
 <e><lg><l pos="V">урозкадомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">verwaisen</t>,<t pos="V">zur Waise werden,</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">sich verlassen fühlen</t>;<t pos="V" val="IV">vereinsamen</t></tg></mg></e>
@@ -2491,7 +2491,7 @@
 <e><lg><l pos="V">уткодомс</l></lg><mg><tg xml:lang="deu"><t pos="V" range="umgsp." val="TV">stibitzen</t>,<t pos="V" val="TV">klauen</t></tg></mg></e>
 <e><lg><l pos="V">утюжамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">bügeln</t>,<t pos="V" val="TV">plätten</t></tg></mg></e>
 <e><lg><l pos="V">утякстневемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">einwiegen</t>;<t pos="V" val="TV">einschaukeln</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V"></t></tg><xg><x>мон утякстневинь</x><xt> ich wurde seekrank</xt></xg></mg></e>
-<e><lg><l pos="V">утякстнемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">sich schaukeln</t>;<t pos="V" val="TV">sich schwingen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">hin und her bewegen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">sich wiegen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><field>tech.</field><t pos="V" val="TV"> pumpen</t></tg></mg></e>
+<e><lg><l pos="V">утякстнемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">sich schaukeln</t>;<t pos="V" val="TV">sich schwingen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">hin und her bewegen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">sich wiegen</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><domain domain="Technology"/><t pos="V" val="TV"> pumpen</t></tg></mg></e>
 <e><lg><l pos="V">утякстомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">schaukeln</t>;<t pos="V" val="TV">wiegen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">leise [stanft] bewegen</t></tg></mg></e>
 <e><lg><l pos="V">ухажовамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">pflegen</t>,<t pos="V" val="IV" gov="für A">sorgen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" def="übertr." gov="D">den Hot machen</t>,<t pos="V" val="IV" gov="mit D">flirten</t></tg></mg></e>
 <e><lg><l pos="V">уцемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">schlafen</t></tg><xg><x>уцемс кеместэ</x><xt>fest schlafen</xt></xg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">nächtigen</t></tg></mg></e>
@@ -2515,7 +2515,7 @@
 <e><lg><l pos="V">фильтровамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">filtrieren</t>,<t pos="V" val="TV">filtern</t>,<t pos="V" val="TV">seihen</t></tg></mg></e>
 <e><lg><l pos="V">финансировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">finanzieren</t>,<t pos="V" gov="etwas zu D::etwas für A">Geld geben</t></tg></mg></e>
 <e><lg><l pos="V">формировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">formieren</t>,<t pos="V" val="TV">bilden</t></tg></mg></e>
-<e><lg><l pos="V">форсировамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">forcieren [- ΄si:-]</t>,<t pos="V" val="TV">beschleunigen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>milit.</field><t pos="V" val="TV"> erzwingen</t></tg></mg></e>
+<e><lg><l pos="V">форсировамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">forcieren [- ΄si:-]</t>,<t pos="V" val="TV">beschleunigen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Military"/><t pos="V" val="TV"> erzwingen</t></tg></mg></e>
 <e><lg><l pos="V">фотографировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">fotografieren</t></tg></mg></e>
 <e><lg><l pos="V">фуговамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">schlichten</t></tg></mg></e>
 <e><lg><l pos="V">функционировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">funktionieren</t></tg></mg></e>
@@ -2565,7 +2565,7 @@
 <e><lg><l pos="V">цямкамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">schmatzen ;</t></tg></mg></e>
 <e><lg><l pos="V">цяпамс</l></lg><mg><tg xml:lang="deu"><t pos="V">in die Hände klatschen</t>;<t pos="V">Beifall klatschen</t></tg></mg></e>
 <e><lg><l pos="V">цяподемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">hacken</t></tg></mg></e>
-<e><lg><l pos="V">цярадемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">knacken</t>,<t pos="V" val="IV">krachen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">knallen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><field>milit.</field><t pos="V" val="IV"> schießen</t>,<t pos="V">das Gewehr abfeuern</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="IV">schlagen</t></tg>; <xg><x>цярадемс мокшнасо столь ланга</x><xt> mit der Faust auf den Tisch schlagen* </xt></xg></mg></e>
+<e><lg><l pos="V">цярадемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">knacken</t>,<t pos="V" val="IV">krachen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">knallen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><domain domain="Military"/><t pos="V" val="IV"> schießen</t>,<t pos="V">das Gewehr abfeuern</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><t pos="V" val="IV">schlagen</t></tg>; <xg><x>цярадемс мокшнасо столь ланга</x><xt> mit der Faust auf den Tisch schlagen* </xt></xg></mg></e>
 <e><lg><l pos="V">цярномс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">donnern</t>,<t pos="V" val="IV">rollen</t>,<t pos="V" val="IV">grollen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="IV">poltern</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV">knarren</t></tg></mg></e>
 <e><lg><l pos="V">цятадемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">schlagen</t>;<t pos="V" val="TV">zerschlagen</t>;<t pos="V" def="übertr."></t></tg> <xg><x>цятадсь виев якшамо</x><xt> der Frost setzte ein</xt></xg></mg></e>
 <e><lg><l pos="V">цятномс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">knarren</t>,<t pos="V" val="IV">knistern <xg><x>прясь цятны</x> <range>umgsp.</range> <xt>mir brummt [schmerzt] der Kopf</xt></xg></t></tg></mg></e>
@@ -2599,8 +2599,8 @@
 <e><lg><l pos="V">чевтелгадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">weich [mürbe] werden</t>,<t pos="V">sich mildern</t></tg>; <xg><x>коштось чевтелгадсь</x><xt> die Luft milderte sich</xt></xg></mg></e>
 <e><lg><l pos="V">чевтемемс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>чевтелгадомс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">чевтемтемс</l></lg><mg><tg xml:lang="deu"><t pos="V">weicher [milder] machen</t>;<t pos="V" val="TV">mildern</t>;<t pos="V" val="TV">erweichen</t></tg></mg></e>
-<e><lg><l pos="V">чекамс</l></lg><mg><tg xml:lang="deu"><field>rel.</field><t pos="V" val="IV"> beten</t>,<t pos="V">sich bekreuzigen</t></tg></mg></e>
-<e><lg><l pos="V">чекамс-покамс</l></lg><mg><tg xml:lang="deu"><field>rel.</field><t pos="V"><variants><l_syn>чекамс</l_syn></variants></t></tg></mg></e>
+<e><lg><l pos="V">чекамс</l></lg><mg><tg xml:lang="deu"><domain domain="Religion"/><t pos="V" val="IV"> beten</t>,<t pos="V">sich bekreuzigen</t></tg></mg></e>
+<e><lg><l pos="V">чекамс-покамс</l></lg><mg><tg xml:lang="deu"><domain domain="Religion"/><t pos="V"><variants><l_syn>чекамс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">чекериямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">vershimmeln</t>,<t pos="V">sich mit Schimmel bedecken</t></tg></mg></e>
 <e><lg><l pos="V">челькиямс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">sich verunreinigen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">schmutzig werden</t>,<t pos="V">sich beschmutzen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="IV">verstauben</t>,<t pos="V">staubig werden</t>,<t pos="V">sich mit Staub bedecken</t></tg></mg></e>
 <e><lg><l pos="V">чемениявтомс</l></lg><mg><tg xml:lang="deu"><t pos="V">rostig machen</t></tg></mg></e>
@@ -2624,7 +2624,7 @@
 <e><lg><l pos="V">чиявтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">verheiraten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" range="umgsp.">an den Mann bringen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" def="verächt." range="umgsp." val="IV">verkuppeln</t></tg></mg></e>
 <e><lg><l pos="V">чиямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV" gov="um A">freien</t>,<t pos="V" val="TV">verheiraten</t></tg></mg></e>
 <e><lg><l pos="V">човалгадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">dünn (fein, schlank) werden</t></tg></mg></e>
-<e><lg><l pos="V">човамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">wetzen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">schleifen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">reiben</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><field>milit.</field><t pos="V" val="TV"> schärfen ;</t></tg></mg></e>
+<e><lg><l pos="V">човамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">wetzen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">schleifen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">reiben</t></tg></mg> <mg arabNo="four"><tg xml:lang="deu"><domain domain="Military"/><t pos="V" val="TV"> schärfen ;</t></tg></mg></e>
 <e><lg><l pos="V">човиявтомс</l></lg><mg><tg xml:lang="deu"><t pos="V">schäumen lassen</t>;<t pos="V">beginnen* [anfangen*] zu schäumen</t></tg></mg></e>
 <e><lg><l pos="V">човиямс</l></lg><mg><tg xml:lang="deu"><t pos="V">mit Schaum bedeckt sein</t></tg></mg></e>
 <e><lg><l pos="V">човоргавтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">mischen</t>;<t pos="V" val="TV">vermengen</t>;<t pos="V" val="TV">zusammenmischen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">vermischen</t>;<t pos="V" val="TV">verwirren</t>;<t pos="V">in Unordnung bringen</t></tg></mg> <mg arabNo="three"><tg xml:lang="deu"><t pos="V" val="TV">verwechseln</t></tg></mg></e>
@@ -2649,7 +2649,7 @@
 <e><lg><l pos="V">чукамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">ausschütten</t>;<t pos="V" val="TV">verschütten</t></tg></mg></e>
 <e><lg><l pos="V">чулгомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">(zer)spalten</t>;<t pos="V" val="TV">(zer)knacken</t></tg></mg></e>
 <e><lg><l pos="V">чулксетемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">schmerzen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V">weh tun</t></tg>; <xg><x>седеем чулксети</x><xt> mir tut das Herz weh</xt></xg></mg></e>
-<e><lg><l pos="V">чумондомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">beschuldigen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>juris.</field><t pos="V" val="TV"> anklagen</t></tg></mg></e>
+<e><lg><l pos="V">чумондомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">beschuldigen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Jurisprudence"/><t pos="V" val="TV"> anklagen</t></tg></mg></e>
 <e><lg><l pos="V">чупонемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">graben</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" def="übertr." val="IV">gehen</t></tg></mg></e>
 <e><lg><l pos="V">чурокстомомс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich lichten</t></tg></mg></e>
 <e><lg><l pos="V">чурокстомтомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">ausdünnen</t>,<t pos="V" val="TV">verziehen</t></tg></mg></e>
@@ -2694,7 +2694,7 @@
 <e><lg><l pos="V">штавтовомс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich entblößen</t></tg></mg></e>
 <e><lg><l pos="V">штавтомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">entblößen</t></tg></mg></e>
 <e><lg><l pos="V">штадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich auftun</t>,<t pos="V">sich entblößen</t></tg></mg></e>
-<e><lg><l pos="V">штамповамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><field>tech.</field><t pos="V" val="TV"> stanzen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">stempeln</t></tg></mg></e>
+<e><lg><l pos="V">штамповамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><domain domain="Technology"/><t pos="V" val="TV"> stanzen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">stempeln</t></tg></mg></e>
 <e><lg><l pos="V">штапськавтомс</l></lg><mg><tg xml:lang="deu"><t pos="V">entblößt machen</t>,<t pos="V">entblößen lassen</t></tg></mg></e>
 <e><lg><l pos="V">штапськадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich entblößen</t>,<t pos="V">entblößt werden</t></tg></mg></e>
 <e><lg><l pos="V">штемендямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">häufen</t></tg></mg></e>
@@ -2714,7 +2714,7 @@
 <e><lg><l pos="V">шутямс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">scherzen</t>,<t pos="V" val="IV">spaßen</t></tg></mg></e>
 <e><lg><l pos="V">щупадемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">kneifen* (in A)</t>,<t pos="V" val="TV">zwicken</t></tg></mg></e>
 <e><lg><l pos="V">щупамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">befühlen</t>,<t pos="V" val="TV">betasten</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV">sondieren</t></tg></mg></e>
-<e><lg><l pos="V">эвакуировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">evakuieren</t>;<t pos="V" val="TV">abtransportieren</t>;<field>milit.</field><t pos="V" val="IV"> abschieben</t></tg></mg></e>
+<e><lg><l pos="V">эвакуировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">evakuieren</t>;<t pos="V" val="TV">abtransportieren</t>;<domain domain="Military"/><t pos="V" val="IV"> abschieben</t></tg></mg></e>
 <e><lg><l pos="V">эвкставомс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV" gov="A">in etw eindringen</t></tg></mg></e>
 <e><lg><l pos="V">эвкстамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">stecken</t>;<t pos="V" val="TV">zustecken</t></tg></mg></e>
 <e><lg><l pos="V">эвтевемс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>эвтемс</l_syn></variants></t></tg></mg></e>
@@ -2737,7 +2737,7 @@
 <e><lg><l pos="V">эензамс</l></lg><mg><tg xml:lang="deu"><t pos="V"><variants><l_syn>эиявомс</l_syn></variants></t></tg></mg></e>
 <e><lg><l pos="V">эиямс</l></lg><mg><tg xml:lang="deu"><t pos="V">sich mit Eis bedecken</t></tg></mg></e>
 <e><lg><l pos="V">экзаменовамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">prüfen</t>;<t pos="V" val="TV">kontrollieren</t></tg></mg></e>
-<e><lg><l pos="V">эксплуатировамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">ausbeuten</t>;<t pos="V" val="TV">exploitieren</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>tech.</field><t pos="V"> nutzbar machen</t>;<t pos="V" val="TV">bewirtschaften</t></tg></mg></e>
+<e><lg><l pos="V">эксплуатировамс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">ausbeuten</t>;<t pos="V" val="TV">exploitieren</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Technology"/><t pos="V"> nutzbar machen</t>;<t pos="V" val="TV">bewirtschaften</t></tg></mg></e>
 <e><lg><l pos="V">экспортировамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">exportieren</t>;<t pos="V" val="TV">ausführen</t></tg></mg></e>
 <e><lg><l pos="V">экшелгавтомс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">kalt (kälter) machen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">lüften</t></tg></mg></e>
 <e><lg><l pos="V">экшелгадомс</l></lg><mg><tg xml:lang="deu"><t pos="V">kalt (kühl) werden</t></tg></mg></e>
@@ -2775,7 +2775,7 @@
 <e><lg><l pos="V">эшкставтомс</l></lg><mg><tg xml:lang="deu"><t pos="V">von <b>эшкстамс</b> überhitzt werden</t>;<t pos="V">verfaulen [vermodern] lassen</t></tg></mg></e>
 <e><lg><l pos="V">эшкстамс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">überhitzen (über Korn, Gras usw)</t>;<t pos="V" val="IV">verfaulen</t>;<t pos="V" val="IV">vermodern</t></tg></mg></e>
 <e><lg><l pos="V">ювсо молемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="IV">leicht (frei, schön) gehen</t></tg></mg></e>
-<e><lg><l pos="V">ювномс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">wehen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><field>landw.</field><t pos="V" val="TV"> schwingen</t></tg></mg></e>
+<e><lg><l pos="V">ювномс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="IV">wehen</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><domain domain="Agriculture"/><t pos="V" val="TV"> schwingen</t></tg></mg></e>
 <e><lg><l pos="V">юводемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V">sieben vt</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV">filtrieren</t></tg></mg></e>
 <e><lg><l pos="V">юксевемс</l></lg><mg><tg xml:lang="deu"><t pos="V" val="TV">abknoten</t>,<t pos="V" val="TV">aufknüpfen</t></tg></mg></e>
 <e><lg><l pos="V">юксемс</l></lg><mg arabNo="one"><tg xml:lang="deu"><t pos="V" val="TV">lösen</t>,<t pos="V" val="TV">losbinden</t>;<t pos="V" val="TV">aufschnüren</t></tg></mg> <mg arabNo="two"><tg xml:lang="deu"><t pos="V" val="TV">aufknöpfen</t></tg></mg></e>
