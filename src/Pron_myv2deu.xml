@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
-<e><lg><l pos="Pron">весе</l></lg><mg><tg xml:lang="deu"><t pos="Pron">alle</t></tg></mg><mg><tg xml:lang="deu"><t pos="Pron">alles</t></tg></mg></e>
-<e><lg><l pos="Pron">веседе</l></lg><mg><tg xml:lang="deu"><t pos="Pron">über alle;</t></tg></mg></e>
-<e><lg><l pos="Pron">весемеде</l></lg><mg><tg xml:lang="deu"><t pos="Pron">über alles (alle)</t></tg></mg></e>
-<e><lg><l pos="Pron">кие</l></lg><mg><tg xml:lang="deu"><t pos="Pron">wer</t></tg></mg></e>
-<e><lg><l pos="Pron">мезень-бути</l></lg><mg><tg xml:lang="deu"><t pos="Pron">irgendein</t></tg></mg></e>
-<e><lg><l pos="Pron">минек</l></lg><mg><tg xml:lang="deu"><t pos="Pron">unser</t></tg></mg></e>
-<e><lg><l pos="Pron">минсь</l></lg><mg><tg xml:lang="deu"><t pos="Pron">wir selbst</t></tg></mg></e>
-<e><lg><l pos="Pron">минь</l></lg><mg><tg xml:lang="deu"><t pos="Pron">wir</t></tg></mg></e>
-<e><lg><l pos="Pron">мон</l></lg><mg><tg xml:lang="deu"><t pos="Pron">ich</t></tg></mg></e>
-<e><lg><l pos="Pron">монсь</l></lg><mg><tg xml:lang="deu"><t pos="Pron">ich selbst</t></tg></mg></e>
-<e><lg><l pos="Pron">нетне</l></lg><mg><tg xml:lang="deu"><t pos="Pron">diese</t><t pos="Pron">jene</t></tg></mg></e>
-<e><lg><l pos="Pron">секе</l></lg><mg><tg xml:lang="deu"><t pos="Pron">jener</t></tg></mg></e>
-<e><lg><l pos="Pron">сон</l></lg><mg><tg xml:lang="deu"><t pos="Pron">er</t><t pos="Pron">sie</t><t pos="Pron">es</t></tg></mg></e>
-<e><lg><l pos="Pron">сонсь</l></lg><mg><tg xml:lang="deu"><t pos="Pron">selbst</t><t pos="Pron">selber</t></tg></mg></e>
-<e><lg><l pos="Pron">сынь</l></lg><mg><tg xml:lang="deu"><t pos="Pron">sie</t></tg></mg></e>
-<e><lg><l pos="Pron">ськамон</l></lg><mg><tg xml:lang="deu"><t pos="Pron">ich allein</t></tg></mg></e>
-<e><lg><l pos="Pron">ськамот</l></lg><mg><tg xml:lang="deu"><t pos="Pron">du allein</t></tg></mg></e>
-<e><lg><l pos="Pron">ськамонзо</l></lg><mg><tg xml:lang="deu"><t pos="Pron">er allein</t><t pos="Pron">sie allein</t><t pos="Pron">es allein</t></tg></mg></e>
-<e><lg><l pos="Pron">ськамонок</l></lg><mg><tg xml:lang="deu"><t pos="Pron">wir allein</t></tg></mg></e>
-<e><lg><l pos="Pron">ськамонк</l></lg><mg><tg xml:lang="deu"><t pos="Pron">ihr allein</t></tg></mg></e>
-<e><lg><l pos="Pron">ськамост</l></lg><mg><tg xml:lang="deu"><t pos="Pron">sie allein</t></tg></mg></e>
-<e><lg><l pos="Pron">та-ки</l></lg><mg><tg xml:lang="deu"><t pos="Pron">jemand;</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Pcle">2.<i>partik</i> doch, trotz alledem</t></tg></mg></e>
-<e><lg><l pos="A">та-кодамо</l></lg><mg><tg xml:lang="deu"><t pos="A">irgendein</t></tg></mg></e>
-<e><lg><l pos="Pron" type="Pers">тень</l></lg><mg><tg xml:lang="deu"><t pos="Pron">mir</t></tg></mg></e>
-<e><lg><l pos="Pron">тень</l></lg><mg><tg xml:lang="deu"><t pos="Pron">den</t><t pos="Pron">diesen</t></tg></mg></e>
-<e><lg><l pos="Pron">теть</l></lg><mg><tg xml:lang="deu"><t pos="Pron">dir</t></tg></mg></e>
-<e><lg><l pos="Pron">тензэ</l></lg><mg><tg xml:lang="deu"><t pos="Pron">ihm</t><t pos="Pron">ihr</t></tg></mg></e>
-<e><lg><l pos="Pron">тенек</l></lg><mg><tg xml:lang="deu"><t pos="Pron">uns</t></tg></mg></e>
-<e><lg><l pos="Pron">тенк</l></lg><mg><tg xml:lang="deu"><t pos="Pron">euch</t></tg></mg></e>
-<e><lg><l pos="Pron">тенст</l></lg><mg><tg xml:lang="deu"><t pos="Pron">ihnen</t></tg></mg></e>
-<e><lg><l pos="Pron">тон</l></lg><mg><tg xml:lang="deu"><t pos="Pron">du</t></tg></mg></e>
-<e><lg><l pos="Pron">тона</l></lg><mg><tg xml:lang="deu"><t pos="Pron">jener</t></tg></mg></e>
-<e><lg><l pos="Pron">тынь</l></lg><mg><tg xml:lang="deu"><t pos="Pron">Ihr</t><t pos="Pron">Sie</t></tg></mg></e>
-<e><lg><l pos="Pron">эсень</l></lg><mg><tg xml:lang="deu"><t pos="Pron" type="refl">mich</t></tg></mg></e>
-<e><lg><l pos="Pron">эсеть</l></lg><mg><tg xml:lang="deu"><t pos="Pron" type="refl">dich</t></tg></mg></e>
-<e><lg><l pos="Pron">эсензэ</l></lg><mg><tg xml:lang="deu"><t pos="Pron" type="refl">sich</t></tg></mg></e>
-<e><lg><l pos="Pron">эсенек</l></lg><mg><tg xml:lang="deu"><t pos="Pron" type="refl">uns</t></tg></mg></e>
-<e><lg><l pos="Pron">эсенк</l></lg><mg><tg xml:lang="deu"><t pos="Pron" type="refl">euch</t></tg></mg></e>
-<e><lg><l pos="Pron">эсест</l></lg><mg><tg xml:lang="deu"><t pos="Pron" type="refl">ihr</t></tg></mg></e>
-<e><lg><l pos="Pron">эськан</l></lg><mg><tg xml:lang="deu"><t pos="Pron">für mich </t></tg></mg></e>
-<e><lg><l pos="Pron">эськат</l></lg><mg><tg xml:lang="deu"><t pos="Pron">für dich </t></tg></mg></e>
-<e><lg><l pos="Pron">эськанзо</l></lg><mg><tg xml:lang="deu"><t pos="Pron">für sich</t></tg></mg></e>
-<e><lg><l pos="Pron">эськанок</l></lg><mg><tg xml:lang="deu"><t pos="Pron">für uns </t></tg></mg></e>
-<e><lg><l pos="Pron">эськанк</l></lg><mg><tg xml:lang="deu"><t pos="Pron">für euch </t></tg></mg></e>
-<e><lg><l pos="Pron">эськаст</l></lg><mg><tg xml:lang="deu"><t pos="Pron"> für sich</t></tg></mg></e>
-<e><lg><l pos="Pron">эрьва</l></lg><mg><tg xml:lang="deu"><t pos="Det">jeder</t><t pos="Det">von jeglicher Art</t></tg></mg></e>
+<e><lg><l pos="Pron">весе</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">alle</t></tg></mg><mg><tg xml:lang="deu"><t pos="Pron">alles</t></tg></mg></e>
+<e><lg><l pos="Pron">веседе</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">über alle;</t></tg></mg></e>
+<e><lg><l pos="Pron">весемеде</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">über alles (alle)</t></tg></mg></e>
+<e><lg><l pos="Pron">кие</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">wer</t></tg></mg></e>
+<e><lg><l pos="Pron">мезень-бути</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">irgendein</t></tg></mg></e>
+<e><lg><l pos="Pron">минек</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">unser</t></tg></mg></e>
+<e><lg><l pos="Pron">минсь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">wir selbst</t></tg></mg></e>
+<e><lg><l pos="Pron">минь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">wir</t></tg></mg></e>
+<e><lg><l pos="Pron">мон</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">ich</t></tg></mg></e>
+<e><lg><l pos="Pron">монсь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">ich selbst</t></tg></mg></e>
+<e><lg><l pos="Pron">нетне</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">diese</t><t pos="Pron">jene</t></tg></mg></e>
+<e><lg><l pos="Pron">секе</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">jener</t></tg></mg></e>
+<e><lg><l pos="Pron">сон</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">er</t><t pos="Pron">sie</t><t pos="Pron">es</t></tg></mg></e>
+<e><lg><l pos="Pron">сонсь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">selbst</t><t pos="Pron">selber</t></tg></mg></e>
+<e><lg><l pos="Pron">сынь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">sie</t></tg></mg></e>
+<e><lg><l pos="Pron">ськамон</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">ich allein</t></tg></mg></e>
+<e><lg><l pos="Pron">ськамот</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">du allein</t></tg></mg></e>
+<e><lg><l pos="Pron">ськамонзо</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">er allein</t><t pos="Pron">sie allein</t><t pos="Pron">es allein</t></tg></mg></e>
+<e><lg><l pos="Pron">ськамонок</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">wir allein</t></tg></mg></e>
+<e><lg><l pos="Pron">ськамонк</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">ihr allein</t></tg></mg></e>
+<e><lg><l pos="Pron">ськамост</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">sie allein</t></tg></mg></e>
+<e><lg><l pos="Pron">та-ки</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">jemand;</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Pcle">2.<i>partik</i> doch, trotz alledem</t></tg></mg></e>
+<e><lg><l pos="A">та-кодамо</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="A">irgendein</t></tg></mg></e>
+<e><lg><l pos="Pron" type="Pers">тень</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">mir</t></tg></mg></e>
+<e><lg><l pos="Pron">тень</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">den</t><t pos="Pron">diesen</t></tg></mg></e>
+<e><lg><l pos="Pron">теть</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">dir</t></tg></mg></e>
+<e><lg><l pos="Pron">тензэ</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">ihm</t><t pos="Pron">ihr</t></tg></mg></e>
+<e><lg><l pos="Pron">тенек</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">uns</t></tg></mg></e>
+<e><lg><l pos="Pron">тенк</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">euch</t></tg></mg></e>
+<e><lg><l pos="Pron">тенст</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">ihnen</t></tg></mg></e>
+<e><lg><l pos="Pron">тон</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">du</t></tg></mg></e>
+<e><lg><l pos="Pron">тона</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">jener</t></tg></mg></e>
+<e><lg><l pos="Pron">тынь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">Ihr</t><t pos="Pron">Sie</t></tg></mg></e>
+<e><lg><l pos="Pron">эсень</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron" type="refl">mich</t></tg></mg></e>
+<e><lg><l pos="Pron">эсеть</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron" type="refl">dich</t></tg></mg></e>
+<e><lg><l pos="Pron">эсензэ</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron" type="refl">sich</t></tg></mg></e>
+<e><lg><l pos="Pron">эсенек</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron" type="refl">uns</t></tg></mg></e>
+<e><lg><l pos="Pron">эсенк</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron" type="refl">euch</t></tg></mg></e>
+<e><lg><l pos="Pron">эсест</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron" type="refl">ihr</t></tg></mg></e>
+<e><lg><l pos="Pron">эськан</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">für mich </t></tg></mg></e>
+<e><lg><l pos="Pron">эськат</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">für dich </t></tg></mg></e>
+<e><lg><l pos="Pron">эськанзо</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">für sich</t></tg></mg></e>
+<e><lg><l pos="Pron">эськанок</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">für uns </t></tg></mg></e>
+<e><lg><l pos="Pron">эськанк</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron">für euch </t></tg></mg></e>
+<e><lg><l pos="Pron">эськаст</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Pron"> für sich</t></tg></mg></e>
+<e><lg><l pos="Pron">эрьва</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">jeder</t><t pos="Det">von jeglicher Art</t></tg></mg></e>
 </r>

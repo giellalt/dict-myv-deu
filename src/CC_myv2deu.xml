@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
-<e><lg><l pos="CC">а</l></lg><mg><tg xml:lang="deu"><t pos="CC">und</t></tg><xg><x>тесэ веле, а тосо пакся</x><xt> hier ist ein Dorf und dort ein Feld; </xt></xg><xg><x>паряк, ванды молян лекцияв, а седе мейле библиотекав</x><xt> morgen gehe ich vielleicht zur Vorlesung und dann in die Bibliothek; </xt></xg><xg><x>васня вадрясто ловнык стихенть, а мейле тонавтник</x><xt> lies zuerst das Gedicht gut durch und nachher erlerne es</xt></xg></mg><mg><tg xml:lang="deu"><t pos="CC">aber</t></tg> <xg><x>мон учинь сонзэ, а сон эзь са</x><xt> ich wartete auf ihn, aber er kam nicht </xt></xg><xg><x>мон туян, а тон кадоват</x><xt> ich gehe weg, aber du bleibst </xt></xg></mg><mg><tg xml:lang="deu"><t pos="CC">sondern (nach der Negation)</t></tg><xg><x>сон аволь студент, а рабочей</x><xt> er ist kein Student, sondern Arbeiter</xt></xg></mg></e>
-<e><lg><l pos="CC">ды</l></lg><mg><tg xml:lang="deu"><t pos="CC">und</t></tg></mg><mg><tg xml:lang="deu"><t pos="CC">aber</t></tg></mg></e>
-<e><lg><l pos="CC">ли</l></lg><mg><tg xml:lang="deu"><t pos="CC">oder</t></tg></mg></e>
-<e><lg><l pos="CC">но</l></lg><mg><tg xml:lang="deu"><t pos="CC">aber</t><t pos="CC">sondern (nach der Negation)</t></tg></mg></e>
+<e><lg><l pos="CC">а</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="CC">und</t></tg><xg><x>тесэ веле, а тосо пакся</x><xt> hier ist ein Dorf und dort ein Feld; </xt></xg><xg><x>паряк, ванды молян лекцияв, а седе мейле библиотекав</x><xt> morgen gehe ich vielleicht zur Vorlesung und dann in die Bibliothek; </xt></xg><xg><x>васня вадрясто ловнык стихенть, а мейле тонавтник</x><xt> lies zuerst das Gedicht gut durch und nachher erlerne es</xt></xg></mg><mg><tg xml:lang="deu"><t pos="CC">aber</t></tg> <xg><x>мон учинь сонзэ, а сон эзь са</x><xt> ich wartete auf ihn, aber er kam nicht </xt></xg><xg><x>мон туян, а тон кадоват</x><xt> ich gehe weg, aber du bleibst </xt></xg></mg><mg><tg xml:lang="deu"><t pos="CC">sondern (nach der Negation)</t></tg><xg><x>сон аволь студент, а рабочей</x><xt> er ist kein Student, sondern Arbeiter</xt></xg></mg></e>
+<e><lg><l pos="CC">ды</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="CC">und</t></tg></mg><mg><tg xml:lang="deu"><t pos="CC">aber</t></tg></mg></e>
+<e><lg><l pos="CC">ли</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="CC">oder</t></tg></mg></e>
+<e><lg><l pos="CC">но</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="CC">aber</t><t pos="CC">sondern (nach der Negation)</t></tg></mg></e>
 <e><lg><l pos="CC">эли</l></lg>
- <mg><tg xml:lang="deu"><t pos="CC">oder</t></tg></mg>
-<mg><tg xml:lang="deu"><t pos="Adv">wircklich</t></tg></mg>
+ <mg relId="0"><tg xml:lang="deu"><t pos="CC">oder</t></tg></mg>
 </e>
 </r>

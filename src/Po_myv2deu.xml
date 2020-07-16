@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
-<e><lg><l pos="Po">нучк</l></lg><mg><tg xml:lang="deu">
+<e><lg><l pos="Po">нучк</l></lg><mg relId="0"><tg xml:lang="deu">
 <t pos="Pr" gov="A">querdurch</t>
 <t pos="Pr" gov="A">querüber</t>
 </tg></mg></e>
@@ -10,7 +10,7 @@
    <lg>
      <l pos="Po">алга</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">unter</t>
      </tg>
@@ -20,7 +20,7 @@
    <lg>
      <l pos="Po">ёно</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D,A">auf</t>
        <t pos="Pr" gov="D,A">über</t>
@@ -31,7 +31,7 @@
    <lg>
      <l pos="Po">кедьс</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">auf</t>
        <t pos="Pr" gov="A">in</t>
@@ -42,7 +42,7 @@
    <lg>
      <l pos="Po">кедьстэ</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">von</t>
        <t pos="Pr" gov="D">bei</t>
@@ -54,7 +54,7 @@
    <lg>
      <l pos="Po">кедьсэ</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">bei</t>
        <t pos="Pr" gov="D">auf</t>
@@ -66,7 +66,7 @@
    <lg>
      <l pos="Po">кис</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">für</t>
      </tg>
@@ -76,7 +76,7 @@
    <lg>
      <l pos="Po">кувалт</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t>der Länge nach</t>
        <t pos="Pr">längs</t>
@@ -98,7 +98,7 @@
    <lg>
      <l pos="Po">лангс</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">auf</t>
      </tg>
@@ -108,7 +108,7 @@
    <lg>
      <l pos="Po">лангсо</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">auf</t>
      </tg>
@@ -118,7 +118,7 @@
    <lg>
      <l pos="Po">марто</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">mit</t>
      </tg>
@@ -128,7 +128,7 @@
    <lg>
      <l pos="Po">пелев</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">in</t>
      </tg>
@@ -143,7 +143,7 @@
    <lg>
      <l pos="Po">пельде</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">von</t>
      </tg>
@@ -153,7 +153,7 @@
    <lg>
      <l pos="Po">перька</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">um</t>
        <t>um … herum:</t>
@@ -167,7 +167,7 @@
    <lg>
      <l pos="Po">таркас</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr">statt</t>
        <t pos="Pr">anstatt</t>
@@ -178,7 +178,7 @@
    <lg>
      <l pos="Po">туртов</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">für</t>
      </tg>
@@ -188,7 +188,7 @@
    <lg>
      <l pos="Po">удало</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">hinter</t>
      
@@ -201,7 +201,7 @@
    <lg>
      <l pos="Po">удалов</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">hinter</t>
      
@@ -215,7 +215,7 @@
    <lg>
      <l pos="Po">эзга</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">durch</t>
      
@@ -229,7 +229,7 @@
    <lg>
      <l pos="Po">эзда</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Adv">von jemandem zu jemandem</t>
        <t pos="Adv">von etwas zu etwas</t>
@@ -240,7 +240,7 @@
    <lg>
      <l pos="Po">эземс</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="G">statt</t>
        <t pos="Pr" gov="G">anstatt</t>
@@ -256,7 +256,7 @@
    <lg>
      <l pos="Po">экшсэ</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">um</t>
      
@@ -270,7 +270,7 @@
    <lg>
      <l pos="Po">эйс</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">in</t>
        <t pos="Pr" gov="D">zu</t>
@@ -287,7 +287,7 @@
    <lg>
      <l pos="Po">эйстэ</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">aus</t>
      <xg><x>варянть эйстэ</x>
@@ -304,7 +304,7 @@
    <lg>
      <l pos="Po">эйсэ</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="D">in</t>
      
@@ -318,7 +318,7 @@
    <lg>
      <l pos="Po">ютков</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr" gov="A">in</t>
        <t pos="Pr" gov="D">nach</t>
@@ -329,7 +329,7 @@
    <lg>
      <l pos="Po">юткова</l>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="deu">
        <t pos="Pr">zwischen</t>
        <t pos="Pr">unter</t>

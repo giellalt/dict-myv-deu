@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
-<e><lg><l pos="Descr">юв-яв</l></lg><mg><tg xml:lang="deu"><t pos="Adv">von Zeit zu Zeit</t><t pos="Adv">zeitweise</t><t pos="Adv">hin und wieder</t><t pos="Adv">bisweilen</t><t pos="Adv">zuweilen</t><xg><x>юв-яв кармась прамо лов</x><xt>zeitweise schneit es</xt></xg></tg></mg></e>
-<e><lg><l pos="Descr">авол-увол</l></lg><mg><tg xml:lang="deu"><t pos="Adv">watschelnd</t><xg><x>авол-увол якамс</x><xt> watscheln <val>vi</val> <auxV>s, h</auxV></xt></xg><xg><x>авол-увол совась кудов</x><xt> watschelnd betrat er das Haus;</xt></xg></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">nachlässig</t><xg><x>авол-увол теизе тевензэ</x><xt> nachlässig erfüllte er seine Arbeit </xt></xg></tg></mg></e>
-<e><lg><l pos="Descr">ангор-унгор</l></lg><mg><tg xml:lang="deu"><t pos="Adv">mit Gefräßigkeit</t></tg></mg></e>
-<e><lg><l pos="Descr">ашолк</l></lg><mg><tg xml:lang="deu"><t/><xg><x>ашолк молемс</x>
+<e><lg><l pos="Descr">юв-яв</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Adv">von Zeit zu Zeit</t><t pos="Adv">zeitweise</t><t pos="Adv">hin und wieder</t><t pos="Adv">bisweilen</t><t pos="Adv">zuweilen</t><xg><x>юв-яв кармась прамо лов</x><xt>zeitweise schneit es</xt></xg></tg></mg></e>
+<e><lg><l pos="Descr">авол-увол</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Adv">watschelnd</t><xg><x>авол-увол якамс</x><xt> watscheln <val>vi</val> <auxV>s, h</auxV></xt></xg><xg><x>авол-увол совась кудов</x><xt> watschelnd betrat er das Haus;</xt></xg></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">nachlässig</t><xg><x>авол-увол теизе тевензэ</x><xt> nachlässig erfüllte er seine Arbeit </xt></xg></tg></mg></e>
+<e><lg><l pos="Descr">ангор-унгор</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Adv">mit Gefräßigkeit</t></tg></mg></e>
+<e><lg><l pos="Descr">ашолк</l></lg><mg relId="0"><tg xml:lang="deu"><t/><xg><x>ашолк молемс</x>
 <xt>weiß schimmern</xt>
 <xt>weiß schillern</xt>
 <xt>weiß scheinen</xt>
 </xg></tg></mg></e>
-<e><lg><l pos="Descr">ацор-уцор</l></lg><mg><tg xml:lang="deu"><t pos="Adv">mit Lärm</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">plump, linkisch </t></tg></mg></e>
-<e><lg><l pos="Descr">авцор-увцор</l></lg><mg><range>umgsp.</range><tg xml:lang="deu"><t pos="Adv">plump</t><t pos="Adv">linkisch</t><t pos="Adv">ungeschikt;</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">packend</t><t pos="Adv">schnell</t><xg><x>авцор-увцор молемс</x><xt> plump gehen</xt></xg><xg><x>авцор-увцор пурнынзе авась эсензэ вещанзо</x><xt> packend (schnell) ergriff die Frau ihre Sachen </xt></xg></tg></mg></e>
+<e><lg><l pos="Descr">ацор-уцор</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Adv">mit Lärm</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">plump, linkisch </t></tg></mg></e>
+<e><lg><l pos="Descr">авцор-увцор</l></lg><mg relId="0"><range>umgsp.</range><tg xml:lang="deu"><t pos="Adv">plump</t><t pos="Adv">linkisch</t><t pos="Adv">ungeschikt;</t></tg></mg> <mg><tg xml:lang="deu"><t pos="Adv">packend</t><t pos="Adv">schnell</t><xg><x>авцор-увцор молемс</x><xt> plump gehen</xt></xg><xg><x>авцор-увцор пурнынзе авась эсензэ вещанзо</x><xt> packend (schnell) ergriff die Frau ihre Sachen </xt></xg></tg></mg></e>
 </r>

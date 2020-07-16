@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
-<e><lg><l pos="Det">эсь</l></lg><mg><tg xml:lang="deu"><t pos="Det">sein</t></tg></mg></e>
-<e><lg><l pos="Det">эсень</l></lg><mg><tg xml:lang="deu"><t pos="Det">mein</t></tg><xg><x>эсень койсэ</x><xt>meiner Meinung nach</xt></xg></mg></e>
-<e><lg><l pos="Det">эсеть</l></lg><mg><tg xml:lang="deu"><t pos="Det">dein</t></tg><xg><x>эсеть мельсэ теемс</x><xt>nach deinem Wunsch machen</xt></xg></mg></e>
-<e><lg><l pos="Det">эсензэ</l></lg><mg><tg xml:lang="deu"><t pos="Det">sein</t><t pos="Det">ihr</t></tg></mg></e>
-<e><lg><l pos="Det">эсенек</l></lg><mg><tg xml:lang="deu"><t pos="Det">unser</t></tg></mg></e>
-<e><lg><l pos="Det">эсенк</l></lg><mg><tg xml:lang="deu"><t pos="Det">euer</t></tg></mg></e>
-<e><lg><l pos="Det">эсест</l></lg><mg><tg xml:lang="deu"><t pos="Det">ihr</t></tg></mg></e>
+<e><lg><l pos="Det">эсь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">sein</t></tg></mg></e>
+<e><lg><l pos="Det">эсень</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">mein</t></tg><xg><x>эсень койсэ</x><xt>meiner Meinung nach</xt></xg></mg></e>
+<e><lg><l pos="Det">эсеть</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">dein</t></tg><xg><x>эсеть мельсэ теемс</x><xt>nach deinem Wunsch machen</xt></xg></mg></e>
+<e><lg><l pos="Det">эсензэ</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">sein</t><t pos="Det">ihr</t></tg></mg></e>
+<e><lg><l pos="Det">эсенек</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">unser</t></tg></mg></e>
+<e><lg><l pos="Det">эсенк</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">euer</t></tg></mg></e>
+<e><lg><l pos="Det">эсест</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">ihr</t></tg></mg></e>
 <e><lg><l pos="Det">эрьва</l></lg> <mg><tg xml:lang="deu"><t pos="Det">Allerlei</t></tg></mg></e>
-<e><lg><l pos="Det">васенце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der (die, das) erste</t></tg></mg></e>
-<e><lg><l pos="Det">ведьгеменце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der Fünfzigste </t></tg></mg></e>
-<e><lg><l pos="Det">вейксэце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der neunte</t></tg></mg></e>
-<e><lg><l pos="Det">верце</l></lg><mg><tg xml:lang="deu"><t pos="Det"><variants><l_syn>верховной</l_syn></variants></t></tg></mg></e>
-<e><lg><l pos="Det">ветеце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der fünfte</t></tg></mg></e>
-<e><lg><l pos="Det">зяроце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> welcher</t><t pos="Det">welch ein</t><t pos="Det">der wievielte</t><t pos="Det">der wievielste</t></tg></mg></e>
-<e><lg><l pos="Det">кавксоце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der achte</t></tg></mg></e>
-<e><lg><l pos="Det">кемгавксовоце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der achtzehnte</t></tg></mg></e>
-<e><lg><l pos="Det">кемголмовоце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der dreizehnte</t></tg></mg></e>
-<e><lg><l pos="Det">кеменце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der zehnte</t></tg></mg></e>
-<e><lg><l pos="Det">кемзисемгеце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der siebzehnte</t></tg></mg></e>
-<e><lg><l pos="Det">кемнилееце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der vierzehnte</t></tg></mg></e>
-<e><lg><l pos="Det">колмоце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der dritte</t></tg></mg></e>
-<e><lg><l pos="Det">колоньгеменце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der dreißigste </t></tg></mg></e>
-<e><lg><l pos="Det">комсеце</l></lg><mg><tg xml:lang="deu"><t pos="Det">der zwanzigste</t></tg></mg></e>
-<e><lg><l pos="Det">котоце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der sechste</t></tg></mg></e>
-<e><lg><l pos="Det">нилеце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der vierte </t></tg></mg></e>
-<e><lg><l pos="Det">омботькс</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der zweite</t></tg></mg></e>
-<e><lg><l pos="Det">сисемеце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der siebente</t></tg></mg></e>
-<e><lg><l pos="Det">сядоце</l></lg><mg><tg xml:lang="deu"><t pos="Det"> der hundertste</t><xg><x>сядоце номер</x><xt>der hunderste Nummer</xt></xg></tg></mg></e>
-<e><lg><l pos="Det">удалце</l></lg><mg><tg xml:lang="deu"><t pos="A">hinter</t><t pos="Det">Hinter<hyph>//</hyph></t><t pos="A">rückwärts/gelegen;</t></tg></mg> <mg><tg xml:lang="deu"><t pos="N">der (die, das) letzte</t></tg></mg></e>
+<e><lg><l pos="Det">васенце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der (die, das) erste</t></tg></mg></e>
+<e><lg><l pos="Det">ведьгеменце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der Fünfzigste </t></tg></mg></e>
+<e><lg><l pos="Det">вейксэце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der neunte</t></tg></mg></e>
+<e><lg><l pos="Det">верце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"><variants><l_syn>верховной</l_syn></variants></t></tg></mg></e>
+<e><lg><l pos="Det">ветеце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der fünfte</t></tg></mg></e>
+<e><lg><l pos="Det">зяроце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> welcher</t><t pos="Det">welch ein</t><t pos="Det">der wievielte</t><t pos="Det">der wievielste</t></tg></mg></e>
+<e><lg><l pos="Det">кавксоце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der achte</t></tg></mg></e>
+<e><lg><l pos="Det">кемгавксовоце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der achtzehnte</t></tg></mg></e>
+<e><lg><l pos="Det">кемголмовоце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der dreizehnte</t></tg></mg></e>
+<e><lg><l pos="Det">кеменце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der zehnte</t></tg></mg></e>
+<e><lg><l pos="Det">кемзисемгеце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der siebzehnte</t></tg></mg></e>
+<e><lg><l pos="Det">кемнилееце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der vierzehnte</t></tg></mg></e>
+<e><lg><l pos="Det">колмоце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der dritte</t></tg></mg></e>
+<e><lg><l pos="Det">колоньгеменце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der dreißigste </t></tg></mg></e>
+<e><lg><l pos="Det">комсеце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">der zwanzigste</t></tg></mg></e>
+<e><lg><l pos="Det">котоце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der sechste</t></tg></mg></e>
+<e><lg><l pos="Det">нилеце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der vierte </t></tg></mg></e>
+<e><lg><l pos="Det">омботькс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der zweite</t></tg></mg></e>
+<e><lg><l pos="Det">сисемеце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der siebente</t></tg></mg></e>
+<e><lg><l pos="Det">сядоце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der hundertste</t><xg><x>сядоце номер</x><xt>der hunderste Nummer</xt></xg></tg></mg></e>
+<e><lg><l pos="Det">удалце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="A">hinter</t><t pos="Det">Hinter<hyph>//</hyph></t><t pos="A">rückwärts/gelegen;</t></tg></mg> <mg><tg xml:lang="deu"><t pos="N">der (die, das) letzte</t></tg></mg></e>
 </r>
