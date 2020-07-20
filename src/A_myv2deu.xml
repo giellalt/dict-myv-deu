@@ -449,7 +449,7 @@
        <t pos="A">niedrig</t>
        <t pos="A">tief</t>
      <xg><x>алка тарка</x>
-       <xt> niedrige Stelle</xt>
+       <xt xml:lang="deu"> niedrige Stelle</xt>
      </xg>
      </tg>
    </mg>
@@ -1446,8 +1446,8 @@
      <tg xml:lang="deu">
        <t pos="A">Bank&#x002D;</t>
      <xg><x>банкирэнь кудосо</x>
-       <xt> im Bankhaus</xt>
-       <xt>im Bankgeschäft</xt>
+       <xt xml:lang="deu"> im Bankhaus</xt>
+       <xt xml:lang="deu">im Bankgeschäft</xt>
      </xg>
      </tg>
    </mg>
@@ -1504,7 +1504,7 @@
        <t pos="A">Herren&#x002D;</t>
        <t pos="A">herrschaftlich</t>
      <xg><x>барской усадьбасо</x>
-       <xt> im Herrenhaus</xt>
+       <xt xml:lang="deu"> im Herrenhaus</xt>
      </xg>
      </tg>
    </mg>
@@ -1637,8 +1637,8 @@
      <tg xml:lang="deu">
        <t pos="A">wachsam</t>
      <xg><x>улемс бдительнойкс</x>
-       <xt> wachsam [achtsam] sein</xt>
-       <xt>Auf der Hut sein</xt>
+       <xt xml:lang="deu"> wachsam [achtsam] sein</xt>
+       <xt xml:lang="deu">Auf der Hut sein</xt>
      </xg>
      </tg>
    </mg>
@@ -2264,7 +2264,7 @@
      <tg xml:lang="deu">
        <t pos="A">Sagen&#x002D;</t>
      <xg><x>былинань морот</x>
-       <xt>Sagenlieder <nb>pl</nb></xt>
+       <xt xml:lang="deu">Sagenlieder <nb>pl</nb></xt>
      </xg>
      </tg>
    </mg>
@@ -2465,7 +2465,7 @@
      <tg xml:lang="deu">
        <t pos="A">Bàldrian&#x002D;</t>
      <xg><x>валерьянкань каплят</x>
-       <xt>Bàldriantropfen <nb>pl</nb></xt>
+       <xt xml:lang="deu">Bàldriantropfen <nb>pl</nb></xt>
      </xg>
      </tg>
    </mg>
@@ -3239,13 +3239,13 @@
      <tg xml:lang="deu">
        <t pos="A">recht</t>
      <xg><x>вить кедь</x>
-       <xt> rechte Hand</xt>
+       <xt xml:lang="deu"> rechte Hand</xt>
      </xg>
      <xg><x>вить ёнкс</x>
-       <xt> die rechte Seite</xt>
+       <xt xml:lang="deu"> die rechte Seite</xt>
      </xg>
      <xg><x>вить пеле</x>
-       <xt> auf rechts</xt>
+       <xt xml:lang="deu"> auf rechts</xt>
      </xg>
      </tg>
    </mg>
@@ -3998,7 +3998,7 @@
        <t pos="A">nackt</t>
        <t pos="A">kahl</t>
      <xg><x>голой паксят</x>
-       <xt> kahle Felder</xt>
+       <xt xml:lang="deu"> kahle Felder</xt>
      </xg>
      </tg>
    </mg>
@@ -5021,7 +5021,7 @@
        <t pos="A">Nachzahlungs&#x002D;</t>
        <t pos="A">Zuschlag&#x002D;</t>
      <xg><x>доплатной сёрма</x>
-       <xt> ein Brief mit Nachporto</xt>
+       <xt xml:lang="deu"> ein Brief mit Nachporto</xt>
      </xg>
      </tg>
    </mg>
@@ -5427,7 +5427,7 @@
      <tg xml:lang="deu">
        <t pos="A">in irgendwelche Richtung (gehen</t>
      <xg><x>)</x>
-       <xt></xt>
+       <xt xml:lang="deu"></xt>
      </xg>
      </tg>
    </mg>
@@ -6024,7 +6024,7 @@
      <tg xml:lang="deu">
        <t pos="A">jahrelang</t>
      <xg><x>мон иень-иень эринь Туркусо</x>
-       <xt> Ich lebte jahrelang in Turku</xt>
+       <xt xml:lang="deu"> Ich lebte jahrelang in Turku</xt>
      </xg>
      </tg>
    </mg>
@@ -6573,7 +6573,7 @@
      <tg xml:lang="deu">
        <t pos="A">Juli&#x002D;</t>
      <xg><x>июлень чистэ</x>
-       <xt> am Julitag </xt>
+       <xt xml:lang="deu"> am Julitag </xt>
      </xg>
      </tg>
    </mg>
@@ -8365,7 +8365,7 @@
        <t pos="A">ruhig</t>
        <t pos="A">ohne Regung</t>
      <xg><x>а куш а каш костояк а маряви</x>
-       <xt> tiefe (Ruhe) Stille herrscht überall</xt>
+       <xt xml:lang="deu"> tiefe (Ruhe) Stille herrscht überall</xt>
      </xg>
      </tg>
    </mg>
@@ -9505,7 +9505,7 @@
      <tg xml:lang="deu">
        <t pos="A">Miliorations&#x002D;</t>
      <xg><x>мелиоративной роботат</x>
-       <xt>Miliorationsarbeiten <nb>pl</nb></xt>
+       <xt xml:lang="deu">Miliorationsarbeiten <nb>pl</nb></xt>
      </xg>
      </tg>
    </mg>
@@ -15086,7 +15086,7 @@
      <tg xml:lang="deu">
        <t pos="A">dicht</t>
      <xg><x>сееде вирь</x>
-       <xt> dichter Wald</xt>
+       <xt xml:lang="deu"> dichter Wald</xt>
      </xg>
      </tg>
    </mg>
@@ -17310,7 +17310,7 @@
      <tg xml:lang="deu">
        <t pos="A"><range>umgsp.</range> hiesig</t>
      <xg><x>мон аволь тескень эриця</x>
-       <xt> ich bin kein Hiesiger</xt>
+       <xt xml:lang="deu"> ich bin kein Hiesiger</xt>
      </xg>
      </tg>
    </mg>
@@ -17325,7 +17325,7 @@
        <t pos="A">schmal</t>
        <t pos="A">gedrängt</t>
      <xg><x>тесна карсемапель</x>
-       <xt> enge Schuhe</xt>
+       <xt xml:lang="deu"> enge Schuhe</xt>
      </xg>
      </tg>
    </mg>
@@ -17390,7 +17390,7 @@
        <t pos="A">Sternen&#x002D;</t>
        <t pos="A">gestirnt</t>
      <xg><x>тештев ве</x>
-       <xt> sternklare [sternhelle] Nacht</xt>
+       <xt xml:lang="deu"> sternklare [sternhelle] Nacht</xt>
      </xg>
      </tg>
    </mg>
@@ -18218,7 +18218,7 @@
        <t pos="A">udmurtisch</t>
        <t pos="A">Udmurten&#x002D;</t>
      <xg><x>удмуртонь кель</x>
-       <xt> die Udmurtische Sprache</xt>
+       <xt xml:lang="deu"> die Udmurtische Sprache</xt>
        <xt pos="N" gen="n">das Udmurtische</xt>
      </xg>
      </tg>
@@ -19774,7 +19774,7 @@
      <tg xml:lang="deu">
        <t pos="A">schwedisch</t>
      <xg><x>шведэнь кель</x>
-       <xt> die schwedische Sprache</xt>
+       <xt xml:lang="deu"> die schwedische Sprache</xt>
        <xt pos="N" gen="n">Schwedische</xt>
      </xg>
      </tg>
@@ -19812,7 +19812,7 @@
      <tg xml:lang="deu">
        <t pos="A">leicht</t>
      <xg><x>шожда робота</x>
-       <xt>leichte Arbeit</xt>
+       <xt xml:lang="deu">leichte Arbeit</xt>
      </xg>
      </tg>
    </mg>
@@ -20622,8 +20622,8 @@
        <t pos="A">fremd</t>
        <xg>
 	 <x>ят ломанть</x>
-	 <xt>fremde Menschen</xt>
-	 <xt>fremde Leute</xt>
+	 <xt xml:lang="deu">fremde Menschen</xt>
+	 <xt xml:lang="deu">fremde Leute</xt>
      </xg>
      </tg>
    </mg>

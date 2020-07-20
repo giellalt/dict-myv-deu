@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="myv">
 <e><lg><l pos="Det">эсь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">sein</t></tg></mg></e>
-<e><lg><l pos="Det">эсень</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">mein</t></tg><xg><x>эсень койсэ</x><xt>meiner Meinung nach</xt></xg></mg></e>
-<e><lg><l pos="Det">эсеть</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">dein</t></tg><xg><x>эсеть мельсэ теемс</x><xt>nach deinem Wunsch machen</xt></xg></mg></e>
+<e><lg><l pos="Det">эсень</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">mein</t></tg><xg><x>эсень койсэ</x><xt xml:lang="deu">meiner Meinung nach</xt></xg></mg></e>
+<e><lg><l pos="Det">эсеть</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">dein</t></tg><xg><x>эсеть мельсэ теемс</x><xt xml:lang="deu">nach deinem Wunsch machen</xt></xg></mg></e>
 <e><lg><l pos="Det">эсензэ</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">sein</t><t pos="Det">ihr</t></tg></mg></e>
 <e><lg><l pos="Det">эсенек</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">unser</t></tg></mg></e>
 <e><lg><l pos="Det">эсенк</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det">euer</t></tg></mg></e>
@@ -27,6 +27,6 @@
 <e><lg><l pos="Det">нилеце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der vierte </t></tg></mg></e>
 <e><lg><l pos="Det">омботькс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der zweite</t></tg></mg></e>
 <e><lg><l pos="Det">сисемеце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der siebente</t></tg></mg></e>
-<e><lg><l pos="Det">сядоце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der hundertste</t><xg><x>сядоце номер</x><xt>der hunderste Nummer</xt></xg></tg></mg></e>
+<e><lg><l pos="Det">сядоце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="Det"> der hundertste</t><xg><x>сядоце номер</x><xt xml:lang="deu">der hunderste Nummer</xt></xg></tg></mg></e>
 <e><lg><l pos="Det">удалце</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="A">hinter</t><t pos="Det">Hinter<hyph>//</hyph></t><t pos="A">rückwärts/gelegen;</t></tg></mg> <mg><tg xml:lang="deu"><t pos="N">der (die, das) letzte</t></tg></mg></e>
 </r>
