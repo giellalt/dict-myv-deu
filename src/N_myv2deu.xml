@@ -786,7 +786,7 @@
 <e><lg><l pos="N">брижа</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Wall</t><t pos="N" gen="m" contlex="s1m">Erdwall</t></tg></mg></e>
 <e><lg><l pos="N">брижамо</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f">Einfassung</t><t pos="N" gen="n" contlex="s6n-SG">Einfassen</t><t pos="N" gen="n" contlex="s6n-SG">Paspelieren</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f">Einfassung</t><t>Paspel</t><t pos="N" gen="m">Vorstoß</t></tg></mg></e>
 <e><lg><l pos="N">брикет</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="AUTOn">Brikett</t><t pos="N" gen="f" contlex="w2f">Preßkohle</t></tg></mg></e>
-<e><lg><l pos="N">бриллиант</l></lg><mg relId="0"><tg xml:lang="deu"><t>Brillant</t><re>geschliffener</re></tg><tg><t pos="N" gen="m" contlex="w2m">Diamant</t></tg></mg></e>
+<e><lg><l pos="N">бриллиант</l></lg><mg relId="0"><tg xml:lang="deu"><t>Brillant</t><re>geschliffener</re></tg><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Diamant</t></tg></mg></e>
 <e><lg><l pos="N">бринцядема</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Schlag</t><t pos="N" gen="m" contlex="s4m">Hieb</t><t pos="N" gen="m" contlex="s4m">Streich</t><t pos="N" gen="m" contlex="s4m">Klaps</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Stoß</t><t pos="N" gen="m" contlex="s1m">Anstoß</t><t pos="N" gen="m" contlex="s4m">Anprall</t></tg></mg></e>
 <e><lg><l pos="N">бритва</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Rasiermesser</t></tg></mg></e>
 <e><lg><l pos="N">брод</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Furt</t></tg></mg></e>
@@ -1979,8 +1979,8 @@
 <e><lg><l pos="N">замша</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n">Wildleder</t></tg></mg></e>
 <e><lg><l pos="N">занавеска</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Vorhang</t><t pos="N" gen="f" contlex="w2f">Gardine</t></tg></mg></e>
 <e><lg><l pos="N">занятия</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Beschäftigung</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Unterrichtsstunde</t></tg></mg></e>
-<e><lg><l pos="N">запас</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Vorrat</t><re>an D</re></tg><tg><t pos="N" gen="m" contlex="s1m">Bestand</t></tg></mg></e>
-<e><lg><l pos="N">записка</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Zettel</t><re>schriftliche</re></tg><tg><t pos="N" gen="f" contlex="w2f">Nachricht</t></tg></mg></e>
+<e><lg><l pos="N">запас</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Vorrat</t><re>an D</re></tg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Bestand</t></tg></mg></e>
+<e><lg><l pos="N">записка</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Zettel</t><re>schriftliche</re></tg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Nachricht</t></tg></mg></e>
 <e><lg><l pos="N">запись</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Notiz</t><t pos="N" gen="f" contlex="w2f">Aufzeichung</t></tg></mg></e>
 <e><lg><l pos="N">заповедник</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Naturschutzgebiet</t></tg></mg></e>
 <e><lg><l pos="N">заповедь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Gebot</t></tg></mg></e>
@@ -2522,7 +2522,7 @@
 <e><lg><l pos="N">кемкочкаря</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Absatz</t></tg></mg></e>
 <e><lg><l pos="N">кемельдявкс</l></lg><mg relId="0"><tg xml:lang="deu"><range>umgsp.</range><t pos="N" gen="n" contlex="s6n-SG€">Annähen</t><t pos="N" gen="n" contlex="s6n-SG€">Durchnähen</t></tg></mg></e>
 <e><lg><l pos="N">кемема</l><drvg><inflect type="V»N"/></drvg></lg><mg relId="0"><tg xml:lang="deu">von <b>кемемс</b></tg></mg></e>
-<e><lg><l pos="N">кемема тарка</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Haffnung</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f">Zuversicht</t></tg><tg><t>Glaube</t><re>an A</re></tg></mg></e>
+<e><lg><l pos="N">кемема тарка</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Haffnung</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f">Zuversicht</t></tg><tg xml:lang="deu"><t>Glaube</t><re>an A</re></tg></mg></e>
 <e><lg><l pos="N">кемечи</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f-SG€">Festigkeit</t><t pos="N" gen="f">Dauerhaftigkeit</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f">Stärke</t></tg></mg></e>
 <e><lg><l pos="N">кенгелема</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f-SG€">Faulheit</t><t pos="N" gen="f" contlex="w2f">Lüge</t><t pos="N" gen="f" contlex="w2f-SG€">Trägheit</t><t pos="N" gen="f" contlex="w2f">Unwahrheit</t></tg></mg></e>
 <e><lg><l pos="N">кенде</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Filz</t></tg></mg></e>
@@ -2629,7 +2629,7 @@
 <e><lg><l pos="N">кияло</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="s5f">Schwiegertochter</t></tg></mg></e>
 <e><lg><l pos="N">клавиш</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Taste</t></tg></mg></e>
 <e><lg><l pos="N">клад</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Schatz</t></tg></mg></e>
-<e><lg><l pos="N">кладовой</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Lager</t><t pos="N" gen="f" contlex="w2f">Niederlage</t><re>für Waren</re></tg><tg><t pos="N" gen="f" contlex="w2f">Speisekammer</t></tg></mg></e>
+<e><lg><l pos="N">кладовой</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Lager</t><t pos="N" gen="f" contlex="w2f">Niederlage</t><re>für Waren</re></tg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Speisekammer</t></tg></mg></e>
 <e><lg><l pos="N">кладовщик</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Lagerverwalter</t></tg></mg></e>
 <e><lg><l pos="N">класс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Klasse</t></tg></mg></e>
 <e><lg><l pos="N">классик</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Klassiker</t></tg></mg></e>
@@ -3414,7 +3414,7 @@
 <e><lg><l pos="N">машиностроения</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m">Maschinenbau</t><t>Schwermaschinenbau</t></tg></mg></e>
 <e><lg><l pos="N">маштома</l></lg><mg relId="0"><tg xml:lang="deu"><rom>I</rom><t pos="N" gen="m" contlex="s4m">Mord</t><t pos="N" gen="f" contlex="w2f">Ermordung</t><t pos="N" gen="m" contlex="s1m">Totschlag</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Abnahme</t></tg></mg><mg relId="2"><tg xml:lang="deu"><t pos="N" gen="n">Ende</t><t pos="N" gen="m" contlex="s1m">Schluss</t><t pos="N" gen="m" contlex="s1m">Abschluss</t><t pos="N" gen="n" contlex="AUTOn">Finale</t></tg></mg></e>
 <e><lg><l pos="N">эсь прянь маштома</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Selbstmord</t></tg></mg></e>
-<e><lg><l pos="N">маштома</l></lg><mg relId="0"><tg xml:lang="deu"><rom>II</rom><t pos="N" gen="f" contlex="w2f">Fahigkeit</t><re>etw. zu tun</re></tg><tg><t pos="N" gen="f" contlex="w2f">Fertigkeit</t></tg><tg><t pos="N" gen="f" contlex="w2f">Begabung</t><re>für A</re></tg></mg></e>
+<e><lg><l pos="N">маштома</l></lg><mg relId="0"><tg xml:lang="deu"><rom>II</rom><t pos="N" gen="f" contlex="w2f">Fahigkeit</t><re>etw. zu tun</re></tg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Fertigkeit</t></tg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Begabung</t><re>für A</re></tg></mg></e>
 <e><lg><l pos="N">маштыкс</l></lg><mg relId="0"><tg xml:lang="deu"><domain domain="Medicine"/><t pos="N" gen="n" contlex="s6n">Fieber</t><t pos="N" gen="n" contlex="s6n">Nesselfieber</t>gelbes Fieber<t pos="N" gen="n" contlex="s6n">Wechselfieber</t></tg></mg></e>
 <e><lg><l pos="N">маяк</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Leuchtturm</t><t pos="N" gen="n" contlex="s6n">Leuchtfeuer</t><t pos="N" gen="n" contlex="s4n">Leuchtschift</t><t pos="N" gen="m" contlex="s6m">Wegweiser</t><t pos="N" gen="m" contlex="s6m">Einweiser</t><t pos="N" gen="m" contlex="s6m">Einweiserposten</t></tg></mg></e>
 <e><lg><l pos="N">маятник</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Pendel</t><t pos="N" gen="n" contlex="s6n">Perpendikel</t></tg></mg></e>
@@ -4823,7 +4823,7 @@
 <e><lg><l pos="N">приказания</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Befehl</t><t pos="N" gen="f" contlex="w2f">Anordnung</t><t pos="N" gen="n">Geheiß</t><t pos="N" gen="n">Gebot</t></tg></mg></e>
 <e><lg><l pos="N">приказчик</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="w2m">Handlungsgehilfe</t><t pos="N" gen="m" contlex="s6m">Verkäufer</t><range>umgsp.</range><t pos="N" gen="m" contlex="s6m">Ladenschwengel</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t>Gutsverwalter</t></tg></mg></e>
 <e><lg><l pos="N">приклад</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Kolben</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Zutat</t></tg></mg></e>
-<e><lg><l pos="N">приключения</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Abenteuer</t><re>ungewöhnliches</re></tg><tg><t pos="N" gen="n">Ereignis</t></tg></mg></e>
+<e><lg><l pos="N">приключения</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s6n">Abenteuer</t><re>ungewöhnliches</re></tg><tg xml:lang="deu"><t pos="N" gen="n">Ereignis</t></tg></mg></e>
 <e><lg><l pos="N">прилавка</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Ladentisch</t><t pos="N" gen="f" contlex="w2f">Verkaufstheke</t><t pos="N" gen="f" contlex="w2f">Theke</t></tg></mg></e>
 <e><lg><l pos="N">прилив</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Flut</t></tg></mg></e>
 <e><lg><l pos="N">примамо</l><drvg><inflect type="V»N"/></drvg></lg><mg relId="0"><tg xml:lang="deu">von <b>примамс</b></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Annahme</t><t pos="N" gen="f" contlex="w2f">Einnahme</t><t pos="N" gen="m" contlex="s1m">Empfang</t></tg></mg></e>
@@ -4882,7 +4882,7 @@
 <e><lg><l pos="N">проигрыш</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Verlust</t><t pos="N" gen="n" contlex="s6n-SG€">Verlieren</t>verlorenes Spiel</tg></mg></e>
 <e><lg><l pos="N">произведения</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Werk</t><t pos="N" gen="n">Erzeugnis</t></tg></mg><mg relId="1"><tg xml:lang="deu"><domain domain="Mathematics"/><t pos="N" gen="n" contlex="s4n">Produkt</t></tg></mg></e>
 <e><lg><l pos="N">производитель</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Hersteller</t><t pos="N" gen="m" contlex="w2m">Produzent</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s4n">Zuchttier</t></tg></mg></e>
-<e><lg><l pos="N">производительность</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f">Produktivität</t><t>Leistungs [Ertrags]fähigkeit</t></tg><tg><domain domain="Agriculture"/><t pos="N" gen="f">Ergiebigkeit</t></tg></mg></e>
+<e><lg><l pos="N">производительность</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f">Produktivität</t><t>Leistungs [Ertrags]fähigkeit</t></tg><tg xml:lang="deu"><domain domain="Agriculture"/><t pos="N" gen="f">Ergiebigkeit</t></tg></mg></e>
 <e><lg><l pos="N">производства</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f">Erzeugung</t><t pos="N" gen="f">Produktion</t><t pos="N" gen="f">Herstellung</t><t pos="N" gen="m">Fertigungsprozess</t></tg></mg></e>
 <e><lg><l pos="N">произвол</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f">Willkür</t><t pos="N" gen="f" contlex="w2f">Eigenmächtigkeit</t></tg></mg></e>
 <e><lg><l pos="N">происшествия</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Vorfall</t></tg></mg></e>
@@ -5274,7 +5274,7 @@
 <e><lg><l pos="N">рой</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Schwarm</t></tg></mg></e>
 <e><lg><l pos="N">роль</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Rolle</t></tg></mg></e>
 <e><lg><l pos="N">ром</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="AUTOn">Rum</t></tg></mg></e>
-<e><lg><l pos="N">роман</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Roman</t><t pos="N" gen="n" contlex="s4n">Romanwerk</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Roman</t><re>Liebesverhältnisse</re></tg><tg><t pos="N" gen="f" contlex="w2f">Liebesgeschichte</t></tg></mg></e>
+<e><lg><l pos="N">роман</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s4m">Roman</t><t pos="N" gen="n" contlex="s4n">Romanwerk</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Roman</t><re>Liebesverhältnisse</re></tg><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Liebesgeschichte</t></tg></mg></e>
 <e><lg><l pos="N">романс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Lied</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Romanze</t></tg></mg></e>
 <e><lg><l pos="N">романтизма</l></lg><mg relId="0"><tg xml:lang="deu"><domain domain="Literature"/><t pos="N" gen="f">Romantik</t></tg></mg><mg relId="1"><tg xml:lang="deu"><def>übertr.</def><t pos="N" gen="f">Romantik</t><t pos="N" gen="n">Romantische</t></tg></mg></e>
 <e><lg><l pos="N">романтик</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Romantiker</t><t pos="N" gen="m" contlex="s6m">Träumer</t><t pos="N" gen="m" contlex="s6m">Schwärmer</t></tg></mg></e>
@@ -5490,7 +5490,7 @@
 <e><lg><l pos="N">сельмаг</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Landverkaufsstelle</t><t pos="N" gen="n" contlex="s2n">Landkaufhaus</t></tg></mg></e>
 <e><lg><l pos="N">сельме</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n">Auge</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="N" gen="m" def="übertr." contlex="s4m">Blick</t></tg></mg></e>
 <e><lg><l pos="N">сельмеава</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Pupille</t></tg></mg></e>
-<e><lg><l pos="N">сельмеашо</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n">Weiße</t><re>des Auges</re></tg><tg><t pos="N" gen="f">Sklera</t></tg></mg></e>
+<e><lg><l pos="N">сельмеашо</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n">Weiße</t><re>des Auges</re></tg><tg xml:lang="deu"><t pos="N" gen="f">Sklera</t></tg></mg></e>
 <e><lg><l pos="N">сельмеваря</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Augenhöhle</t></tg></mg></e>
 <e><lg><l pos="N">сельмекерь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="n" contlex="s2n">Augenlid</t></tg></mg></e>
 <e><lg><l pos="N">сельмепона</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Augenwimper</t></tg></mg></e>
@@ -6763,7 +6763,7 @@
 <e><lg><l pos="N">цикория</l></lg><mg relId="0"><tg xml:lang="deu"><domain domain="Botany"/><t pos="N" gen="f" contlex="w2f">Zichorie</t></tg></mg></e>
 <e><lg><l pos="N">цилигай</l></lg><mg relId="0"><tg xml:lang="deu"><domain domain="Zoology"/><t pos="N" gen="m" contlex="s4m">Kiebitz</t></tg></mg></e>
 <e><lg><l pos="N">цилим</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="f" contlex="w2f">Pfeife</t><t pos="N" gen="f" contlex="w2f">Tabakspfeife</t></tg></mg></e>
-<e><lg><l pos="N">цилимпей</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Eckzahn</t><re>beim Menschen</re></tg><tg><t pos="N" gen="m" contlex="s1m">Stoßzahn</t><re>bei Tieren</re></tg></mg></e>
+<e><lg><l pos="N">цилимпей</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Eckzahn</t><re>beim Menschen</re></tg><tg xml:lang="deu"><t pos="N" gen="m" contlex="s1m">Stoßzahn</t><re>bei Tieren</re></tg></mg></e>
 <e><lg><l pos="N">цилиндра</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Zylinder</t></tg></mg></e>
 <e><lg><l pos="N">цимболкс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m">Glanz</t><t pos="N" gen="n" contlex="s6n-SG€">Leuchten</t><t pos="N" gen="n" contlex="s6n-SG€">Flimmern</t></tg></mg></e>
 <e><lg><l pos="N">циндерь</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="N" gen="m" contlex="s6m">Riegel</t></tg></mg><mg relId="1"><tg xml:lang="deu"><domain domain="Technology"/><t pos="N" gen="f" contlex="w2f">Klinke</t></tg></mg></e>
