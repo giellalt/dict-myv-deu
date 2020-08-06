@@ -2024,7 +2024,7 @@
 <e><lg><l pos="V">свежалгадомс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="V">sich erfrischen</t><t pos="V">frisch werden</t></tg></mg></e>
 <e><lg><l pos="V">светямс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="V" val="IV">leuchten</t><t pos="V" val="IV">scheinen</t></tg></mg></e>
 <e><lg><l pos="V">свистямс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="V" val="TV">stehlen</t><t pos="V" val="TV">entwenden</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="V" val="TV">festziehen</t></tg></mg><mg relId="2"><tg xml:lang="deu"><t pos="V" val="TV">drücken</t></tg></mg><mg relId="3"><tg xml:lang="deu"><t pos="V" val="TV">fassen</t><t pos="V" val="TV" gov="an A">drücken</t></tg></mg><mg relId="4"><tg xml:lang="deu"><t pos="V" def="übertr." val="TV">schlagen</t></tg></mg></e>
-<e><lg><l pos="V">сёвномс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="V" val="TV">schimpfen</t><t pos="V">sich zanken</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="V" range="umgsp." val="TV">sich streiten</t><t>schmähen</t></tg></mg></e>
+<e><lg><l pos="V">сёвномс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="V" val="TV">schimpfen</t><t pos="V">sich zanken</t></tg></mg><mg relId="1"><tg xml:lang="deu"><t pos="V" range="umgsp." val="TV">sich streiten</t><t pos="V">schmähen</t></tg></mg></e>
 <e><lg><l pos="V">седей петямс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="V">mit Appetit essen</t></tg></mg></e>
 <e><lg><l pos="V">седей марямс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="V" val="TV::IV">mitfühlen</t><t pos="V" val="TV">nachfühlen</t><t pos="V" val="TV">mitleiden</t></tg></mg></e>
 <e><lg><l pos="V">седойгавтомс</l></lg><mg relId="0"><tg xml:lang="deu"><t pos="V">grau [weiß, silbern] machen</t></tg></mg></e>
